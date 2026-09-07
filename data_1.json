@@ -1,0 +1,3404 @@
+{
+  "generatedAt": "2026-09-07",
+  "niches": [
+    {
+      "label": "Автоароматизатор",
+      "category": "Авто-аксессуары",
+      "categoryPath": "Автотовары / Уход за автомобилем",
+      "totalProducts": 4529,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 130000,
+            "price": 43000,
+            "productId": "277124",
+            "rating": 4.8,
+            "reviews": 5780,
+            "title": "Освежитель воздуха для автомобиля Вертолёт",
+            "url": "https://uzum.uz/ru/product/osvezhitel-vozdukha-dlya-avtomobilya-vertolyot-277124"
+          },
+          {
+            "fullPrice": 150000,
+            "price": 52380,
+            "productId": "543875",
+            "rating": 4.6,
+            "reviews": 253,
+            "title": "Освежитель воздуха в машину",
+            "url": "https://uzum.uz/ru/product/osvezhitel-vozdukha-v-mashinu-543875"
+          },
+          {
+            "fullPrice": 147000,
+            "price": 70800,
+            "productId": "322457",
+            "rating": 4.6,
+            "reviews": 144,
+            "title": "Увлажнитель воздуха и ароматизатор для автомобиля и дома, ночник, сухой туман, 300 мл",
+            "url": "https://uzum.uz/ru/product/uvlazhnitel-vozdukha-i-322457"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Блендеры",
+      "category": "Дом и кухня",
+      "categoryPath": "Бытовая техника / Измельчение и смешивание",
+      "totalProducts": 1005,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 790000,
+            "price": 375410,
+            "productId": "323525",
+            "rating": 4.9,
+            "reviews": 76,
+            "title": "Блендер ручной Arshia AS1911-8009, многофункциональный, 3 в 1",
+            "url": "https://uzum.uz/ru/product/blender-ruchnoj-arshia-323525"
+          },
+          {
+            "fullPrice": 700000,
+            "price": 399000,
+            "productId": "354543",
+            "rating": 4.4,
+            "reviews": 34,
+            "title": "Погружной блендер чоппер, миксер Sonifer SF-8013 ручной 4 в 1",
+            "url": "https://uzum.uz/ru/product/pogruzhnoj-blender-chopper-354543"
+          },
+          {
+            "fullPrice": 399000,
+            "price": 229000,
+            "productId": "557195",
+            "rating": 4.9,
+            "reviews": 19,
+            "title": "Ручной блендер ArshiaDubay 2in1 , погружной блендер с чашей объемом 600 мл",
+            "url": "https://uzum.uz/ru/product/ruchnoj-blender-arshiadubay-557195"
+          },
+          {
+            "fullPrice": 1450000,
+            "price": 699000,
+            "productId": "321204",
+            "rating": 4.8,
+            "reviews": 26,
+            "title": "Портативная cоковыжималка свежих фруктов, блендер, кофемолка, 4 в 1",
+            "url": "https://uzum.uz/ru/product/portativnaya-cokovyzhimalka-svezhikh-321204"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Чехлы на сиденья",
+      "category": "Авто-аксессуары",
+      "categoryPath": "Автотовары / Аксессуары и принадлежности",
+      "totalProducts": 1986,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 2000000,
+            "price": 1559990,
+            "productId": "278804",
+            "rating": 4.9,
+            "reviews": 535,
+            "title": "Автомобильные чехлы для сидений CARDINAR ALFA, cobalt, nexia, gentra, onix, tracker, byd",
+            "url": "https://uzum.uz/ru/product/avtomobilnye-chekhly-dlya-278804"
+          },
+          {
+            "fullPrice": 79000,
+            "price": 38560,
+            "productId": "370392",
+            "rating": 4.8,
+            "reviews": 66,
+            "title": "Ортопедическая сетка для сиденья автомобиля и офисного кресла, 1 шт",
+            "url": "https://uzum.uz/ru/product/ortopedicheskaya-setka-dlya-370392"
+          },
+          {
+            "fullPrice": 200000,
+            "price": 59000,
+            "productId": "356638",
+            "rating": 4.8,
+            "reviews": 81,
+            "title": "Органайзер накидка на спинку сиденья автомобиля, защитный чехол",
+            "url": "https://uzum.uz/ru/product/organajzer-nakidka-na-356638"
+          },
+          {
+            "fullPrice": 1500000,
+            "price": 1219990,
+            "productId": "278282",
+            "rating": 4.9,
+            "reviews": 106,
+            "title": "Автомобильные чехлы для сидений CARDINAR PALMA, cobalt, nexia, gentra, onix, tracker, byd",
+            "url": "https://uzum.uz/ru/product/avtomobilnye-chekhly-dlya-278282"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Чехлы для телефонов",
+      "category": "Электроника",
+      "categoryPath": "Электроника / Аксессуары для смартфонов / Чехлы",
+      "totalProducts": 32457,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 39000,
+            "price": 19000,
+            "productId": "253351",
+            "rating": 4.8,
+            "reviews": 1221,
+            "title": "Чехол для iPhone 6s,7,8,SE,XR,XS,11,12,13,14,15Pro,Max,Plus,Mini, прозрачный, силиконовый",
+            "url": "https://uzum.uz/ru/product/chekhol-dlya-iphone-253351"
+          },
+          {
+            "fullPrice": 40000,
+            "price": 24500,
+            "productId": "271493",
+            "rating": 4.9,
+            "reviews": 298,
+            "title": "Чехол Samsung A03/A13/A23/A32/A33/A53/S21/S21+/S21Ultra/S22/S22+/S22Ultra/A14/A24/A34/A54",
+            "url": "https://uzum.uz/ru/product/chekhol-samsung-a03a13a23a32a33a53s21s21s21ultras22s22s22ultraa14a24a34a54-271493"
+          },
+          {
+            "fullPrice": 35000,
+            "price": 11000,
+            "productId": "191376",
+            "rating": 4.9,
+            "reviews": 101,
+            "title": "Силиконовый прозрачный чехол для iPhone, 1.5 мм, с защитой камеры",
+            "url": "https://uzum.uz/ru/product/silikonovyj-prozrachnyj-chekhol-191376"
+          },
+          {
+            "fullPrice": 100000,
+            "price": 9800,
+            "productId": "628653",
+            "rating": 4.8,
+            "reviews": 1575,
+            "title": "Чехол на iPhone 7,8,SE,XS,11,12,13,14,15,16,17,Pro,Max,Plus,айфон Mini,прозрачный, силикон",
+            "url": "https://uzum.uz/ru/product/chekhol-na-iphone-628653"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Держатель телефона в авто",
+      "category": "Авто-аксессуары",
+      "categoryPath": "Автотовары / Аксессуары и принадлежности",
+      "totalProducts": 1077,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 141000,
+            "price": 49900,
+            "productId": "555993",
+            "rating": 4.5,
+            "reviews": 471,
+            "title": "Держатель для телефона в машину, на зеркало заднего вида",
+            "url": "https://uzum.uz/ru/product/derzhatel-dlya-telefona-555993"
+          },
+          {
+            "fullPrice": 170000,
+            "price": 34650,
+            "productId": "351680",
+            "rating": 4.4,
+            "reviews": 26,
+            "title": "Держатель телефона, на зеркало заднего вида",
+            "url": "https://uzum.uz/ru/product/derzhatel-telefona-na-zerkalo-zadnego-vida-351680"
+          },
+          {
+            "fullPrice": 30000,
+            "price": 19990,
+            "productId": "544686",
+            "rating": 4.4,
+            "reviews": 18,
+            "title": "Магнитный держатель телефона для автомобиля Magnet Holder",
+            "url": "https://uzum.uz/ru/product/magnitnyj-derzhatel-telefona-544686"
+          },
+          {
+            "fullPrice": 75000,
+            "price": 49000,
+            "productId": "388944",
+            "rating": 3.7,
+            "reviews": 3,
+            "title": "Держатель для телефона в машину Model cz-3115",
+            "url": "https://uzum.uz/ru/product/derzhatel-dlya-telefona-v-mashinu-model-388944"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Духи и парфюмерия",
+      "category": "Косметика",
+      "categoryPath": "Красота и уход / Парфюмерия",
+      "totalProducts": 6598,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 18000,
+            "price": 11500,
+            "productId": "509459",
+            "rating": 4.9,
+            "reviews": 1338,
+            "title": "Многоразовый флакон для духов, с распылителем, атомайзер, 5, 10, 15, 32 мл",
+            "url": "https://uzum.uz/ru/product/mnogorazovyj-flakon-dlya-509459"
+          },
+          {
+            "fullPrice": 550000,
+            "price": 86330,
+            "productId": "600280",
+            "rating": 3.9,
+            "reviews": 74,
+            "title": "Подарочный набор духов Les Parfumes, для женщин и девочек, 5 в 1",
+            "url": "https://uzum.uz/ru/product/podarochnyj-nabor-dukhov-600280"
+          },
+          {
+            "fullPrice": 100000,
+            "price": 31910,
+            "productId": "435630",
+            "rating": 4.7,
+            "reviews": 754,
+            "title": "Масляные духи для мужчин и женщин, 10 мл",
+            "url": "https://uzum.uz/ru/product/maslyanye-dukhi-dlya-muzhchin-i-zhenschin-435630"
+          },
+          {
+            "fullPrice": 70000,
+            "price": 29000,
+            "productId": "435727",
+            "rating": 4.6,
+            "reviews": 131,
+            "title": "Масляные духи для мужчин и женщин, 10 мл",
+            "url": "https://uzum.uz/ru/product/maslyanye-dukhi-dlya-muzhchin-i-zhenschin-435727"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Фитнес резинка",
+      "category": "Спорт и отдых",
+      "categoryPath": "Спорт и отдых / Фитнес и йога",
+      "totalProducts": 729,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 250000,
+            "price": 66930,
+            "productId": "134671",
+            "rating": 4.6,
+            "reviews": 343,
+            "title": "Фитнес резинки, эспандер ленточный для подтягивания, резиновые петли, разная нагрузка",
+            "url": "https://uzum.uz/ru/product/fitnes-rezinki-espander-134671"
+          },
+          {
+            "fullPrice": 90000,
+            "price": 49100,
+            "productId": "668810",
+            "rating": 4.9,
+            "reviews": 492,
+            "title": "Наколенник эластичный с ремнями для суставов У008-CN-001 бандаж на колено, для спорта, 1 шт",
+            "url": "https://uzum.uz/ru/product/nakolennik-elastichnyj-s-668810"
+          },
+          {
+            "fullPrice": 50000,
+            "price": 29000,
+            "productId": "32091",
+            "rating": 4.9,
+            "reviews": 331,
+            "title": "Эластичная фитнес лента для йоги и пилатеса",
+            "url": "https://uzum.uz/ru/product/elastichnaya-fitnes-lenta-dlya-jogi-i-32091"
+          },
+          {
+            "fullPrice": 50000,
+            "price": 13000,
+            "productId": "659168",
+            "rating": 4.4,
+            "reviews": 46,
+            "title": "Эспандер ленточный для силовых тренировок",
+            "url": "https://uzum.uz/ru/product/espander-lentochnyj-dlya-silovykh-trenirovok-659168"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Футболка мужская",
+      "category": "Одежда",
+      "categoryPath": "Одежда / Мужская одежда",
+      "totalProducts": 26450,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 29000,
+            "price": 29000,
+            "productId": "142241",
+            "rating": 4.6,
+            "reviews": 1241,
+            "title": "Мужская спортивная футболка",
+            "url": "https://uzum.uz/ru/product/muzhskaya-sportivnaya-futbolka-142241"
+          },
+          {
+            "fullPrice": 99000,
+            "price": 59000,
+            "productId": "299303",
+            "rating": 4.8,
+            "reviews": 1727,
+            "title": "Футболка мужская Playowo",
+            "url": "https://uzum.uz/ru/product/futbolka-muzhskaya-playowo-299303"
+          },
+          {
+            "fullPrice": 99000,
+            "price": 49000,
+            "productId": "356386",
+            "rating": 4.9,
+            "reviews": 493,
+            "title": "Детские футболки Playowo, для физкультуры и для дома, 100% хлопок",
+            "url": "https://uzum.uz/ru/product/detskie-futbolki-playowo-356386"
+          },
+          {
+            "fullPrice": 130000,
+            "price": 29990,
+            "productId": "374981",
+            "rating": 4.3,
+            "reviews": 2426,
+            "title": "Мужская футболка поло, финка на молнии с коротким рукавом",
+            "url": "https://uzum.uz/ru/product/muzhskaya-futbolka-polo-374981"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Коврик для йоги",
+      "category": "Спорт и отдых",
+      "categoryPath": "Спорт и отдых / Йога и пилатес",
+      "totalProducts": 408,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 230000,
+            "price": 138600,
+            "productId": "308796",
+            "rating": 4.9,
+            "reviews": 18,
+            "title": "Коврик для йоги и фитнеса с чехлом",
+            "url": "https://uzum.uz/ru/product/kovrik-dlya-jogi-i-fitnesa-s-308796"
+          },
+          {
+            "fullPrice": 600000,
+            "price": 224990,
+            "productId": "674794",
+            "rating": 4.7,
+            "reviews": 132,
+            "title": "Коврик для йоги и фитнеса, 6 мм, нескользящий и износостойкий, спортивный, для пилатеса",
+            "url": "https://uzum.uz/ru/product/kovrik-dlya-jogi-674794"
+          },
+          {
+            "fullPrice": 299000,
+            "price": 145000,
+            "productId": "541706",
+            "rating": 4.8,
+            "reviews": 20,
+            "title": "Коврик для йоги и гимнастики, двухслойный, с сумкой",
+            "url": "https://uzum.uz/ru/product/kovrik-dlya-jogi-541706"
+          },
+          {
+            "fullPrice": 199000,
+            "price": 160000,
+            "productId": "312740",
+            "rating": 5,
+            "reviews": 1,
+            "title": "Коврик для йоги 522825-1",
+            "url": "https://uzum.uz/ru/product/kovrik-dlya-jogi-5228251-312740"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Кроссовки мужские",
+      "category": "Обувь",
+      "categoryPath": "Обувь / Мужская обувь",
+      "totalProducts": 12178,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 1125000,
+            "price": 125000,
+            "productId": "439219",
+            "rating": 4.8,
+            "reviews": 85,
+            "title": "Кроссовки мужские Демисезонные Erke",
+            "url": "https://uzum.uz/ru/product/krossovki-muzhskie-demisezonnye-erke-439219"
+          },
+          {
+            "fullPrice": 249000,
+            "price": 164000,
+            "productId": "291778",
+            "rating": 4.8,
+            "reviews": 128,
+            "title": "Кроссовки летние мужские сетчатые",
+            "url": "https://uzum.uz/ru/product/krossovki-letnie-muzhskie-setchatye-291778"
+          },
+          {
+            "fullPrice": 400000,
+            "price": 99000,
+            "productId": "509879",
+            "rating": 4.7,
+            "reviews": 409,
+            "title": "Мужские спортивные кроссовки, летние",
+            "url": "https://uzum.uz/ru/product/muzhskie-sportivnye-krossovki-letnie-509879"
+          },
+          {
+            "fullPrice": 300000,
+            "price": 285000,
+            "productId": "672088",
+            "rating": 4.6,
+            "reviews": 101,
+            "title": "Кроссовки мужские Qadam unisex DD328ACV 320B",
+            "url": "https://uzum.uz/ru/product/krossovki-muzhskie-qadam-unisex-dd328acv-320b-672088"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Кроссовки женские",
+      "category": "Обувь",
+      "categoryPath": "Обувь / Женская обувь",
+      "totalProducts": 9486,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 1250000,
+            "price": 95000,
+            "productId": "350538",
+            "rating": 4.9,
+            "reviews": 221,
+            "title": "Женские кроссовки GRN",
+            "url": "https://uzum.uz/ru/product/zhenskie-krossovki-grn-350538"
+          },
+          {
+            "fullPrice": 150000,
+            "price": 150000,
+            "productId": "308631",
+            "rating": 4.6,
+            "reviews": 219,
+            "title": "Кроссовки женские совместного производства",
+            "url": "https://uzum.uz/ru/product/krossovki-zhenskie-sovmestnogo-proizvodstva-308631"
+          },
+          {
+            "fullPrice": 150000,
+            "price": 49000,
+            "productId": "162303",
+            "rating": 4.8,
+            "reviews": 32,
+            "title": "Кроссовки Unisex",
+            "url": "https://uzum.uz/ru/product/krossovki-unisex-162303"
+          },
+          {
+            "fullPrice": 350000,
+            "price": 99000,
+            "productId": "642994",
+            "rating": 4.8,
+            "reviews": 46,
+            "title": "Женские кроссовки",
+            "url": "https://uzum.uz/ru/product/zhenskie-krossovki-642994"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Радиоуправляемая машинка",
+      "category": "Детские товары",
+      "categoryPath": "Детские товары / Игрушки",
+      "totalProducts": 1527,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 360000,
+            "price": 185000,
+            "productId": "666217",
+            "rating": 4.7,
+            "reviews": 155,
+            "title": "Игрушечная машинка экскаватор на пульте управления, коллекция Спецтехника",
+            "url": "https://uzum.uz/ru/product/igrushechnaya-mashinka-ekskavator-666217"
+          },
+          {
+            "fullPrice": 550000,
+            "price": 460000,
+            "productId": "636521",
+            "rating": 4.5,
+            "reviews": 12,
+            "title": "Машинка на пульте управления \"Амфибия\"",
+            "url": "https://uzum.uz/ru/product/mashinka-na-pulte-upravleniya-amfibiya-636521"
+          },
+          {
+            "fullPrice": 250000,
+            "price": 250000,
+            "productId": "416715",
+            "rating": 4.5,
+            "reviews": 12,
+            "title": "Радиоуправляемая машина с подсветкой и открывающимися дверями, Speed Car",
+            "url": "https://uzum.uz/ru/product/radioupravlyaemaya-mashina-s-416715"
+          },
+          {
+            "fullPrice": 260000,
+            "price": 260000,
+            "productId": "198548",
+            "rating": 4.5,
+            "reviews": 2,
+            "title": "Радиоуправляемая машинка Big Foot",
+            "url": "https://uzum.uz/ru/product/radioupravlyaemaya-mashinka-big-foot-198548"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Мягкие игрушки",
+      "category": "Детские товары",
+      "categoryPath": "Детские товары / Игрушки",
+      "totalProducts": 5538,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 56000,
+            "price": 50000,
+            "productId": "133222",
+            "rating": 4.8,
+            "reviews": 113,
+            "title": "Игрушкa мяч попрыгунчик для кошек и собак, бесшумный мягкий мячик",
+            "url": "https://uzum.uz/ru/product/igrushka-myach-poprygunchik-133222"
+          },
+          {
+            "fullPrice": 150000,
+            "price": 29900,
+            "productId": "670372",
+            "rating": 4.8,
+            "reviews": 1375,
+            "title": "Мягкая антистресс игрушка осьминог-перевертыш, двухсторонний",
+            "url": "https://uzum.uz/ru/product/myagkaya-antistress-igrushka-670372"
+          },
+          {
+            "fullPrice": 99000,
+            "price": 38610,
+            "productId": "409599",
+            "rating": 4.5,
+            "reviews": 656,
+            "title": "Антистресс игрушечная обезьяна, тянучка, перец, огурец, морковь, банан, сквиш",
+            "url": "https://uzum.uz/ru/product/antistress-igrushechnaya-obezyana-409599"
+          },
+          {
+            "fullPrice": 140000,
+            "price": 99000,
+            "productId": "520581",
+            "rating": 4.8,
+            "reviews": 117,
+            "title": "Мягкая игрушка зайка, спящий зайчик, 35 см",
+            "url": "https://uzum.uz/ru/product/myagkaya-igrushka-zajka-spyaschij-zajchik-35-520581"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Наушники",
+      "category": "Электроника",
+      "categoryPath": "Электроника / Наушники и аудиотехника",
+      "totalProducts": 17843,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 1000000,
+            "price": 185000,
+            "productId": "355766",
+            "rating": 4.5,
+            "reviews": 9656,
+            "title": "Беспроводные наушники Pods 3 Premium для iPhone и Android, чехол в подарок",
+            "url": "https://uzum.uz/ru/product/besprovodnye-naushniki-pods-355766"
+          },
+          {
+            "fullPrice": 1650000,
+            "price": 195000,
+            "productId": "355687",
+            "rating": 4.5,
+            "reviews": 7487,
+            "title": "Беспроводные наушники Pro 2 Premium для iPhone и Android, чехол в подарок. ShopLand",
+            "url": "https://uzum.uz/ru/product/besprovodnye-naushniki-pro-355687"
+          },
+          {
+            "fullPrice": 350000,
+            "price": 115000,
+            "productId": "481256",
+            "rating": 4.5,
+            "reviews": 1144,
+            "title": "Беспроводные наушники Pods Pro 2, Bluetooth, с шумоподавлением, с микрофоном",
+            "url": "https://uzum.uz/ru/product/besprovodnye-naushniki-pods-481256"
+          },
+          {
+            "fullPrice": 180000,
+            "price": 110000,
+            "productId": "291396",
+            "rating": 4.3,
+            "reviews": 277,
+            "title": "Наушники беспроводные Pro 5 для iPhone, Android",
+            "url": "https://uzum.uz/ru/product/naushniki-besprovodnye-pro-5-dlya-iphone-291396"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Автоорганайзер",
+      "category": "Авто-аксессуары",
+      "categoryPath": "Автотовары / Аксессуары и принадлежности",
+      "totalProducts": 219,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 55000,
+            "price": 33950,
+            "productId": "34817",
+            "rating": 4.7,
+            "reviews": 289,
+            "title": "Органайзер с карманами подвесной для хранения мелочей",
+            "url": "https://uzum.uz/ru/product/organajzer-s-karmanami-34817"
+          },
+          {
+            "fullPrice": 320000,
+            "price": 169000,
+            "productId": "371614",
+            "rating": 4.9,
+            "reviews": 432,
+            "title": "Органайзер в багажник, сумка для автомобиля, складная",
+            "url": "https://uzum.uz/ru/product/organajzer-v-bagazhnik-371614"
+          },
+          {
+            "fullPrice": 550000,
+            "price": 199000,
+            "productId": "299745",
+            "rating": 4.8,
+            "reviews": 50,
+            "title": "Сумка-органайзер для багажника автомобиля Chevrolet, Kia, Hundai, Toyota, BYD, Li",
+            "url": "https://uzum.uz/ru/product/sumkaorganajzer-dlya-bagazhnika-299745"
+          },
+          {
+            "fullPrice": 95000,
+            "price": 92150,
+            "productId": "274750",
+            "rating": 4.8,
+            "reviews": 4,
+            "title": "Органайзер для сумок подвесной органайзер для хранения сумок в шкафу",
+            "url": "https://uzum.uz/ru/product/organajzer-dlya-sumok-274750"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Патчи для лица/глаз",
+      "category": "Косметика",
+      "categoryPath": "Красота и уход / Уход за лицом / Патчи",
+      "totalProducts": 601,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 100000,
+            "price": 100000,
+            "productId": "390189",
+            "rating": 4.7,
+            "reviews": 1309,
+            "title": "Патчи коллагеновые для глаз Collagen Crystal Eye Mask, гидрогелиевые",
+            "url": "https://uzum.uz/ru/product/patchi-kollagenovye-dlya-390189"
+          },
+          {
+            "fullPrice": 120000,
+            "price": 120000,
+            "productId": "541492",
+            "rating": 4.5,
+            "reviews": 151,
+            "title": "Патчи от прыщей, акне и черных точек, гидроколлоидные, 3 размера, 120 шт",
+            "url": "https://uzum.uz/ru/product/patchi-ot-pryschej-541492"
+          },
+          {
+            "fullPrice": 93850,
+            "price": 40990,
+            "productId": "15539",
+            "rating": 4.9,
+            "reviews": 62,
+            "title": "Спрей-уход для волос Keratin Complex F-581, термозащита и блеск, 135 мл",
+            "url": "https://uzum.uz/ru/product/sprejukhod-dlya-volos-15539"
+          },
+          {
+            "fullPrice": 99000,
+            "price": 86000,
+            "productId": "539445",
+            "rating": 4.6,
+            "reviews": 196,
+            "title": "Линии лифтинга век, 600 шт",
+            "url": "https://uzum.uz/ru/product/linii-liftinga-vek-600-sht-539445"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Платье женское",
+      "category": "Одежда",
+      "categoryPath": "Одежда / Платья и сарафаны",
+      "totalProducts": 7450,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 600000,
+            "price": 119000,
+            "productId": "416548",
+            "rating": 4.5,
+            "reviews": 149,
+            "title": "Платье летнее на запах с воланами",
+            "url": "https://uzum.uz/ru/product/plate-letnee-na-zapakh-s-volanami-416548"
+          },
+          {
+            "fullPrice": 299000,
+            "price": 99000,
+            "productId": "401116",
+            "rating": 4.4,
+            "reviews": 21,
+            "title": "Длинное женское черное платье миди с боковым разрезом на осень",
+            "url": "https://uzum.uz/ru/product/dlinnoe-zhenskoe-chernoe-401116"
+          },
+          {
+            "fullPrice": 400000,
+            "price": 189000,
+            "productId": "405808",
+            "rating": 4.8,
+            "reviews": 118,
+            "title": "Кружевное женское платье с V образным вырезом",
+            "url": "https://uzum.uz/ru/product/kruzhevnoe-zhenskoe-plate-s-v-obraznym-405808"
+          },
+          {
+            "fullPrice": 300000,
+            "price": 179000,
+            "productId": "437043",
+            "rating": 4.7,
+            "reviews": 68,
+            "title": "Платье женское летнее с V образным вырезом и поясом, повседневное и вечернее платье",
+            "url": "https://uzum.uz/ru/product/plate-zhenskoe-letnee-437043"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Губная помада",
+      "category": "Косметика",
+      "categoryPath": "Красота и уход / Макияж",
+      "totalProducts": 3166,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 9990,
+            "price": 9990,
+            "productId": "631051",
+            "rating": 4.8,
+            "reviews": 8008,
+            "title": "Карандаш-помада для губ, водостойкий, VIOLET, с точилкой, матовый, 12 оттенков",
+            "url": "https://uzum.uz/ru/product/karandashpomada-dlya-gub-631051"
+          },
+          {
+            "fullPrice": 9990,
+            "price": 9990,
+            "productId": "475569",
+            "rating": 4.8,
+            "reviews": 4436,
+            "title": "Карандаш-помада для губ, FLORMAR, водостойкая, с точилкой, матовый, 12 оттенков",
+            "url": "https://uzum.uz/ru/product/karandashpomada-dlya-gub-475569"
+          },
+          {
+            "fullPrice": 7990,
+            "price": 7990,
+            "productId": "566160",
+            "rating": 4.8,
+            "reviews": 8889,
+            "title": "Карандаш-помада для губ, водостойкий, матовый, мисс таис",
+            "url": "https://uzum.uz/ru/product/karandashpomada-dlya-gub-566160"
+          },
+          {
+            "fullPrice": 70000,
+            "price": 22000,
+            "productId": "445739",
+            "rating": 4.8,
+            "reviews": 3199,
+            "title": "Блеск для губ, бальзам увлажняющий, помада глянцевая Qibest",
+            "url": "https://uzum.uz/ru/product/blesk-dlya-gub-445739"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Повербанки",
+      "category": "Электроника",
+      "categoryPath": "Электроника / Аксессуары для смартфонов / Внешние аккумуляторы",
+      "totalProducts": 1263,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 300000,
+            "price": 279000,
+            "productId": "528037",
+            "rating": 4.4,
+            "reviews": 16,
+            "title": "Внешний аккумулятор XO PR205 QC3.0, PD20W, USB 22,5 В, 10000 мА/ч",
+            "url": "https://uzum.uz/ru/product/vneshnij-akkumulyator-xo-528037"
+          },
+          {
+            "fullPrice": 150000,
+            "price": 110000,
+            "productId": "252049",
+            "rating": null,
+            "reviews": 0,
+            "title": "Внешний аккумулятор Remax RPP-295 10000 mA/h Fast Charging",
+            "url": "https://uzum.uz/ru/product/vneshnij-akkumulyator-remax-252049"
+          },
+          {
+            "fullPrice": 586000,
+            "price": 489000,
+            "productId": "369334",
+            "rating": 3.9,
+            "reviews": 10,
+            "title": "Повербанк Samsung Super Fast Charging, Type-С, PD 3.0 PPS",
+            "url": "https://uzum.uz/ru/product/poverbank-samsung-super-369334"
+          },
+          {
+            "fullPrice": 318000,
+            "price": 212000,
+            "productId": "235526",
+            "rating": 3.7,
+            "reviews": 3,
+            "title": "Внешний аккумулятор Power Bank XO PB301, 10000 мA/ч",
+            "url": "https://uzum.uz/ru/product/vneshnij-akkumulyator-power-235526"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Проекторы и ночники",
+      "category": "Электроника",
+      "categoryPath": "Электроника / Телевизоры и видеотехника (смешанная выдача)",
+      "totalProducts": 1097,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 50000,
+            "price": 28500,
+            "productId": "364570",
+            "rating": 4.7,
+            "reviews": 1058,
+            "title": "LED-проектор на дверь автомобиля — логотип Chevrolet, беспроводной, на батарейках",
+            "url": "https://uzum.uz/ru/product/ledproektor-na-dver-364570"
+          },
+          {
+            "fullPrice": 160000,
+            "price": 48000,
+            "productId": "38807",
+            "rating": 4.7,
+            "reviews": 2196,
+            "title": "Ночник 3D проектор звездного неба, светильник светодиодный вращающийся, подарок ребенку",
+            "url": "https://uzum.uz/ru/product/nochnik-3d-proektor-38807"
+          },
+          {
+            "fullPrice": 70000,
+            "price": 27510,
+            "productId": "778731",
+            "rating": 4.7,
+            "reviews": 1584,
+            "title": "LED-проектор логотипа на дверь авто, беспроводной — 1 шт, GERB или Chevrolet",
+            "url": "https://uzum.uz/ru/product/ledproektor-logotipa-na-778731"
+          },
+          {
+            "fullPrice": 80000,
+            "price": 69990,
+            "productId": "239583",
+            "rating": 3.8,
+            "reviews": 28,
+            "title": "Cветодиодный USB проектор звездное небо",
+            "url": "https://uzum.uz/ru/product/cvetodiodnyj-usb-proektor-zvezdnoe-nebo-239583"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Рюкзаки и сумки",
+      "category": "Аксессуары",
+      "categoryPath": "Аксессуары (смешанная выдача)",
+      "totalProducts": 29204,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 130000,
+            "price": 55000,
+            "productId": "369886",
+            "rating": 4.8,
+            "reviews": 228,
+            "title": "Эко сумка для женщин",
+            "url": "https://uzum.uz/ru/product/eko-sumka-dlya-zhenschin-369886"
+          },
+          {
+            "fullPrice": 299000,
+            "price": 119000,
+            "productId": "603071",
+            "rating": 4.9,
+            "reviews": 1130,
+            "title": "Рюкзак из экокожи черный: мужской и женский городской портфель, унисекс для ноутбука",
+            "url": "https://uzum.uz/ru/product/ryukzak-iz-ekokozhi-603071"
+          },
+          {
+            "fullPrice": 125000,
+            "price": 39000,
+            "productId": "30370",
+            "rating": 4.5,
+            "reviews": 67,
+            "title": "Сумка через плечо женская, холщовая",
+            "url": "https://uzum.uz/ru/product/sumka-cherez-plecho-zhenskaya-kholschovaya-30370"
+          },
+          {
+            "fullPrice": 300000,
+            "price": 300000,
+            "productId": "618920",
+            "rating": 4.8,
+            "reviews": 500,
+            "title": "Сумка шоппер женская, через плечо, вельветовая",
+            "url": "https://uzum.uz/ru/product/sumka-shopper-zhenskaya-cherez-plecho-velvetovaya-618920"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Умные часы",
+      "category": "Электроника",
+      "categoryPath": "Электроника / Умные часы и фитнес браслеты",
+      "totalProducts": 2184,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 699000,
+            "price": 649000,
+            "productId": "198148",
+            "rating": 4.7,
+            "reviews": 89,
+            "title": "Смарт-часы Zeblaze Beyond 2 AMOLED, GPS, влагозащита 5ATM, пульсометр и SpO2",
+            "url": "https://uzum.uz/ru/product/smartchasy-zeblaze-beyond-198148"
+          },
+          {
+            "fullPrice": 699000,
+            "price": 699000,
+            "productId": "355470",
+            "rating": 4.6,
+            "reviews": 243,
+            "title": "Умные часы Smart Watch X7 Pro, T800 Pro Max, X8 Pro, LK8 Pro",
+            "url": "https://uzum.uz/ru/product/umnye-chasy-smart-355470"
+          },
+          {
+            "fullPrice": 199000,
+            "price": 189000,
+            "productId": "411753",
+            "rating": 2.8,
+            "reviews": 131,
+            "title": "Смарт-часы D20 Ultra, Y68 Ultra",
+            "url": "https://uzum.uz/ru/product/smartchasy-d20-ultra-y68-ultra-411753"
+          },
+          {
+            "fullPrice": 729000,
+            "price": 729000,
+            "productId": "433906",
+            "rating": 4.5,
+            "reviews": 223,
+            "title": "Умные часы Smart Watch Lk8 Pro, с экраном Retina, ремешок в подарок, 45 мм",
+            "url": "https://uzum.uz/ru/product/umnye-chasy-smart-433906"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Термокружки",
+      "category": "Дом и кухня",
+      "categoryPath": "Товары для дома / Термосы и термокружки",
+      "totalProducts": 1120,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 299000,
+            "price": 59990,
+            "productId": "397003",
+            "rating": 4.8,
+            "reviews": 143,
+            "title": "Термокружка \"Coffee\" для холодных и горячих напитков, в машину или на работу",
+            "url": "https://uzum.uz/ru/product/termokruzhka-coffee-dlya-397003"
+          },
+          {
+            "fullPrice": 150000,
+            "price": 150000,
+            "productId": "946",
+            "rating": 4.3,
+            "reviews": 3,
+            "title": "Спортивная бутылка Lamart LT4059, зелёная, 700 мл",
+            "url": "https://uzum.uz/ru/product/sportivnaya-butylka-lamart-lt4059-zelyonaya-700-946"
+          },
+          {
+            "fullPrice": 150000,
+            "price": 150000,
+            "productId": "945",
+            "rating": 5,
+            "reviews": 2,
+            "title": "Спортивная бутылка Lamart LT4058, синяя, 700 мл",
+            "url": "https://uzum.uz/ru/product/sportivnaya-butylka-lamart-lt4058-sinyaya-700-945"
+          },
+          {
+            "fullPrice": 150000,
+            "price": 150000,
+            "productId": "947",
+            "rating": 5,
+            "reviews": 3,
+            "title": "Спортивная бутылка Lamart LT4060, красная, 700 мл",
+            "url": "https://uzum.uz/ru/product/sportivnaya-butylka-lamart-lt4060-krasnaya-700-947"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Тональный крем",
+      "category": "Косметика",
+      "categoryPath": "Красота и уход / Макияж",
+      "totalProducts": 3765,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 148000,
+            "price": 27900,
+            "productId": "328258",
+            "rating": 4.7,
+            "reviews": 259,
+            "title": "Кушон тональный крем-пудра Magic Cushion SPF 50, BB крем, с запасным рефилом, 15 г",
+            "url": "https://uzum.uz/ru/product/kushon-tonalnyj-krempudra-328258"
+          },
+          {
+            "fullPrice": 145000,
+            "price": 29900,
+            "productId": "723493",
+            "rating": 4.5,
+            "reviews": 534,
+            "title": "Тональный крем, жидкая основа, выравнивает тон кожи, высокая стойкость, 30 мл",
+            "url": "https://uzum.uz/ru/product/tonalnyj-krem-zhidkaya-723493"
+          },
+          {
+            "fullPrice": 200000,
+            "price": 35900,
+            "productId": "757146",
+            "rating": 4.6,
+            "reviews": 1177,
+            "title": "Тональный крем Emelie, SPF 25, увлажняющий, матовый тон, 45 мл",
+            "url": "https://uzum.uz/ru/product/tonalnyj-krem-emelie-757146"
+          },
+          {
+            "fullPrice": 99000,
+            "price": 68000,
+            "productId": "26293",
+            "rating": 4.5,
+            "reviews": 102,
+            "title": "Тональный крем для лица, Sheep Placenta, светлый тон 01",
+            "url": "https://uzum.uz/ru/product/tonalnyj-krem-dlya-26293"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Тушь для ресниц",
+      "category": "Косметика",
+      "categoryPath": "Красота и уход / Макияж",
+      "totalProducts": 2198,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 70000,
+            "price": 33000,
+            "productId": "12755",
+            "rating": 4.7,
+            "reviews": 1094,
+            "title": "Тушь для ресниц QiBest, черная, влагостойкая, удлиняющая",
+            "url": "https://uzum.uz/ru/product/tush-dlya-resnic-12755"
+          },
+          {
+            "fullPrice": 250000,
+            "price": 18340,
+            "productId": "366540",
+            "rating": 4.7,
+            "reviews": 3960,
+            "title": "Чёрная тушь для ресниц, Yanqina, удлиняющая, водостойкая, профессиональная 4D волокна 2 в 1",
+            "url": "https://uzum.uz/ru/product/chyornaya-tush-dlya-366540"
+          },
+          {
+            "fullPrice": 150000,
+            "price": 21900,
+            "productId": "481763",
+            "rating": 4.7,
+            "reviews": 1235,
+            "title": "Тушь для ресниц две щеточки Kiss Beauty 3D эффект, удлинение и объем, черная, 9 мл",
+            "url": "https://uzum.uz/ru/product/tush-dlya-resnic-481763"
+          },
+          {
+            "fullPrice": 99000,
+            "price": 21900,
+            "productId": "363954",
+            "rating": 4.8,
+            "reviews": 442,
+            "title": "Тушь для ресниц 4D профессиональная, водостойкая, черная, 2 кисточки, 10 г",
+            "url": "https://uzum.uz/ru/product/tush-dlya-resnic-363954"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Увлажнители воздуха",
+      "category": "Дом и кухня",
+      "categoryPath": "Бытовая техника / Очищение и увлажнение воздуха",
+      "totalProducts": 837,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 1000000,
+            "price": 429000,
+            "productId": "624809",
+            "rating": 4.7,
+            "reviews": 601,
+            "title": "Humidifier 2 Lite, увлажнитель воздуха, ультразвуковой, 4 л, бесшумный, для дома, офиса",
+            "url": "https://uzum.uz/ru/product/humidifier-2-lite-624809"
+          },
+          {
+            "fullPrice": 350000,
+            "price": 99000,
+            "productId": "321199",
+            "rating": 4.5,
+            "reviews": 570,
+            "title": "Увлажнитель воздуха, с эффектом пламени, c разноцветной подсветкой, aромадиффузор для дома",
+            "url": "https://uzum.uz/ru/product/uvlazhnitel-vozdukha-s-321199"
+          },
+          {
+            "fullPrice": 147000,
+            "price": 70800,
+            "productId": "322457",
+            "rating": 4.6,
+            "reviews": 144,
+            "title": "Увлажнитель воздуха и ароматизатор для автомобиля и дома, ночник, сухой туман, 300 мл",
+            "url": "https://uzum.uz/ru/product/uvlazhnitel-vozdukha-i-322457"
+          },
+          {
+            "fullPrice": 759000,
+            "price": 529000,
+            "productId": "654781",
+            "rating": 4.9,
+            "reviews": 152,
+            "title": "Умный увлажнитель воздуха Xiaomi Mi Humidifier 2 Lite Global, с системой стерилизации",
+            "url": "https://uzum.uz/ru/product/umnyj-uvlazhnitel-vozdukha-654781"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Видеорегистратор",
+      "category": "Авто-аксессуары",
+      "categoryPath": "Автотовары / Электроника для авто / Видеорегистраторы",
+      "totalProducts": 550,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 950000,
+            "price": 494000,
+            "productId": "300933",
+            "rating": 4.7,
+            "reviews": 230,
+            "title": "Видеорегистратор для автомобиля Lenovo V7, с малибу камерой, рыбий глаз",
+            "url": "https://uzum.uz/ru/product/videoregistrator-dlya-avtomobilya-300933"
+          },
+          {
+            "fullPrice": 870000,
+            "price": 549000,
+            "productId": "243575",
+            "rating": 4.5,
+            "reviews": 42,
+            "title": "Видеорегистратор Lenovo V7 plus Full HD",
+            "url": "https://uzum.uz/ru/product/videoregistrator-lenovo-v7-plus-full-hd-243575"
+          },
+          {
+            "fullPrice": 850000,
+            "price": 535000,
+            "productId": "314113",
+            "rating": 4.8,
+            "reviews": 17,
+            "title": "Видеорегистратор Lenovo V7 Plus FullHD",
+            "url": "https://uzum.uz/ru/product/videoregistrator-lenovo-v7-plus-fullhd-314113"
+          },
+          {
+            "fullPrice": 980000,
+            "price": 490000,
+            "productId": "751759",
+            "rating": 4,
+            "reviews": 23,
+            "title": "Видеорегистратор Xiaomi Mi Ecosystem Y6 / HR17 Dual",
+            "url": "https://uzum.uz/ru/product/videoregistrator-xiaomi-mi-751759"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    }
+  ],
+  "cargo": [
+    {
+      "blocks": [],
+      "contact": "+998 55 515 07 00, info@cargo.uz",
+      "delivery": "уточнять у менеджера",
+      "goodFor": [],
+      "minShipment": null,
+      "name": "Cargo.uz",
+      "notes": "Крупный игрок на рынке Китай→Узбекистан, но сайт не публикует тарифы и ограничения — присылают расчёт по заявке.",
+      "rate": "Цены не публикуются — расчёт по заявке (ориентировочно $4-6/кг для сборных грузов по рынку)",
+      "restrictions": [
+        "Публичных данных о запрещённых категориях нет — уточнять напрямую"
+      ],
+      "url": "https://www.cargo.uz"
+    },
+    {
+      "blocks": [],
+      "contact": "cargotransit.ru",
+      "delivery": "неизвестно",
+      "goodFor": [],
+      "minShipment": null,
+      "name": "CargoTransit",
+      "notes": "Сайт не открылся при автоматической проверке.",
+      "rate": "не удалось проверить (сайт вернул ошибку доступа при автоматической проверке)",
+      "restrictions": [
+        "Нужна ручная проверка напрямую"
+      ],
+      "url": "https://cargotransit.ru/dostavka-iz-kitaya-v-uzbekistan/"
+    },
+    {
+      "blocks": [
+        "cosmetics",
+        "batteries"
+      ],
+      "contact": "uz.meest.cn",
+      "delivery": "~16 дней (отправка по средам)",
+      "goodFor": [
+        "clothing"
+      ],
+      "minShipment": "20 кг",
+      "name": "Meest China",
+      "notes": "НЕ подходит ни для косметики, ни для большинства электроники с радара (повербанки, наушники, видеорегистраторы) — только одежда/аксессуары/автозапчасти без электроники.",
+      "rate": "Одежда $5.5/кг; плотный груз (>170 кг/м³) $7/кг; лёгкий груз $1150/м³ + $0.5/кг местные расходы в Китае + 2% страховка",
+      "restrictions": [
+        "ЗАПРЕЩЕНО: косметика, эфирные масла, парфюмерия, любые жидкости",
+        "ЗАПРЕЩЕНО: батарейки и аккумуляторы всех типов",
+        "ЗАПРЕЩЕНО: электроника с SIM-картами, украшения, лекарства, оружие, контрафакт",
+        "Можно: одежда, обувь, сумки, игрушки без батареек, автозапчасти, спорттовары, пластик"
+      ],
+      "url": "https://uz.meest.cn"
+    },
+    {
+      "blocks": [],
+      "contact": "+998 91 795 55 56, info@pegaslogistics.uz",
+      "delivery": "Авиа 3-7 дней, авто 10-15 дней, ж/д 15-25 дней",
+      "goodFor": [
+        "bulk"
+      ],
+      "minShipment": null,
+      "name": "Pegasus Logistics",
+      "notes": "Больше заточены под крупные и контейнерные партии, чем под мелкий опт под один-два товара.",
+      "rate": "Авиа от $2.5-3/кг (до 500 кг); авто до 20 тонн; ж/д контейнер от $1500",
+      "restrictions": [
+        "Работают с опасными/химическими грузами по отдельным условиям — по косметике и батарейкам уточнять индивидуально"
+      ],
+      "url": "https://pegaslogistics.uz"
+    },
+    {
+      "blocks": [],
+      "contact": "transitpro.uz",
+      "delivery": "14-25 дней в зависимости от формата",
+      "goodFor": [
+        "clothing",
+        "bulk"
+      ],
+      "minShipment": "от 1 кг (посылка)",
+      "name": "Транзит Про (TransitPro)",
+      "notes": "Помогают и с самим закупом на 1688/Taobao/Alibaba, не только доставкой — по описанию ближе всего к тому, что нужно для старта.",
+      "rate": "Сборный груз от 10 кг: $3-6/кг (14-18 дней); посылки 1-10 кг: $8/кг (20-25 дней); от 1 куб.м: $90-140/куб.м (15-20 дней)",
+      "restrictions": [
+        "Ограничения по косметике и батарейкам на сайте не указаны — единственный из проверенных сервисов, который прямо ориентируется на продавцов Uzum и мелкий опт, стоит уточнить именно у них в первую очередь"
+      ],
+      "url": "https://transitpro.uz"
+    }
+  ],
+  "yandexNiches": [
+    {
+      "nicheId": "aromatizator_avto",
+      "label": "Автоароматизатор",
+      "category": "Авто-аксессуары",
+      "categoryPath": "Автотовары / Уход за автомобилем",
+      "itemCount": 8,
+      "medianPrice": 240,
+      "avgRating": 4.49,
+      "totalPurchased": 17543,
+      "totalReviews": 4207,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "4589020069",
+          "url": "https://market.yandex.ru/card/aromatizator-dlya-avtomobilya-savory-home-versace-man/4589020069",
+          "title": "Ароматизатор в машину Savory Home \"Versace Man\", для автомобиля на шнурке",
+          "price": 98,
+          "rating": 4.3,
+          "reviews": 2400,
+          "purchased": 10300,
+          "shop": null
+        },
+        {
+          "productId": "4566352692",
+          "url": "https://market.yandex.ru/card/aromatizator-dlya-avtomobilya-v-mashinu-dior-savage-vonyuchka-pakhuchka/4566352692",
+          "title": "Ароматизатор в машину - Автопарфюм DIOR Savage, Пахучка в машину - Диор Саваж",
+          "price": 291,
+          "rating": 4.4,
+          "reviews": 478,
+          "purchased": 2000,
+          "shop": null
+        },
+        {
+          "productId": "4566352689",
+          "url": "https://market.yandex.ru/card/aromatizator-dlya-avtomobilya-v-mashinu-tom-ford-tobacco-vonyuchka-pakhuchka/4566352689",
+          "title": "Ароматизатор в машину - Автопарфюм Tom Ford TOBACCO and VANILLE, Пахучка в машину",
+          "price": 291,
+          "rating": 4.4,
+          "reviews": 478,
+          "purchased": 2000,
+          "shop": null
+        },
+        {
+          "productId": "102873309284",
+          "url": "https://market.yandex.ru/card/aromatizator-v-mashinu-po-motivam-black-afgano--avtoparfyum-7ml/102873309284",
+          "title": "Ароматизатор в машину с ароматом Black' Afgano / автопарфюм 7мл/подарок",
+          "price": 133,
+          "rating": 4.3,
+          "reviews": 592,
+          "purchased": 2000,
+          "shop": null
+        },
+        {
+          "productId": "5777219342",
+          "url": "https://market.yandex.ru/card/aromadiffuzor-dlya-avto/5777219342",
+          "title": "Ароматизатор в машину, для автомобиля, вонючка, пахучка, Lacoste 8 мл",
+          "price": 145,
+          "rating": 4.7,
+          "reviews": 134,
+          "purchased": 658,
+          "shop": "CozyLab"
+        },
+        {
+          "productId": "5825296458",
+          "url": "https://market.yandex.ru/card/moye-ego-aromatizator-avtomobilnyy-tom-ford-tobacco-vanillehugo-boss-6dior-forestpaco-rabanne-1-millionlacoste-l1212-white-40-ml/5825296458",
+          "title": "Ароматизаторы автомобильные МОЁ ЭГО \"Tom Ford Tobacco Vanille\", 40мл, 5шт",
+          "price": 248,
+          "rating": 3.9,
+          "reviews": 94,
+          "purchased": 446,
+          "shop": null
+        }
+      ]
+    },
+    {
+      "nicheId": "blender",
+      "label": "Блендеры",
+      "category": "Дом и кухня",
+      "categoryPath": "Бытовая техника / Измельчение и смешивание",
+      "itemCount": 8,
+      "medianPrice": 2876,
+      "avgRating": 4.81,
+      "totalPurchased": 63400,
+      "totalReviews": 13983,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "103566349682",
+          "url": "https://market.yandex.ru/card/blender-pogruzhnoy-tuvio-thb01pbs-seryy/103566349682",
+          "title": "Блендер погружной Tuvio THB01PBS, серый",
+          "price": 2725,
+          "rating": 4.7,
+          "reviews": 5500,
+          "purchased": 24700,
+          "shop": "Яндекс Фабрика"
+        },
+        {
+          "productId": "5577606006",
+          "url": "https://market.yandex.ru/card/blender-pogruzhnoy-3-v-1-kitfort-kt-3574/5577606006",
+          "title": "Блендер погружной \"3 в 1\" Kitfort КТ-3574",
+          "price": 1240,
+          "rating": 4.7,
+          "reviews": 2900,
+          "purchased": 11100,
+          "shop": "Kitfort"
+        },
+        {
+          "productId": "4355432295",
+          "url": "https://market.yandex.ru/card/blender-pogruzhnoy-redmond-rhb-2973-4v1-blender-mikser-izmelchitel-nasadka-dlya-pyure-rezhim-turbo-zashchita-dvigatelya/4355432295",
+          "title": "Блендер погружной редмонд RHB-2973, 4в1, блендер, миксер, измельчитель, насадка для пюре, режим турбо, защита двигателя",
+          "price": 2961,
+          "rating": 4.9,
+          "reviews": 1400,
+          "purchased": 6100,
+          "shop": null
+        },
+        {
+          "productId": "5735433398",
+          "url": "https://market.yandex.ru/card/pogruzhnoy-blender-redmond-bh427-2-v-1-pogruzhnoy-blender-i-mikser-s-venchikom-1200vt/5735433398",
+          "title": "Погружной блендер редмонд BH427 2 в 1: погружной блендер и миксер с венчиком 1200Вт",
+          "price": 2007,
+          "rating": 4.9,
+          "reviews": 1400,
+          "purchased": 6100,
+          "shop": null
+        },
+        {
+          "productId": "103614294543",
+          "url": "https://market.yandex.ru/card/blender-ruchnoy-polaris-phb-1065/103614294543",
+          "title": "Блендер Polaris PHB 1065, погружной, 1000Вт, черный, 3 в 1: Измельчитель, Блендер, Миксер",
+          "price": 2792,
+          "rating": 4.9,
+          "reviews": 1100,
+          "purchased": 5500,
+          "shop": "POLARIS Фирменный магазин (доставка Яндекс)"
+        },
+        {
+          "productId": "103831000284",
+          "url": "https://market.yandex.ru/card/blender-pogruzhnoy-s-nasadkoy-dlya-kubikov-i-podvizhnoy-nasadkoy-tuvio-thb06mfp-seryy/103831000284",
+          "title": "Блендер погружной с насадкой для кубиков и подвижной насадкой Tuvio THB06MFP, серый",
+          "price": 6414,
+          "rating": 4.8,
+          "reviews": 573,
+          "purchased": 4300,
+          "shop": "Яндекс Фабрика"
+        }
+      ]
+    },
+    {
+      "nicheId": "chehly_sidenya",
+      "label": "Чехлы на сиденья",
+      "category": "Авто-аксессуары",
+      "categoryPath": "Автотовары / Аксессуары и принадлежности",
+      "itemCount": 8,
+      "medianPrice": 2292,
+      "avgRating": 4.39,
+      "totalPurchased": 16115,
+      "totalReviews": 6069,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "5644991763",
+          "url": "https://market.yandex.ru/card/nakidki-chekhly-na-sidenya-avtomobilya-iz-alkantary-s-podushkami/5644991763",
+          "title": "Накидки чехлы на передние сиденья автомобиля из искусственной замши 2 шт",
+          "price": 1039,
+          "rating": 4.7,
+          "reviews": 2000,
+          "purchased": 4900,
+          "shop": null
+        },
+        {
+          "productId": "5644321500",
+          "url": "https://market.yandex.ru/card/nakidki-chekhly-na-avtomobilnyye-sidenya-iz-velyura-s-zashchitoy-sideniya-ot-gryaznykh-nog-na-ves-salon-avtomobilya/5644321500",
+          "title": "Накидки чехлы на автомобильные сиденья из велюра с защитой сидения от грязных ног на весь салон автомобиля",
+          "price": 2447,
+          "rating": 4.7,
+          "reviews": 1800,
+          "purchased": 4600,
+          "shop": null
+        },
+        {
+          "productId": "101796845621",
+          "url": "https://market.yandex.ru/card/carcapenakidki-chekhly-na-ves-salon-avtomobilya-iz-velyura-polnyy-komplekt-nakidok-model-istanbul-pk-chernyy/101796845621",
+          "title": "Накидки чехлы на весь салон автомобиля из велюра. Полный комплект накидок. Модель ISTANBUL PK. Черный",
+          "price": 2260,
+          "rating": 4.8,
+          "reviews": 1100,
+          "purchased": 2900,
+          "shop": null
+        },
+        {
+          "productId": "5398542315",
+          "url": "https://market.yandex.ru/card/chekhly-na-avtomobilnyye-sidenya-universalnyye-feen-komplekt-na-ves-salon-ekokozha--tkan-chernyye/5398542315",
+          "title": "Чехлы на автомобильные сиденья универсальные FEEN, комплект на весь салон, экокожа + ткань, черные",
+          "price": 3123,
+          "rating": 4.6,
+          "reviews": 832,
+          "purchased": 2500,
+          "shop": null
+        },
+        {
+          "productId": "103704325120",
+          "url": "https://market.yandex.ru/card/chekhly-na-avtomobilnyye-sidenya-perfecto-linea-arizone-peredneye-universalnyy-cherno-krasnyy-1-sht-40-155004/103704325120",
+          "title": "Чехол на переднее сиденье автомобиля универсальный ARIZONE 40-155004, полиэстер, черно-красный, 2 пр.",
+          "price": 744,
+          "rating": 4.6,
+          "reviews": 207,
+          "purchased": 789,
+          "shop": "7745 Глобал Россия"
+        },
+        {
+          "productId": "5398566054",
+          "url": "https://market.yandex.ru/card/chekhly-avtomobilnyye-feen-universalnyye-na-ves-salon-poliester/5398566054",
+          "title": "Чехлы на автомобильные сиденья универсальные FEEN, комплект на весь салон, полиэстер, черные",
+          "price": 1772,
+          "rating": 4.3,
+          "reviews": 66,
+          "purchased": 222,
+          "shop": null
+        }
+      ]
+    },
+    {
+      "nicheId": "chehol",
+      "label": "Чехлы для телефонов",
+      "category": "Электроника",
+      "categoryPath": "Электроника / Аксессуары для смартфонов / Чехлы",
+      "itemCount": 8,
+      "medianPrice": 1071,
+      "avgRating": 4.71,
+      "totalPurchased": 54474,
+      "totalReviews": 7049,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "4632852603",
+          "url": "https://market.yandex.ru/card/prozrachnyy-chekhol-commo-shield-case-dlya-iphone-15-pro-max-s-podderzhkoy-besprovodnoy-zaryadki/4632852603",
+          "title": "Прозрачный чехол COMMO Shield Case для iPhone 15 Pro Max, с поддержкой беспроводной зарядки",
+          "price": 1023,
+          "rating": 4.8,
+          "reviews": 3900,
+          "purchased": 35100,
+          "shop": "Яндекс Фабрика"
+        },
+        {
+          "productId": "4718496097",
+          "url": "https://market.yandex.ru/card/prozrachnyy-chekhol-commo-clear-dlya-iphone-17-s-podderzhkoy-besprovodnoy-zaryadki-prozrachnyy/4718496097",
+          "title": "Прозрачный Чехол COMMO Clear для iPhone 17 с поддержкой беспроводной зарядки, Прозрачный",
+          "price": 1119,
+          "rating": 4.7,
+          "reviews": 738,
+          "purchased": 5100,
+          "shop": "Яндекс Фабрика"
+        },
+        {
+          "productId": "4718496104",
+          "url": "https://market.yandex.ru/card/prozrachnyy-chekhol-commo-clear-dlya-iphone-17-pro-max-s-podderzhkoy-besprovodnoy-zaryadki-prozrachnyy-chernyy/4718496104",
+          "title": "Прозрачный Чехол COMMO Clear для iPhone 17 Pro Max с поддержкой беспроводной зарядки, Прозрачный Чёрный",
+          "price": 1119,
+          "rating": 4.7,
+          "reviews": 595,
+          "purchased": 5100,
+          "shop": "Яндекс Фабрика"
+        },
+        {
+          "productId": "4718496103",
+          "url": "https://market.yandex.ru/card/prozrachnyy-chekhol-commo-clear-dlya-iphone-17-pro-s-podderzhkoy-besprovodnoy-zaryadki-matovyy/4718496103",
+          "title": "Прозрачный Чехол COMMO Clear для iPhone 17 Pro с поддержкой беспроводной зарядки, Матовый",
+          "price": 1131,
+          "rating": 4.6,
+          "reviews": 507,
+          "purchased": 4000,
+          "shop": "Яндекс Фабрика"
+        },
+        {
+          "productId": "101310499122",
+          "url": "https://market.yandex.ru/card/chekhol-dlya-naushnikov-apple-airpods-2-1-ssy-silikonovyy-chekhol-dlya-besprovodnykh-naushnikov-ayrpods-chernyy/101310499122",
+          "title": "Чехол для наушников Apple AirPods 2, черный, силиконовый, мягкое покрытие",
+          "price": 35,
+          "rating": 4.8,
+          "reviews": 968,
+          "purchased": 3300,
+          "shop": "Интернет Революция"
+        },
+        {
+          "productId": "4548198083",
+          "url": "https://market.yandex.ru/card/chekhol-commo-haze-dlya-apple-iphone-17-s-podderzhkoy-besprovodnoy-zaryadki-svetlyy-sero-zelenyy/4548198083",
+          "title": "Чехол COMMO Haze для iPhone 17 с поддержкой беспроводной зарядки, Светлый серо-зелёный",
+          "price": 1190,
+          "rating": 4.7,
+          "reviews": 263,
+          "purchased": 1500,
+          "shop": "Яндекс Фабрика"
+        }
+      ]
+    },
+    {
+      "nicheId": "derzhatel_avto",
+      "label": "Держатель телефона в авто",
+      "category": "Авто-аксессуары",
+      "categoryPath": "Автотовары / Аксессуары и принадлежности",
+      "itemCount": 8,
+      "medianPrice": 324,
+      "avgRating": 4.79,
+      "totalPurchased": 14017,
+      "totalReviews": 4036,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "101997193632",
+          "url": "https://market.yandex.ru/card/avtomobilnyy-derzhatel-ycar-magnitnyy-na-reshetku/101997193632",
+          "title": "Держатель для телефона автомобильный магнитный YCAR на воздуховод усиленный",
+          "price": 351,
+          "rating": 4.9,
+          "reviews": 1500,
+          "purchased": 4500,
+          "shop": "YCAR"
+        },
+        {
+          "productId": "103655790624",
+          "url": "https://market.yandex.ru/card/avtomobilnyy-derzhatel-dlya-telefona-na-steklo-na-panel-na-prisoske/103655790624",
+          "title": "Держатель для телефона автомобильный YCAR на присоске на стекло на панель",
+          "price": 323,
+          "rating": 4.7,
+          "reviews": 1000,
+          "purchased": 3800,
+          "shop": "YCAR"
+        },
+        {
+          "productId": "4331314718",
+          "url": "https://market.yandex.ru/card/derzhatel-dlya-telefona-avtomobilnyy-ycar-na-prisoske-na-steklo-na-panel/4331314718",
+          "title": "Держатель для телефона автомобильный YCAR на присоске на стекло на панель",
+          "price": 351,
+          "rating": 4.8,
+          "reviews": 518,
+          "purchased": 2400,
+          "shop": "YCAR"
+        },
+        {
+          "productId": "102565522748",
+          "url": "https://market.yandex.ru/card/derzhatel-dlya-telefona-avtomobilnyy-magnitnyy--derzhatel-dlya-smartfona-na-vozdukhovod-v-mashinu/102565522748",
+          "title": "Держатель для телефона автомобильный магнитный / Держатель для смартфона на воздуховод в машину",
+          "price": 304,
+          "rating": 4.7,
+          "reviews": 563,
+          "purchased": 1500,
+          "shop": null
+        },
+        {
+          "productId": "4596626433",
+          "url": "https://market.yandex.ru/card/derzhatel-dlya-telefona-v-mashinu-na-prisoske-vydvizhnoy/4596626433",
+          "title": "Держатель для телефона в машину на присоске выдвижной",
+          "price": 325,
+          "rating": 4.9,
+          "reviews": 316,
+          "purchased": 1200,
+          "shop": null
+        },
+        {
+          "productId": "5555747537",
+          "url": "https://market.yandex.ru/card/magnitnyy-derzhatel-dlya-telefona-v-avtomobil-na-vozdukhovod-5-magnitov-360-universalnyy-avtoderzhatel/5555747537",
+          "title": "Магнитный держатель для телефона, автомобильный, универсальный, на воздуховоде, 5 магнитов",
+          "price": 149,
+          "rating": 4.3,
+          "reviews": 123,
+          "purchased": 521,
+          "shop": null
+        }
+      ]
+    },
+    {
+      "nicheId": "duhi",
+      "label": "Духи и парфюмерия",
+      "category": "Косметика",
+      "categoryPath": "Красота и уход / Парфюмерия",
+      "itemCount": 8,
+      "medianPrice": 454,
+      "avgRating": 4.6,
+      "totalPurchased": 12189,
+      "totalReviews": 3064,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "102663291152",
+          "url": "https://market.yandex.ru/card/aroma-box-nabor-3-top-populyarnykh-aromatov-dlya-neye/102663291152",
+          "title": "Aroma Box Набор #3 Топ популярных ароматов для нее, с ярким шлейфом",
+          "price": 1520,
+          "rating": 4.8,
+          "reviews": 1000,
+          "purchased": 6200,
+          "shop": null
+        },
+        {
+          "productId": "4728249211",
+          "url": "https://market.yandex.ru/card/dukhi-zhenski-maslyanyye-po-motivam-richard---white-chocola-30-ml-podarok-dlya-zhenshchin-dukhi-belyy-shokolad/4728249211",
+          "title": "Духи женски масляные по мотивам White Chocola, 30 мл. Духи Белый Шоколад",
+          "price": 383,
+          "rating": 4.8,
+          "reviews": 839,
+          "purchased": 2500,
+          "shop": "ВПАРФЮМЕ"
+        },
+        {
+          "productId": "103197659221",
+          "url": "https://market.yandex.ru/card/zhenskiye-dukhi-about-you-trendy-for-her-tualetnaya-voda-zhenskaya-parfyum-zhenskiy-dukhi-zhenskiye-fruktovyye-arbuz/103197659221",
+          "title": "Женские духи About You Trendy for her, туалетная вода женская, парфюм женский, духи женские, фруктовые, арбуз,",
+          "price": 526,
+          "rating": 4.6,
+          "reviews": 543,
+          "purchased": 1500,
+          "shop": "ООО \"Клас-трейдинг\""
+        },
+        {
+          "productId": "102197984993",
+          "url": "https://market.yandex.ru/card/city-sexy-be-top-siti-seksi-bi-top-tualetnaya-voda-zhenskaya-dukhi-zhenskiye-s-feromonami/102197984993",
+          "title": "City Sexy Be Top, Сити Секси Би Топ туалетная вода женская, духи женские с феромонами",
+          "price": 475,
+          "rating": 4.8,
+          "reviews": 277,
+          "purchased": 715,
+          "shop": "ООО \"Клас-трейдинг\""
+        },
+        {
+          "productId": "4573541182",
+          "url": "https://market.yandex.ru/card/dukhi-fruktovyye-svezhiye-awake-wake-me/4573541182",
+          "title": "Духи фруктовые свежие Awake Wake me up, свежие, фруктовые, черная смородина",
+          "price": 511,
+          "rating": 4.4,
+          "reviews": 171,
+          "purchased": 588,
+          "shop": "ООО \"Клас-трейдинг\""
+        },
+        {
+          "productId": "102923024618",
+          "url": "https://market.yandex.ru/card/christine-lavoisier-parfums-my-inspiration-may-inspireyshn-dukhi-zhenskiye-sladkiye-vanil-tualetnaya-voda-50-ml/102923024618",
+          "title": "Christine Lavoisier Parfums My Inspiration Май Инспирэйшн духи женские сладкие ваниль",
+          "price": 432,
+          "rating": 4.7,
+          "reviews": 162,
+          "purchased": 487,
+          "shop": "ООО \"Клас-трейдинг\""
+        }
+      ]
+    },
+    {
+      "nicheId": "fitnes_rezinka",
+      "label": "Фитнес резинка",
+      "category": "Спорт и отдых",
+      "categoryPath": "Спорт и отдых / Фитнес и йога",
+      "itemCount": 8,
+      "medianPrice": 372,
+      "avgRating": 4.76,
+      "totalPurchased": 12778,
+      "totalReviews": 2275,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "103202602243",
+          "url": "https://market.yandex.ru/card/mini-espandery-starfit-es-203-pastel-4-sht/103202602243",
+          "title": "Мини-эспандеры для фитнеса STARFIT ES-203, пастель, 4 уровня нагрузки",
+          "price": 522,
+          "rating": 4.7,
+          "reviews": 380,
+          "purchased": 3300,
+          "shop": null
+        },
+        {
+          "productId": "4449215622",
+          "url": "https://market.yandex.ru/card/rezinka-dlya-fitnesa-zhgut-dlya-trenirovok-espander-rezinka-dlya-turnika-zelenaya-23-57-kg/4449215622",
+          "title": "Резинка для фитнеса, жгут для тренировок, эспандер, резинка для турника, зелёная (23-57 кг)",
+          "price": 548,
+          "rating": 4.9,
+          "reviews": 545,
+          "purchased": 2700,
+          "shop": "inlons"
+        },
+        {
+          "productId": "4538984851",
+          "url": "https://market.yandex.ru/card/rezinki-dlya-fitnesa-4-shtuki-zhgut-dlya-trenirovok-espander/4538984851",
+          "title": "Резинки для фитнеса 4 штуки набор, жгут мужской для тренировок, эспандер, лента спортивная женская",
+          "price": 931,
+          "rating": 4.8,
+          "reviews": 452,
+          "purchased": 2300,
+          "shop": null
+        },
+        {
+          "productId": "4384887098",
+          "url": "https://market.yandex.ru/card/fitnes-rezinki-nabor-iz-5-mini-petel/4384887098",
+          "title": "Фитнес-резинки для ног и ягодиц BAND4POWER 5шт, латексные резинки, для разных групп мышц, фитнес ленты",
+          "price": 188,
+          "rating": 4.6,
+          "reviews": 425,
+          "purchased": 2000,
+          "shop": null
+        },
+        {
+          "productId": "4542367404",
+          "url": "https://market.yandex.ru/card/fitnes-rezinki-dlya-nog-i-yagodits-nabor-5-shtuk/4542367404",
+          "title": "Фитнес резинки для ног и ягодиц, набор 5 штук",
+          "price": 163,
+          "rating": 4.6,
+          "reviews": 425,
+          "purchased": 2000,
+          "shop": null
+        },
+        {
+          "productId": "102752687687",
+          "url": "https://market.yandex.ru/card/rezinki-dlya-fitnesa-colorfit-nabor-iz-dvukh-rezinok-raznoy-nagruzki/102752687687",
+          "title": "Резинки для фитнеса Colorfit набор из двух резинок разной нагрузки",
+          "price": 291,
+          "rating": 4.9,
+          "reviews": 20,
+          "purchased": 180,
+          "shop": null
+        }
+      ]
+    },
+    {
+      "nicheId": "futbolka_muzh",
+      "label": "Футболка мужская",
+      "category": "Одежда",
+      "categoryPath": "Одежда / Мужская одежда",
+      "itemCount": 24,
+      "medianPrice": 915,
+      "avgRating": 4.79,
+      "totalPurchased": 357503,
+      "totalReviews": 47093,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "103071163087",
+          "url": "https://market.yandex.ru/card/muzhskaya-futbolka-bazovaya-tsveta-chernyy-razmer-68/103071163087",
+          "title": "НАТАЛИ СУСЛОВАФутболка",
+          "price": 532,
+          "rating": 4.7,
+          "reviews": 12500,
+          "purchased": 49500,
+          "shop": "Natali37"
+        },
+        {
+          "productId": "103780382575",
+          "url": "https://market.yandex.ru/card/bazovaya-plotnaya-klassicheskaya-futbolka-tvoye-tsvet-belyy/103780382575",
+          "title": "ТВОЕФутболка мужская хлопок белая",
+          "price": 651,
+          "rating": 4.8,
+          "reviews": 6300,
+          "purchased": 45400,
+          "shop": "ТВОЕ"
+        },
+        {
+          "productId": "103737418585",
+          "url": "https://market.yandex.ru/card/futbolka-muzhskaya-belyy-2xl-3xl-int/103737418585",
+          "title": "MUTEDФутболка OVERSIZE",
+          "price": 1690,
+          "rating": 4.8,
+          "reviews": 3800,
+          "purchased": 41000,
+          "shop": "Яндекс Фабрика"
+        },
+        {
+          "productId": "102093633574",
+          "url": "https://market.yandex.ru/card/odnotonnaya-futbolka-muzhskaya-khlopok-bazovaya-dlya-muzhchin-happyfox-hf9113-razmer-50-tsvet-belyy/102093633574",
+          "title": "HAPPYFOXФутболка Для мужчин",
+          "price": 511,
+          "rating": 4.8,
+          "reviews": 7200,
+          "purchased": 34100,
+          "shop": null
+        },
+        {
+          "productId": "4737366114",
+          "url": "https://market.yandex.ru/card/muzhskaya-futbolka-pryamogo-kroya-seryy-xl-int/4737366114",
+          "title": "MUTEDФутболка REGULAR",
+          "price": 840,
+          "rating": 4.8,
+          "reviews": 3200,
+          "purchased": 33100,
+          "shop": "Яндекс Фабрика"
+        },
+        {
+          "productId": "5093112362",
+          "url": "https://market.yandex.ru/card/muzhskaya-futbolka-pryamogo-kroya-base-chernyy-m-int/5093112362",
+          "title": "MUTEDФутболка REGULAR BASE",
+          "price": 790,
+          "rating": 4.8,
+          "reviews": 1100,
+          "purchased": 16200,
+          "shop": "Яндекс Фабрика"
+        }
+      ]
+    },
+    {
+      "nicheId": "kovrik_yoga",
+      "label": "Коврик для йоги",
+      "category": "Спорт и отдых",
+      "categoryPath": "Спорт и отдых / Йога и пилатес",
+      "itemCount": 8,
+      "medianPrice": 1088,
+      "avgRating": 4.76,
+      "totalPurchased": 49119,
+      "totalReviews": 9664,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "103202890598",
+          "url": "https://market.yandex.ru/card/kovrik-dlya-yogi-i-fitnesa-starfit-fm-201-tpe-183x61x04-sm-persikovyyseryy-s-shnurkom-dlya-perenoski/103202890598",
+          "title": "Коврик для йоги и фитнеса STARFIT FM-201, 183x61x0,4 см, персиковый/серый с шнурком для переноски",
+          "price": 976,
+          "rating": 4.9,
+          "reviews": 2000,
+          "purchased": 13000,
+          "shop": null
+        },
+        {
+          "productId": "5960680347",
+          "url": "https://market.yandex.ru/card/kovrik-dlya-yogi-i-fitnesa-starfit-fm-201-tpe-183x61x06-sm-vishnevyybezhevyy/5960680347",
+          "title": "Коврик для йоги и фитнеса STARFIT FM-201, ТПЭ, 183x61x0,6 см, вишневый/бежевый",
+          "price": 1492,
+          "rating": 4.9,
+          "reviews": 2000,
+          "purchased": 13000,
+          "shop": null
+        },
+        {
+          "productId": "102138912367",
+          "url": "https://market.yandex.ru/card/kovrik-dlya-yogi-i-fitnesa-mela/102138912367",
+          "title": "Нескользящий коврик для занятий спортом, йогой и фитнесом",
+          "price": 1113,
+          "rating": 4.9,
+          "reviews": 2900,
+          "purchased": 12000,
+          "shop": null
+        },
+        {
+          "productId": "102605032213",
+          "url": "https://market.yandex.ru/card/kovrik-dlya-yogi-i-fitnesa-sportivnyy-dvukhtsvetnyy-tpe-183x61x06-sm-bezhevyychernyy-daswerk-680030/102605032213",
+          "title": "Коврик для йоги и фитнеса нескользящий двухсторонний спортивный ТПЭ, ковер для тренировок, с чехлом, 183x61x0,6 см, бежевый/черный, Daswerk, 680030",
+          "price": 1064,
+          "rating": 4.9,
+          "reviews": 2600,
+          "purchased": 9700,
+          "shop": "Самсон ГК"
+        },
+        {
+          "productId": "102954475904",
+          "url": "https://market.yandex.ru/card/kovrik-sportivnyy-dlya-yogi-i-fitnesa-paidu-bsci-200x80x15-sm-zelenyy/102954475904",
+          "title": "Коврик для йоги и фитнеса большой широкий нескользящий ActiveBoost 200x80x1,5 см, зеленый",
+          "price": 2629,
+          "rating": 4.8,
+          "reviews": 90,
+          "purchased": 492,
+          "shop": null
+        },
+        {
+          "productId": "6049470968",
+          "url": "https://market.yandex.ru/card/kovrik-dlya-yogi-i-fitnesa-shappa-fit-eva-183kh61kh04sm---tsvet-rozovyy-s-lyamkami-dlya-perenosa--kovrik-dlya-fitnesa/6049470968",
+          "title": "Коврик для йоги и фитнеса Shappa Fit (EVA 183х61х0.4см ) , цвет розовый, с лямками для переноса , коврик для фитнеса",
+          "price": 616,
+          "rating": 4.4,
+          "reviews": 29,
+          "purchased": 325,
+          "shop": null
+        }
+      ]
+    },
+    {
+      "nicheId": "krossovki_muzh",
+      "label": "Кроссовки мужские",
+      "category": "Обувь",
+      "categoryPath": "Обувь / Мужская обувь",
+      "itemCount": 24,
+      "medianPrice": 1958,
+      "avgRating": 4.62,
+      "totalPurchased": 29913,
+      "totalReviews": 9239,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "102046592916",
+          "url": "https://market.yandex.ru/card/krossovki-nobbaro-88nb-35-05/102046592916",
+          "title": "NOBBAROКроссовки Весна-лето 2024",
+          "price": 1093,
+          "rating": 4.6,
+          "reviews": 2100,
+          "purchased": 6100,
+          "shop": "MakFine"
+        },
+        {
+          "productId": "103156777343",
+          "url": "https://market.yandex.ru/card/krossovki-nobbaro-88nb1312-00260-3/103156777343",
+          "title": "NOBBAROКроссовки",
+          "price": 1509,
+          "rating": 4.5,
+          "reviews": 1900,
+          "purchased": 6000,
+          "shop": "MakFine"
+        },
+        {
+          "productId": "4762382772",
+          "url": "https://market.yandex.ru/card/krossovki-muzhskiye-gsd-sp-prime/4762382772",
+          "title": "GSDКроссовки SP PRIME M",
+          "price": 1839,
+          "rating": 4.8,
+          "reviews": 997,
+          "purchased": 3700,
+          "shop": null
+        },
+        {
+          "productId": "4762382771",
+          "url": "https://market.yandex.ru/card/krossovki-muzhskiye-gsd-sp-prime/4762382771",
+          "title": "GSDКроссовки SP PRIME M",
+          "price": 1839,
+          "rating": 4.8,
+          "reviews": 997,
+          "purchased": 3700,
+          "shop": null
+        },
+        {
+          "productId": "103157019782",
+          "url": "https://market.yandex.ru/card/krossovki-nobbaro-88nb1305-01660-1/103157019782",
+          "title": "NOBBAROКроссовки",
+          "price": 1568,
+          "rating": 4.6,
+          "reviews": 1000,
+          "purchased": 3400,
+          "shop": "MakFine"
+        },
+        {
+          "productId": "5212609336",
+          "url": "https://market.yandex.ru/card/krossovki-sportivnyye-jogel-daddy-tsvet-belyy-razmer-43/5212609336",
+          "title": "JOGELКроссовки",
+          "price": 2874,
+          "rating": 4.8,
+          "reviews": 563,
+          "purchased": 1700,
+          "shop": null
+        }
+      ]
+    },
+    {
+      "nicheId": "krossovki_zhen",
+      "label": "Кроссовки женские",
+      "category": "Обувь",
+      "categoryPath": "Обувь / Женская обувь",
+      "itemCount": 24,
+      "medianPrice": 2018,
+      "avgRating": 4.8,
+      "totalPurchased": 11532,
+      "totalReviews": 3790,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "102139497660",
+          "url": "https://market.yandex.ru/card/krossovki-nobbaro-07nb-116-01z4bb/102139497660",
+          "title": "NOBBAROКроссовки",
+          "price": 1769,
+          "rating": 4.6,
+          "reviews": 1400,
+          "purchased": 3900,
+          "shop": "MakFine"
+        },
+        {
+          "productId": "103057739343",
+          "url": "https://market.yandex.ru/card/krossovki-nobbaro-88nb511-06260-3/103057739343",
+          "title": "NOBBAROКроссовки",
+          "price": 856,
+          "rating": 4.8,
+          "reviews": 782,
+          "purchased": 2300,
+          "shop": "MakFine"
+        },
+        {
+          "productId": "5144937829",
+          "url": "https://market.yandex.ru/card/krossovki-vega-chernyy-41-r/5144937829",
+          "title": "LEOMAXКроссовки",
+          "price": 749,
+          "rating": 4.7,
+          "reviews": 511,
+          "purchased": 1400,
+          "shop": null
+        },
+        {
+          "productId": "102709570404",
+          "url": "https://market.yandex.ru/card/krossovki-zhenskiye-baasploa-belyye-38-razmer/102709570404",
+          "title": "BAASPLOAКроссовки CHUNKY",
+          "price": 4561,
+          "rating": 4.9,
+          "reviews": 229,
+          "purchased": 777,
+          "shop": "Baasploa"
+        },
+        {
+          "productId": "5353515388",
+          "url": "https://market.yandex.ru/card/krossovki-zhenskiye-letniye/5353515388",
+          "title": "NOBBAROКроссовки",
+          "price": 1852,
+          "rating": 4.7,
+          "reviews": 107,
+          "purchased": 471,
+          "shop": "MakFine"
+        },
+        {
+          "productId": "103779300679",
+          "url": "https://market.yandex.ru/card/krossovki-zhenskiye-matrix-sport-osalla/103779300679",
+          "title": "MATRIX SPORTКроссовки OSALLA W",
+          "price": 1949,
+          "rating": 4.9,
+          "reviews": 129,
+          "purchased": 467,
+          "shop": null
+        }
+      ]
+    },
+    {
+      "nicheId": "mashinka_radio",
+      "label": "Радиоуправляемая машинка",
+      "category": "Детские товары",
+      "categoryPath": "Детские товары / Игрушки",
+      "itemCount": 8,
+      "medianPrice": 2141,
+      "avgRating": 4.64,
+      "totalPurchased": 49776,
+      "totalReviews": 9819,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "103566355957",
+          "url": "https://market.yandex.ru/card/radioupravlyayemyy-samosval-cubits-urbamax-t300-so-svetom-masshtab-118/103566355957",
+          "title": "Радиоуправляемый самосвал Cubits Urbamax T300 со светом, масштаб 1:18",
+          "price": 2201,
+          "rating": 4.8,
+          "reviews": 8400,
+          "purchased": 42600,
+          "shop": "Яндекс Фабрика"
+        },
+        {
+          "productId": "4689192343",
+          "url": "https://market.yandex.ru/card/igrushka-na-radioupravlenii-mashina-skorostnaya-ultimotors-spiro/4689192343",
+          "title": "Игрушка на радиоуправлении, машина скоростная Ultimotors SPIRO",
+          "price": 2081,
+          "rating": 4.7,
+          "reviews": 597,
+          "purchased": 3800,
+          "shop": "Яндекс Фабрика"
+        },
+        {
+          "productId": "102105512252",
+          "url": "https://market.yandex.ru/card/mashina-radioupravlyayemaya-shoukar-rabotayet-ot-batareyek-tsvet-rozovyy/102105512252",
+          "title": "Машина радиоуправляемая \"Шоукар\" работает от батареек, масштаб 1:24,",
+          "price": 353,
+          "rating": 4.0,
+          "reviews": 403,
+          "purchased": 1400,
+          "shop": "Сима-Ленд - Детские товары"
+        },
+        {
+          "productId": "4722630498",
+          "url": "https://market.yandex.ru/card/331980-mashinki-na-pulte-upravleniya-happy-baby-crush-bump-dlya-devochek-i-malchikov-interaktivnyye-igrushki-dlya-malyshey/4722630498",
+          "title": "331980, Машинки на пульте управления Happy Baby CRUSH BUMP для девочек и мальчиков, интерактивные игрушки для малышей",
+          "price": 3499,
+          "rating": 4.9,
+          "reviews": 98,
+          "purchased": 878,
+          "shop": "Happy Baby"
+        },
+        {
+          "productId": "4587185397",
+          "url": "https://market.yandex.ru/card/gonochnaya-mashinka-na-radioupravlenii-s-dymom-politsiya---belaya-radioupravlyayemaya-gonochnaya-mashinka-s-driftom-i-svetovymi-effektami/4587185397",
+          "title": "Гоночная машинка на радиоуправлении с дымом \"Полиция\" - белая. Радиоуправляемая гоночная-машинка с дрифтом и световыми эффектами",
+          "price": 969,
+          "rating": 4.6,
+          "reviews": 155,
+          "purchased": 521,
+          "shop": null
+        },
+        {
+          "productId": "102942480289",
+          "url": "https://market.yandex.ru/card/mashinka-na-pulte-upravleniya-tekhnopark-vaz-2106-radioupravlyayemaya-so-svetom-18-sm/102942480289",
+          "title": "Машинка на пульте управления ТехноПарк ВАЗ-2106 радиоуправляемая со светом 18 см",
+          "price": 1015,
+          "rating": 4.6,
+          "reviews": 89,
+          "purchased": 345,
+          "shop": null
+        }
+      ]
+    },
+    {
+      "nicheId": "myagkie_igrushki",
+      "label": "Мягкие игрушки",
+      "category": "Детские товары",
+      "categoryPath": "Детские товары / Игрушки",
+      "itemCount": 8,
+      "medianPrice": 380,
+      "avgRating": 4.87,
+      "totalPurchased": 24966,
+      "totalReviews": 7680,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "103695735883",
+          "url": "https://market.yandex.ru/card/myagkaya-plyushevaya-igrushka-lenivets-lappi-iz-plyushvilya-junion-43kh21-tsvet-bezhevyy/103695735883",
+          "title": "Мягкая плюшевая игрушка Ленивец Лаппи из Плюшвиля, Junion, 43х21 см",
+          "price": 891,
+          "rating": 4.9,
+          "reviews": 7200,
+          "purchased": 23200,
+          "shop": "Яндекс Фабрика"
+        },
+        {
+          "productId": "103545347059",
+          "url": "https://market.yandex.ru/card/myagkaya-igrushka-kot-20-sm-tsvet-seryy/103545347059",
+          "title": "Мягкая игрушка ЛАС играс \"Кот\", полиэстер, синтепон, 20см, серая",
+          "price": 530,
+          "rating": 4.9,
+          "reviews": 414,
+          "purchased": 1400,
+          "shop": "Сима-Ленд - Детские товары"
+        },
+        {
+          "productId": "103050291481",
+          "url": "https://market.yandex.ru/card/myagkaya-igrushka-plyushevyy-zaychik-v-klubnichke-25-sm/103050291481",
+          "title": "Мягкая игрушка плюшевый зайчик в клубничке 25 см.",
+          "price": 396,
+          "rating": 5.0,
+          "reviews": 34,
+          "purchased": 209,
+          "shop": null
+        },
+        {
+          "productId": "4468705986",
+          "url": "https://market.yandex.ru/card/igrushka-iz-multseriala-graviti-folz-plyushevyy-porosenok-veddlz---udobnoye-khraneniye-podkhodit-dlya-detey/4468705986",
+          "title": "Игрушка из мультсериала \"Гравити Фолз\": Плюшевый поросенок Вэддлз - удобное хранение, подходит для детей.",
+          "price": 239,
+          "rating": 4.8,
+          "reviews": 22,
+          "purchased": 112,
+          "shop": null
+        },
+        {
+          "productId": "103536885639",
+          "url": "https://market.yandex.ru/card/myagkaya-igrushka-akula/103536885639",
+          "title": "Мягкая игрушка акула",
+          "price": 196,
+          "rating": 4.5,
+          "reviews": 4,
+          "purchased": 20,
+          "shop": null
+        },
+        {
+          "productId": "5028050821",
+          "url": "https://market.yandex.ru/card/myagkaya-igrushka-podushka-obnimashka-kot-baton-90sm-oranzhevyy/5028050821",
+          "title": "Мягкая игрушка, подушка-обнимашка Кот батон, 90см, оранжевый",
+          "price": 464,
+          "rating": 5.0,
+          "reviews": 5,
+          "purchased": 19,
+          "shop": null
+        }
+      ]
+    },
+    {
+      "nicheId": "naushniki",
+      "label": "Наушники",
+      "category": "Электроника",
+      "categoryPath": "Электроника / Наушники и аудиотехника",
+      "itemCount": 12,
+      "medianPrice": 1877,
+      "avgRating": 4.75,
+      "totalPurchased": 132371,
+      "totalReviews": 24627,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "4619300514",
+          "url": "https://market.yandex.ru/card/commo-one-antratsitovyy/4619300514",
+          "title": "Беспроводные наушники COMMO One 2.0, антрацитовый",
+          "price": 3690,
+          "rating": 4.8,
+          "reviews": 4000,
+          "purchased": 23700,
+          "shop": "Яндекс Фабрика"
+        },
+        {
+          "productId": "4391495741",
+          "url": "https://market.yandex.ru/card/commo-one-svetlo-goluboy/4391495741",
+          "title": "Беспроводные наушники COMMO One 2.0, светло-голубой",
+          "price": 3690,
+          "rating": 4.8,
+          "reviews": 4000,
+          "purchased": 23700,
+          "shop": "Яндекс Фабрика"
+        },
+        {
+          "productId": "4391487234",
+          "url": "https://market.yandex.ru/card/commo-one-svetlo-zelenyy/4391487234",
+          "title": "Беспроводные наушники COMMO One 2.0, светло-зеленый",
+          "price": 3690,
+          "rating": 4.8,
+          "reviews": 4000,
+          "purchased": 23700,
+          "shop": "Яндекс Фабрика"
+        },
+        {
+          "productId": "4391495745",
+          "url": "https://market.yandex.ru/card/commo-one-rozovyye/4391495745",
+          "title": "Беспроводные наушники COMMO One 2.0, розовый",
+          "price": 3690,
+          "rating": 4.8,
+          "reviews": 4000,
+          "purchased": 23700,
+          "shop": "Яндекс Фабрика"
+        },
+        {
+          "productId": "4391498452",
+          "url": "https://market.yandex.ru/card/commo-one-belyye/4391498452",
+          "title": "Беспроводные наушники COMMO One 2.0, белый",
+          "price": 3690,
+          "rating": 4.8,
+          "reviews": 4000,
+          "purchased": 23700,
+          "shop": "Яндекс Фабрика"
+        },
+        {
+          "productId": "5150079209",
+          "url": "https://market.yandex.ru/card/naushniki-besprovodnyye-pro-2-s-shumopodavleniyem-dlya-telefona/5150079209",
+          "title": "Наушники беспроводные Pro 2 с шумоподавлением и микрофоном для телефона",
+          "price": 2284,
+          "rating": 4.7,
+          "reviews": 1000,
+          "purchased": 3200,
+          "shop": null
+        }
+      ]
+    },
+    {
+      "nicheId": "organizer_avto",
+      "label": "Автоорганайзер",
+      "category": "Авто-аксессуары",
+      "categoryPath": "Автотовары / Аксессуары и принадлежности",
+      "itemCount": 8,
+      "medianPrice": 944,
+      "avgRating": 4.86,
+      "totalPurchased": 21281,
+      "totalReviews": 6158,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "102732394586",
+          "url": "https://market.yandex.ru/card/sumka-organayzer-v-bagazhnik-dlya-avtomobilya-70kh30kh30kofra-v-mashinuavtoboks-dlya-mashinysakvoyazh-v-avtoyashchik-dlya-khraneniya/102732394586",
+          "title": "Органайзер в багажник для автомобиля 70х30х30/сумка в машину/Кофр в машину/саквояж в авто/ящик для хранения",
+          "price": 1029,
+          "rating": 4.8,
+          "reviews": 5600,
+          "purchased": 19000,
+          "shop": null
+        },
+        {
+          "productId": "5288751866",
+          "url": "https://market.yandex.ru/card/organayzer-v-bagazhnik-avtomobilya/5288751866",
+          "title": "Органайзер в багажник, универсальный, 8 отделений, с сетчатыми отделениями и отделениями закрытого типа.",
+          "price": 562,
+          "rating": 4.7,
+          "reviews": 121,
+          "purchased": 720,
+          "shop": null
+        },
+        {
+          "productId": "4526207174",
+          "url": "https://market.yandex.ru/card/vysokiy-organayzer-v-bagazhnik-avtomobilya-903035-sm-risunok-slozhnyy-kvadrat-chernyy-strochka-chernaya/4526207174",
+          "title": "Высокий органайзер в багажник автомобиля, 90 см. большой универсальный, 90*30*35 см, рисунок квадрат черный/ строчка черная",
+          "price": 1579,
+          "rating": 4.9,
+          "reviews": 149,
+          "purchased": 461,
+          "shop": null
+        },
+        {
+          "productId": "102151720377",
+          "url": "https://market.yandex.ru/card/organayzer-v-bagazhnik-isky-poliester-35x23x21-sm-chernyy-art-iog-35b/102151720377",
+          "title": "Органайзер сумка в багажник для автомобиля, черный, 35x23x21, 17л",
+          "price": 601,
+          "rating": 4.8,
+          "reviews": 120,
+          "purchased": 412,
+          "shop": "ГК Юником"
+        },
+        {
+          "productId": "5758791079",
+          "url": "https://market.yandex.ru/card/organayzer-avtomobilnyy-zhestkiy-s-kryshkoy-dlya-bagazhnika-50x23x37-sm/5758791079",
+          "title": "Органайзер в багажник автомобиля, 50x23x37 см, сумка в машину/ящик в багажник автомобиля/кофр в багажник авто",
+          "price": 1347,
+          "rating": 4.9,
+          "reviews": 63,
+          "purchased": 355,
+          "shop": null
+        },
+        {
+          "productId": "103337490986",
+          "url": "https://market.yandex.ru/card/sumka-organayzer-v-bagazhnik-dlya-avtomobilya-dlya-nabora-avtomobilista-sumka-dlya-instrumenta/103337490986",
+          "title": "Сумка (органайзер) в багажник для автомобиля для набора автомобилиста; сумка для инструмента",
+          "price": 290,
+          "rating": 4.8,
+          "reviews": 101,
+          "purchased": 313,
+          "shop": null
+        }
+      ]
+    },
+    {
+      "nicheId": "patchi",
+      "label": "Патчи для лица/глаз",
+      "category": "Косметика",
+      "categoryPath": "Красота и уход / Уход за лицом / Патчи",
+      "itemCount": 22,
+      "medianPrice": 338,
+      "avgRating": 4.81,
+      "totalPurchased": 76179,
+      "totalReviews": 13078,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "103372184770",
+          "url": "https://market.yandex.ru/card/patchi-dlya-glaz-gidrogelevyye-vois-koreya-ot-temnykh-krugov-otekov-sinyakov-pod-glazami-uvlazhnyayushchiye-toniziruyushchiy-effekt-gelivyye-80-sht/103372184770",
+          "title": "VOIS Патчи для глаз от отеков, мешков и темных кругов с коллагеном, гидрогелевые, 80 шт в упаковке",
+          "price": 438,
+          "rating": 4.8,
+          "reviews": 3100,
+          "purchased": 23200,
+          "shop": "Vois Official store"
+        },
+        {
+          "productId": "103201140569",
+          "url": "https://market.yandex.ru/card/mixit-patchi-dlya-glaz-gidrogelevyye-ot-otekov-i-temnykh-krugov-s-gialuronovoy-kislotoy/103201140569",
+          "title": "MIXIT Патчи для глаз гидрогелевые от отеков и темных кругов с гиалуроновой кислотой",
+          "price": 500,
+          "rating": 4.7,
+          "reviews": 3100,
+          "purchased": 16600,
+          "shop": "MIXIT"
+        },
+        {
+          "productId": "103653345109",
+          "url": "https://market.yandex.ru/card/gidrogelevyye-patchi-milk-gegemoon-uvlazhnyayushchiye-60-sht/103653345109",
+          "title": "Гидрогелевые патчи GEGEMOON Milk, для всех типов кожи, увлажнение, питание 60шт",
+          "price": 183,
+          "rating": 4.7,
+          "reviews": 2000,
+          "purchased": 7900,
+          "shop": null
+        },
+        {
+          "productId": "4337272070",
+          "url": "https://market.yandex.ru/card/vois-gidrogelevyye-patchi-dlya-glaz-ot-otekov-i-temnykh-krugov-s-avokado-i-listyami-zelenogo-chaya-intensivno-uvlazhnyayushchiye-i-omolazhivayushchiye-80-sht-v-upakovke/4337272070",
+          "title": "VOIS Гидрогелевые патчи для глаз от отеков и темных кругов с экстрактом бурых водорослей и зелёного чая, 80 шт",
+          "price": 309,
+          "rating": 4.8,
+          "reviews": 1000,
+          "purchased": 7700,
+          "shop": "Vois Official store"
+        },
+        {
+          "productId": "103197017178",
+          "url": "https://market.yandex.ru/card/gidrogelevyye-patchi-pod-glaza-s-avokado-zozu/103197017178",
+          "title": "Увлажняющие гидрогелевые патчи под глаза ZOZU с экстрактом авокадо, 60 штук",
+          "price": 175,
+          "rating": 4.7,
+          "reviews": 1800,
+          "purchased": 6700,
+          "shop": null
+        },
+        {
+          "productId": "4337272072",
+          "url": "https://market.yandex.ru/card/vois-gidrogelevyye-patchi-dlya-glaz-ot-otekov-i-temnykh-krugov-s-mutsinom-ulitki-intensivno-uvlazhnyayushchiye-i-omolazhivayushchiye-80-sht-v-upakovke/4337272072",
+          "title": "VOIS Гидрогелевые патчи для глаз от отеков, мешков и темных кругов с витамином А увлажняющие, 80шт",
+          "price": 312,
+          "rating": 4.8,
+          "reviews": 545,
+          "purchased": 5100,
+          "shop": "Vois Official store"
+        }
+      ]
+    },
+    {
+      "nicheId": "plate_zhen",
+      "label": "Платье женское",
+      "category": "Одежда",
+      "categoryPath": "Одежда / Платья и сарафаны",
+      "itemCount": 24,
+      "medianPrice": 960,
+      "avgRating": 4.77,
+      "totalPurchased": 19062,
+      "totalReviews": 5442,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "101843478455",
+          "url": "https://market.yandex.ru/card/platye-zhenskoyepovsednevnoyesofiya37-tsvet-temno-siniy-razmer-52/101843478455",
+          "title": "СОФИЯ 37Платье",
+          "price": 696,
+          "rating": 4.7,
+          "reviews": 1600,
+          "purchased": 4500,
+          "shop": null
+        },
+        {
+          "productId": "103066604978",
+          "url": "https://market.yandex.ru/card/platye-natali-chernoye-midi-razmera-44/103066604978",
+          "title": "НАТАЛИ СУСЛОВАПлатье",
+          "price": 713,
+          "rating": 4.9,
+          "reviews": 693,
+          "purchased": 2100,
+          "shop": "Natali37"
+        },
+        {
+          "productId": "103721542495",
+          "url": "https://market.yandex.ru/card/platye-prazdnichnoye-r-r-48-50/103721542495",
+          "title": "VANNOПлатье",
+          "price": 1458,
+          "rating": 4.8,
+          "reviews": 761,
+          "purchased": 1800,
+          "shop": null
+        },
+        {
+          "productId": "4371543940",
+          "url": "https://market.yandex.ru/card/platye-zhenskoye-letneye-s-bakhromoy-tsvet-chernyy-razmer-56/4371543940",
+          "title": "IFEIZIONПлатье",
+          "price": 1147,
+          "rating": 4.8,
+          "reviews": 418,
+          "purchased": 1700,
+          "shop": "Natali37"
+        },
+        {
+          "productId": "5564621003",
+          "url": "https://market.yandex.ru/card/trikotazhnoye-platye-maksi-bez-rukavov/5564621003",
+          "title": "SELAПлатье",
+          "price": 958,
+          "rating": 4.9,
+          "reviews": 174,
+          "purchased": 1300,
+          "shop": "SELA"
+        },
+        {
+          "productId": "4588168297",
+          "url": "https://market.yandex.ru/card/platye-lapsha-zhenskoye-sofiya37-tsvet-chernyy-razmer-54/4588168297",
+          "title": "СОФИЯ 37Платье",
+          "price": 613,
+          "rating": 4.8,
+          "reviews": 488,
+          "purchased": 1100,
+          "shop": null
+        }
+      ]
+    },
+    {
+      "nicheId": "pomada",
+      "label": "Губная помада",
+      "category": "Косметика",
+      "categoryPath": "Красота и уход / Макияж",
+      "itemCount": 24,
+      "medianPrice": 262,
+      "avgRating": 4.75,
+      "totalPurchased": 80111,
+      "totalReviews": 21091,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "102154818050",
+          "url": "https://market.yandex.ru/card/solntsezashchitnaya-uvlazhnyayushchaya-gubnaya-pomada-s-vitaminom-ye-protivosolnechnyy-faktor-zashchity-spf-20/102154818050",
+          "title": "Солнцезащитная увлажняющая губная помада с витамином Е (противосолнечный фактор защиты SPF 20)",
+          "price": 419,
+          "rating": 4.9,
+          "reviews": 2800,
+          "purchased": 18400,
+          "shop": null
+        },
+        {
+          "productId": "102190949803",
+          "url": "https://market.yandex.ru/card/pomada-dlya-gub-kiki-velvet-ottenok-811-solenaya-karamel-matovaya/102190949803",
+          "title": "Губная помада kiki VELVET тон 811 насыщенная пыльная роза стойкая увлажняющая кремовая текстура стик, кики",
+          "price": 217,
+          "rating": 4.6,
+          "reviews": 4400,
+          "purchased": 14200,
+          "shop": null
+        },
+        {
+          "productId": "103581341681",
+          "url": "https://market.yandex.ru/card/infaillible-zhidkaya-matovaya-pomada/103581341681",
+          "title": "L'Oreal Paris Жидкая матовая помада Infaillible, оттенок 240",
+          "price": 1105,
+          "rating": 4.8,
+          "reviews": 4000,
+          "purchased": 13200,
+          "shop": "Яндекс Маркет"
+        },
+        {
+          "productId": "102204978972",
+          "url": "https://market.yandex.ru/card/pomada-dlya-gub-kiki-cilene-ottenok-155-c-aloe-i-vitaminom-ye-shokoladno-korichnevyy-s-glyantsevym-bleskom/102204978972",
+          "title": "Помада для губ kiki с aloe & vit E тон 155 шоколадно-коричневый с перламутром стойкая увлажняющая глянцевая, кики",
+          "price": 182,
+          "rating": 4.2,
+          "reviews": 4300,
+          "purchased": 12800,
+          "shop": null
+        },
+        {
+          "productId": "102175484530",
+          "url": "https://market.yandex.ru/card/divage-pomada-balzam-dlya-gub-nude-balm-lipstick-ton-05-yagodnaya/102175484530",
+          "title": "Divage Губная помада Lipstick Nude Balm Тон 05 rose umber",
+          "price": 457,
+          "rating": 4.7,
+          "reviews": 2600,
+          "purchased": 8300,
+          "shop": "Divage Group"
+        },
+        {
+          "productId": "103566160441",
+          "url": "https://market.yandex.ru/card/pomada-balzam-dlya-gub-uvlazhnyayushchaya-mint-balm-ton-104-spice-girls/103566160441",
+          "title": "Помада бальзам для губ увлажняющая Mint Balm тон 104 Spice Girls",
+          "price": 275,
+          "rating": 4.8,
+          "reviews": 1000,
+          "purchased": 3800,
+          "shop": "Ditalir"
+        }
+      ]
+    },
+    {
+      "nicheId": "poverbank",
+      "label": "Повербанки",
+      "category": "Электроника",
+      "categoryPath": "Электроника / Аксессуары для смартфонов / Внешние аккумуляторы",
+      "itemCount": 8,
+      "medianPrice": 1300,
+      "avgRating": 4.7,
+      "totalPurchased": 31011,
+      "totalReviews": 9950,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "103201457597",
+          "url": "https://market.yandex.ru/card/poverbank-mini-5000-mah-razyem-type-c-walker-wb-950-powerbank-pauer-bank-paverbank-pauer-bank-dlya-telefona-poverbank-xiaomi-belyy/103201457597",
+          "title": "Повербанк мини тайп си 5000 mAh, разъем Type-C, пауэр банк, павербанк, пауэр банк для телефона, Powerbank в сумку",
+          "price": 922,
+          "rating": 4.6,
+          "reviews": 8700,
+          "purchased": 24700,
+          "shop": "WALKER PRO"
+        },
+        {
+          "productId": "4405854242",
+          "url": "https://market.yandex.ru/card/portativnyy-vneshniy-akkumulyator-commo-aeon-10000-mach-pd-20-vt-molochnyy/4405854242",
+          "title": "Портативный внешний аккумулятор COMMO AEON 10000 мАч, PD 20 Вт, молочный",
+          "price": 2050,
+          "rating": 4.7,
+          "reviews": 889,
+          "purchased": 4700,
+          "shop": "Яндекс Фабрика"
+        },
+        {
+          "productId": "103821253024",
+          "url": "https://market.yandex.ru/card/poverbank-powerbank-20000mach-mah-225wvt-pdqc-30fly94/103821253024",
+          "title": "Повербанк (PowerBank) 20000мАч (mAh) 22.5W(Вт) PD+QC 3.0/FLY94",
+          "price": 1677,
+          "rating": 4.8,
+          "reviews": 300,
+          "purchased": 1200,
+          "shop": null
+        },
+        {
+          "productId": "6057386997",
+          "url": "https://market.yandex.ru/card/vneshniy-akkumulyator-30000-mach-s-bystroy-zaryadkoy/6057386997",
+          "title": "Повербанк 30000 mah Power bank с быстрой зарядкой",
+          "price": 1793,
+          "rating": 4.9,
+          "reviews": 15,
+          "purchased": 168,
+          "shop": null
+        },
+        {
+          "productId": "103506892006",
+          "url": "https://market.yandex.ru/card/vneshniy-akkumulyator-power-bank-hoco-j100-high-ranking-10000mach-chernyy--1/103506892006",
+          "title": "Внешний аккумулятор (Power Bank) Hoco J100 High-ranking, 10000мAч, черный",
+          "price": 613,
+          "rating": 4.6,
+          "reviews": 16,
+          "purchased": 102,
+          "shop": "СИТИЛИНК"
+        },
+        {
+          "productId": "6057583214",
+          "url": "https://market.yandex.ru/card/vneshniy-akkumulyator-50000-mach-s-solnechnoy-panelyu-power-bank/6057583214",
+          "title": "Power Bank 50000 mAh с солнечной панелью внешний аккумулятор",
+          "price": 1806,
+          "rating": 4.9,
+          "reviews": 15,
+          "purchased": 71,
+          "shop": null
+        }
+      ]
+    },
+    {
+      "nicheId": "proektor",
+      "label": "Проекторы и ночники",
+      "category": "Электроника",
+      "categoryPath": "Электроника / Телевизоры и видеотехника (смешанная выдача)",
+      "itemCount": 8,
+      "medianPrice": 7644,
+      "avgRating": 4.5,
+      "totalPurchased": 16718,
+      "totalReviews": 6802,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "103591080522",
+          "url": "https://market.yandex.ru/card/proyektor-zvezdnogo-neba-kosmonavt-lazernyy-proyektor-nochnik-domashniy-planetariy-astroplanetariy-star-sky/103591080522",
+          "title": "Лазерный проектор звёздного неба Космонавт Star Sky белый — ночник‑домашний планетарий",
+          "price": 783,
+          "rating": 4.7,
+          "reviews": 5000,
+          "purchased": 13000,
+          "shop": "Скуфяндия"
+        },
+        {
+          "productId": "5796483224",
+          "url": "https://market.yandex.ru/card/proyektor-dlya-filmov-smart-tv-ultra-hd-4k-na-android--wi-fi-hdmi-usb--proyektor-versiya-2026/5796483224",
+          "title": "Проектор для фильмов Smart TV, ULTRA HD 4К на Android + Wi-Fi, HDMI, USB / проектор версия 2026",
+          "price": 8847,
+          "rating": 4.6,
+          "reviews": 598,
+          "purchased": 1600,
+          "shop": "Electro Fusion"
+        },
+        {
+          "productId": "5972084923",
+          "url": "https://market.yandex.ru/card/umnyy-proyektor-dlya-filmov-portativnyy-domashniy-dlya-doma-dachi-igr-i-puteshestviy-2026-smart-tv-full-hd-8k-android-130-wi-fi-5g-hdmi/5972084923",
+          "title": "Умный проектор для фильмов, Новая версия, Андроид ТВ, Wi-Fi, Блютуз",
+          "price": 4477,
+          "rating": 4.5,
+          "reviews": 281,
+          "purchased": 893,
+          "shop": null
+        },
+        {
+          "productId": "4824567006",
+          "url": "https://market.yandex.ru/card/proyektor-4k-xiaomi-smart-projector-l1-google-tv-200-iso-lyumen-distantsionnogo-upravleniya-netflix-global-version/4824567006",
+          "title": "Проектор Xiaomi Smart Projector L1 Google TV ,200 ISO люмен, дистанционного управления Netflix, Global Version",
+          "price": 20448,
+          "rating": 4.7,
+          "reviews": 759,
+          "purchased": 759,
+          "shop": null
+        },
+        {
+          "productId": "5789461226",
+          "url": "https://market.yandex.ru/card/proyektor-dlya-filmov/5789461226",
+          "title": "Проектор для домашнего кинотеатра, проектор для фильмов Х2, мини проектор для фильмов",
+          "price": 9486,
+          "rating": 4.9,
+          "reviews": 97,
+          "purchased": 244,
+          "shop": null
+        },
+        {
+          "productId": "103744390177",
+          "url": "https://market.yandex.ru/card/portativnyy-proyektor-dlya-domashnego-kinoteatra-bluetooth-wi-fi-full-hd-s-russkim-yazykom/103744390177",
+          "title": "Портативный игровой проектор с джойстиками для кинотеатра с русским языком",
+          "price": 6441,
+          "rating": 4.6,
+          "reviews": 56,
+          "purchased": 158,
+          "shop": null
+        }
+      ]
+    },
+    {
+      "nicheId": "ryukzak",
+      "label": "Рюкзаки и сумки",
+      "category": "Аксессуары",
+      "categoryPath": "Аксессуары (смешанная выдача)",
+      "itemCount": 24,
+      "medianPrice": 1850,
+      "avgRating": 4.78,
+      "totalPurchased": 17877,
+      "totalReviews": 5389,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "102823048810",
+          "url": "https://market.yandex.ru/card/ryukzak-muzhskoy-gorodskoy-sportivnyy-shkolnyy-turisticheskiy-rizziano-seryy-asfalt/102823048810",
+          "title": "RIZZIANOРюкзак мужской городской спортивный школьный туристический Rizziano, серый асфальт",
+          "price": 984,
+          "rating": 4.8,
+          "reviews": 1400,
+          "purchased": 3800,
+          "shop": null
+        },
+        {
+          "productId": "103196174667",
+          "url": "https://market.yandex.ru/card/ryukzak-muzhskoy-gorodskoy-mark-ryden-street-zhenskiy-dorozhnyy-bolshoy-28l-dlya-noutbuka-17-chernyy-shkolnyy-podrostkovyy-vodonepronitsayemyy-s-usb-zaryadkoy/103196174667",
+          "title": "MARK RYDENРюкзак мужской спортивный городской Mark Ryden MR9031Y_SJ ноутбук 17,3\" 30л, повседневный, дорожный большой",
+          "price": 7192,
+          "rating": 4.9,
+          "reviews": 1300,
+          "purchased": 3400,
+          "shop": "Mark Ryden"
+        },
+        {
+          "productId": "4351108188",
+          "url": "https://market.yandex.ru/card/ryukzak-xiaomi-mi-colorful-mini-backpack-10-l-dlya-sporta-i-otdykha-chernyy/4351108188",
+          "title": "XIAOMIРюкзак Xiaomi Mi Colorful Mini Backpack 10 л. Для спорта и отдыха. Черный",
+          "price": 720,
+          "rating": 4.7,
+          "reviews": 615,
+          "purchased": 3200,
+          "shop": "MI_STORE_MARKET"
+        },
+        {
+          "productId": "4783640089",
+          "url": "https://market.yandex.ru/card/ryukzak-muzhskoy-gorodskoy-s-otdeleniyem-dlya-noutbuka-universalnyy/4783640089",
+          "title": "Рюкзак мужской городской с отделением для ноутбука, Универсальный",
+          "price": 1838,
+          "rating": 4.9,
+          "reviews": 674,
+          "purchased": 1900,
+          "shop": null
+        },
+        {
+          "productId": "5708900086",
+          "url": "https://market.yandex.ru/card/ryukzak-shkolnyy-jogel-essential-original-backpack-tsvet-chernyy/5708900086",
+          "title": "JOGELРюкзак школьный Jogel Essential Original Backpack, цвет черный",
+          "price": 2212,
+          "rating": 4.8,
+          "reviews": 337,
+          "purchased": 1600,
+          "shop": null
+        },
+        {
+          "productId": "4810510934",
+          "url": "https://market.yandex.ru/card/ryukzak-muzhskoy-gorodskoy-sportivnyy-shkolnyy-chernyy/4810510934",
+          "title": "Рюкзак мужской, городской, спортивный, школьный, тканевый, черный",
+          "price": 1435,
+          "rating": 4.7,
+          "reviews": 245,
+          "purchased": 1100,
+          "shop": null
+        }
+      ]
+    },
+    {
+      "nicheId": "smartchasy",
+      "label": "Умные часы",
+      "category": "Электроника",
+      "categoryPath": "Электроника / Умные часы и фитнес браслеты",
+      "itemCount": 8,
+      "medianPrice": 2640,
+      "avgRating": 4.38,
+      "totalPurchased": 7524,
+      "totalReviews": 2669,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "103240677017",
+          "url": "https://market.yandex.ru/card/umnyye-chasy-dlya-detey-aimoto-lite-2g-detskiye-chasy-telefon-s-obratnym-zvonkom-knopkoy-sos-lbs-geolokatsiya-chernyy/103240677017",
+          "title": "Умные часы для детей Aimoto Lite 2G детские часы телефон с обратным звонком, кнопкой SOS, LBS геолокация (черный)",
+          "price": 1128,
+          "rating": 4.0,
+          "reviews": 1300,
+          "purchased": 4200,
+          "shop": null
+        },
+        {
+          "productId": "5097297053",
+          "url": "https://market.yandex.ru/card/smart-chasy-muzhskiye-dlya-android-i-iphone-s-fonarikom-tri-remeshka-v-komplekte/5097297053",
+          "title": "Смарт часы мужские для андроид и iphone с фонариком три ремешка в комплекте",
+          "price": 3754,
+          "rating": 4.4,
+          "reviews": 1100,
+          "purchased": 2600,
+          "shop": null
+        },
+        {
+          "productId": "4590280546",
+          "url": "https://market.yandex.ru/card/smart-chasy-chasy-smartx-g1-amoled-udaroprochnyy-korpus-vlagozashchita-ip68-chernyy/4590280546",
+          "title": "Смарт часы Часы SmartX-G1 AMOLED Ударопрочный корпус Влагозащита-IP68 черный",
+          "price": 3728,
+          "rating": 4.8,
+          "reviews": 197,
+          "purchased": 491,
+          "shop": null
+        },
+        {
+          "productId": "5839816456",
+          "url": "https://market.yandex.ru/card/chasy/5839816456",
+          "title": "Часы мужские наручные PREMIUM  влагозащищенные smart watch умные",
+          "price": 1596,
+          "rating": 4.3,
+          "reviews": 72,
+          "purchased": 233,
+          "shop": null
+        },
+        {
+          "productId": "6084606386",
+          "url": "https://market.yandex.ru/card/umnyye-smart-naruchnyye-chasy-9-serii-so-zvonkami-fitnes-braslet-muzhskoy-zhenskiy-fitnes-treker-smart-braslet-uniseks/6084606386",
+          "title": "Умные смарт наручные часы 9 серии со звонками, фитнес браслет мужской женский фитнес трекер смарт браслет унисекс",
+          "price": 2705,
+          "rating": null,
+          "reviews": null,
+          "purchased": null,
+          "shop": null
+        },
+        {
+          "productId": "6024058242",
+          "url": "https://market.yandex.ru/card/umnyye-smart-naruchnyye-chasy-9-serii-so-zvonkami-fitnes-braslet-muzhskoy-zhenskiy-sportivnyye-dlya-fitnesa/6024058242",
+          "title": "Умные смарт наручные часы 9 серии со звонками, фитнес браслет мужской женский спортивные для фитнеса",
+          "price": 2769,
+          "rating": null,
+          "reviews": null,
+          "purchased": null,
+          "shop": null
+        }
+      ]
+    },
+    {
+      "nicheId": "termokruzhka",
+      "label": "Термокружки",
+      "category": "Дом и кухня",
+      "categoryPath": "Товары для дома / Термосы и термокружки",
+      "itemCount": 8,
+      "medianPrice": 526,
+      "avgRating": 4.79,
+      "totalPurchased": 11391,
+      "totalReviews": 2207,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "103666623240",
+          "url": "https://market.yandex.ru/card/termokruzhka-510-ml-s-silikonovoy-vstavkoy-good-sale/103666623240",
+          "title": "Термокружка для кофе Good Sale, 510 мл, черная, нержавеющая сталь, с силиконовой вставкой",
+          "price": 532,
+          "rating": 4.7,
+          "reviews": 608,
+          "purchased": 2800,
+          "shop": "Pasabahce"
+        },
+        {
+          "productId": "103757021675",
+          "url": "https://market.yandex.ru/card/termokruzhka-master-k-pokhod-smayl-450-ml-sokhranyayet-teplo-2-ch-125-kh-105-sm-9715149/103757021675",
+          "title": "Термокружка \"Смайл\", 450 мл, сохраняет тепло 2 ч, 12.5 х 10.5 см, желтый",
+          "price": 283,
+          "rating": 4.7,
+          "reviews": 459,
+          "purchased": 2300,
+          "shop": "Сима-Ленд - Всё для праздника"
+        },
+        {
+          "productId": "4717433822",
+          "url": "https://market.yandex.ru/card/termokruzhka-pragma-talsi-pesochnyy-bezhevyy500-ml/4717433822",
+          "title": "Термокружка Pragma Talsi из нержавеющей стали, песочный бежевый, 500 мл",
+          "price": 1589,
+          "rating": 4.6,
+          "reviews": 234,
+          "purchased": 1900,
+          "shop": "Яндекс Фабрика"
+        },
+        {
+          "productId": "103609744997",
+          "url": "https://market.yandex.ru/card/termokruzhka-dlya-chaya-i-kofe-500-ml-kruzhka-termos-neprolivayka-avtomobilnaya-i-pokhodnaya-korichnevaya/103609744997",
+          "title": "Термокружка для чая и кофе 500 мл, кружка термос непроливайка автомобильная и походная, коричневая",
+          "price": 1044,
+          "rating": 4.8,
+          "reviews": 372,
+          "purchased": 1800,
+          "shop": null
+        },
+        {
+          "productId": "103666585583",
+          "url": "https://market.yandex.ru/card/termokruzhka-380-ml-s-silikonovoy-vstavkoy-good-sale/103666585583",
+          "title": "Термокружка Good Sale, 380 мл, белая, нержавеющая сталь, с силиконовой вставкой",
+          "price": 507,
+          "rating": 4.7,
+          "reviews": 262,
+          "purchased": 1100,
+          "shop": "Pasabahce"
+        },
+        {
+          "productId": "5953869335",
+          "url": "https://market.yandex.ru/card/termokruzhka-termos-dlya-kofe-i-chaya-avtomobilnaya-510-ml-kruzhka-termos/5953869335",
+          "title": "Термокружка (термос) для кофе и чая автомобильная 510 мл кружка-термос",
+          "price": 371,
+          "rating": 4.9,
+          "reviews": 109,
+          "purchased": 726,
+          "shop": null
+        }
+      ]
+    },
+    {
+      "nicheId": "tonalny_krem",
+      "label": "Тональный крем",
+      "category": "Косметика",
+      "categoryPath": "Красота и уход / Макияж",
+      "itemCount": 8,
+      "medianPrice": 446,
+      "avgRating": 4.75,
+      "totalPurchased": 38201,
+      "totalReviews": 10841,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "103777344820",
+          "url": "https://market.yandex.ru/card/koreyskiy-tonalnyy-krem-dlya-litsa-ton-naturalnyy-bezhevyy-so-sponzhem/103777344820",
+          "title": "Тональный крем для лица, тон слоновая кость, со спонжем, bb крем, бб крем",
+          "price": 190,
+          "rating": 4.7,
+          "reviews": 4800,
+          "purchased": 17300,
+          "shop": "With love for beauty"
+        },
+        {
+          "productId": "103202041640",
+          "url": "https://market.yandex.ru/card/zozu-tonalnyy-krem-kushon-beautecret-20-g-ottenok-02-slonovaya-kost/103202041640",
+          "title": "ZOZU Тональный крем кушон Beautecret, 20 г, оттенок: 02 слоновая кость",
+          "price": 161,
+          "rating": 4.6,
+          "reviews": 4500,
+          "purchased": 13600,
+          "shop": null
+        },
+        {
+          "productId": "103581554838",
+          "url": "https://market.yandex.ru/card/tonalnaya-osnova-skinnovation-i-matte-matiruyushchaya-korrektiruyushchaya-s-vitaminami-ye-s-i-a-25ml/103581554838",
+          "title": "INFLUENCE BEAUTY Тональный крем для лица Skinnovation I matte, матовый, стойкий, тон 01 бело-бежевый, 25мл",
+          "price": 597,
+          "rating": 4.5,
+          "reviews": 687,
+          "purchased": 3300,
+          "shop": "Яндекс Маркет"
+        },
+        {
+          "productId": "103255934031",
+          "url": "https://market.yandex.ru/card/bb-krem-dlya-litsa-tonalnyy-krem-matovyy-bcolour-professional-01-light/103255934031",
+          "title": "B.COLOUR PROFESSIONAL BB крем для лица тональный увлажняющий с spf 10 тон 01 Light CAPSULE",
+          "price": 562,
+          "rating": 4.5,
+          "reviews": 607,
+          "purchased": 2600,
+          "shop": "7DAYS"
+        },
+        {
+          "productId": "103749837846",
+          "url": "https://market.yandex.ru/card/luxvisage-tonalnyy-krem-dlya-litsa-aqua-veil-hyaluron-complex-flyuid-ton-110-fair/103749837846",
+          "title": "Тональный крем для лица LUXVISAGE AQUA veil HYALURON COMPLEX Флюид тон 110 Fair",
+          "price": 452,
+          "rating": 4.9,
+          "reviews": 188,
+          "purchased": 1200,
+          "shop": "Белорусская косметика \"Тренд\""
+        },
+        {
+          "productId": "5483034754",
+          "url": "https://market.yandex.ru/card/enough-tonalnyy-krem-dlya-litsa-uvlazhnyayushchiy-s-kollagenom-ton-13-collagen-moisture-foundation-spf-15-100-ml/5483034754",
+          "title": "ENOUGH Тональный крем для лица, тон 13. Collagen Moisture Foundation SPF 15, 100 мл",
+          "price": 439,
+          "rating": 4.9,
+          "reviews": 50,
+          "purchased": 163,
+          "shop": null
+        }
+      ]
+    },
+    {
+      "nicheId": "tush_resnic",
+      "label": "Тушь для ресниц",
+      "category": "Косметика",
+      "categoryPath": "Красота и уход / Макияж",
+      "itemCount": 8,
+      "medianPrice": 364,
+      "avgRating": 4.67,
+      "totalPurchased": 43735,
+      "totalReviews": 9604,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "103090208088",
+          "url": "https://market.yandex.ru/card/tush-dlya-resnits-bcolour-professional-capsule-termotush-chernaya-udlinyayushchaya-04-extreme-volume/103090208088",
+          "title": "B.COLOUR PROFESSIONAL Тушь для ресниц, черная термотушь, объем и удлинение CAPSULE 04 Extreme volume",
+          "price": 427,
+          "rating": 4.7,
+          "reviews": 7000,
+          "purchased": 38400,
+          "shop": "7DAYS"
+        },
+        {
+          "productId": "102143600689",
+          "url": "https://market.yandex.ru/card/divage-tush-dlya-resnits-mascara-4d-bigblack/102143600689",
+          "title": "Divage Тушь для ресниц Mascara 4d Big&black черная",
+          "price": 299,
+          "rating": 4.7,
+          "reviews": 2000,
+          "purchased": 2000,
+          "shop": "Divage Group"
+        },
+        {
+          "productId": "4836274620",
+          "url": "https://market.yandex.ru/card/tush-dlya-resnits-mln-chernaya-udlinyayushchaya-i-vodostoykaya-24-chasa-silikonovaya/4836274620",
+          "title": "Тушь для ресниц MLN чёрная, подкручивающая, термо, удлиняющая 24 часа",
+          "price": 541,
+          "rating": 4.8,
+          "reviews": 328,
+          "purchased": 1900,
+          "shop": null
+        },
+        {
+          "productId": "102332574506",
+          "url": "https://market.yandex.ru/card/tush-dlya-resnits-vivienne-sabo-cabaret-premiere-ton-05-korichnevaya/102332574506",
+          "title": "Тушь для ресниц VIVIENNE SABO CABARET PREMIERE тон 05 коричневая",
+          "price": 422,
+          "rating": 4.8,
+          "reviews": 118,
+          "purchased": 522,
+          "shop": null
+        },
+        {
+          "productId": "4352383870",
+          "url": "https://market.yandex.ru/card/manifest-tush-dlya-resnits-chernaya-obyem-i-udlineniye/4352383870",
+          "title": "Manifest Тушь для ресниц черная объем и удлинение",
+          "price": 235,
+          "rating": 4.7,
+          "reviews": 82,
+          "purchased": 427,
+          "shop": null
+        },
+        {
+          "productId": "103809361697",
+          "url": "https://market.yandex.ru/card/tush-dlya-resnits-loreal-telescopic-udlineniye-i-razdeleniye-chernaya/103809361697",
+          "title": "Тушь для ресниц L'Oreal Telescopic удлинение и разделение чёрная",
+          "price": 708,
+          "rating": 4.7,
+          "reviews": 48,
+          "purchased": 357,
+          "shop": null
+        }
+      ]
+    },
+    {
+      "nicheId": "uvlazhnitel",
+      "label": "Увлажнители воздуха",
+      "category": "Дом и кухня",
+      "categoryPath": "Бытовая техника / Очищение и увлажнение воздуха",
+      "itemCount": 8,
+      "medianPrice": 885,
+      "avgRating": 4.54,
+      "totalPurchased": 17032,
+      "totalReviews": 3005,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "103745981462",
+          "url": "https://market.yandex.ru/card/uvlazhnitel-vozdukha-ultrazvukovoy-s-uf-tuvio-tuh01e-4-litra/103745981462",
+          "title": "Увлажнитель воздуха ультразвуковой с УФ Tuvio TUH01E, 4 литра",
+          "price": 3311,
+          "rating": 4.7,
+          "reviews": 1200,
+          "purchased": 9600,
+          "shop": "Яндекс Фабрика"
+        },
+        {
+          "productId": "102055526457",
+          "url": "https://market.yandex.ru/card/uvlazhnitel-vozdukha-onion-humidifier-3v1-nochnik-uvlazhnitel-belyy/102055526457",
+          "title": "Увлажнитель воздуха Onion Humidifier 3в1 ночник увлажнитель, белый",
+          "price": 895,
+          "rating": 4.5,
+          "reviews": 1000,
+          "purchased": 3600,
+          "shop": null
+        },
+        {
+          "productId": "102718115260",
+          "url": "https://market.yandex.ru/card/uvlazhnitel-vozdukha-flame-aromatherapy-3v1-nochnik-uvlazhnitel-aromadiffuzor-chernyy/102718115260",
+          "title": "Увлажнитель воздуха для дома с аромадиффузором и подсветкой",
+          "price": 875,
+          "rating": 4.6,
+          "reviews": 460,
+          "purchased": 2000,
+          "shop": null
+        },
+        {
+          "productId": "5125472212",
+          "url": "https://market.yandex.ru/card/uvlazhnitel-vozdukha-dlya-doma-s-alisoy-s-aromadiffuzorom-i-podsvetkoy-tuvio-tuh08de-chernyy/5125472212",
+          "title": "Увлажнитель воздуха для дома с Алисой, с аромадиффузором и подсветкой, TUVIO TUH08DE, черный",
+          "price": 3990,
+          "rating": 4.8,
+          "reviews": 90,
+          "purchased": 936,
+          "shop": "Яндекс Фабрика"
+        },
+        {
+          "productId": "5048443824",
+          "url": "https://market.yandex.ru/card/uvlazhnitel-vozdukha-nochnik-s-podsvetkoy-dlya-ofisa-300ml/5048443824",
+          "title": "Увлажнитель воздуха \"Ночник\", с подсветкой, для офиса, 300мл",
+          "price": 483,
+          "rating": 4.5,
+          "reviews": 112,
+          "purchased": 392,
+          "shop": null
+        },
+        {
+          "productId": "103611433617",
+          "url": "https://market.yandex.ru/card/uvlazhnitel-vozdukha-dlya-doma-s-aromadiffuzorom-i-podsvetkoy/103611433617",
+          "title": "Увлажнитель воздуха для дома с аромадиффузором и подсветкой и ночником",
+          "price": 721,
+          "rating": 4.5,
+          "reviews": 88,
+          "purchased": 276,
+          "shop": null
+        }
+      ]
+    },
+    {
+      "nicheId": "videoregistrator",
+      "label": "Видеорегистратор",
+      "category": "Авто-аксессуары",
+      "categoryPath": "Автотовары / Электроника для авто / Видеорегистраторы",
+      "itemCount": 8,
+      "medianPrice": 3268,
+      "avgRating": 4.59,
+      "totalPurchased": 9819,
+      "totalReviews": 3643,
+      "scrapedAt": "2026-09-07",
+      "items": [
+        {
+          "productId": "103550801196",
+          "url": "https://market.yandex.ru/card/videoregistrator-70mai-dash-cam-m310-black/103550801196",
+          "title": "Видеорегистратор 70Mai Dash Cam M310 (Black)",
+          "price": 5366,
+          "rating": 4.9,
+          "reviews": 921,
+          "purchased": 3700,
+          "shop": null
+        },
+        {
+          "productId": "101988031453",
+          "url": "https://market.yandex.ru/card/videoregistrator-otomo-3-v-1-s-3-kamerami-140-obzora-nochnym-rezhimom-i-datchikom-udara/101988031453",
+          "title": "Видеорегистратор Otomo 3 в 1 с 3 камерами, 140° обзора, ночным режимом и датчиком удара",
+          "price": 3868,
+          "rating": 4.5,
+          "reviews": 1500,
+          "purchased": 3500,
+          "shop": null
+        },
+        {
+          "productId": "6079191265",
+          "url": "https://market.yandex.ru/card/videoregistrator-dlya-avtomobilya-spawnson-s-dvumya-kamerami-2k-quad-hd-wi-fi-chernyy-18mp/6079191265",
+          "title": "Видеорегистратор для автомобиля SPAWNSON с двумя камерами 2K Quad HD, Wi-Fi, черный 18Мп",
+          "price": 5698,
+          "rating": 4.9,
+          "reviews": 752,
+          "purchased": 1500,
+          "shop": null
+        },
+        {
+          "productId": "6142709082",
+          "url": "https://market.yandex.ru/card/videoregistrator-dlya-avtomobilya-s-dvumya-kamerami-s-wifi-4k/6142709082",
+          "title": "Видеорегистратор для автомобиля с двумя камерами с WiFi, GPS, 4К датчик движения G-сенсор",
+          "price": 7026,
+          "rating": 5.0,
+          "reviews": 352,
+          "purchased": 531,
+          "shop": "ELMAX_official"
+        },
+        {
+          "productId": "5209108039",
+          "url": "https://market.yandex.ru/card/videoregistrator-3-v-1-groovier-s-kameroy-zadnego-vida-dlya-avto/5209108039",
+          "title": "Видеорегистратор 3-в-1 GROOVIER, с камерой заднего вида, для авто",
+          "price": 1394,
+          "rating": 4.0,
+          "reviews": 52,
+          "purchased": 283,
+          "shop": null
+        },
+        {
+          "productId": "5137850280",
+          "url": "https://market.yandex.ru/card/avtomobilnyy-videoregistrator-full-hd-1080p-wi-fi--wdr-nochnoye-videniye-140-ugol-obzora/5137850280",
+          "title": "Автомобильный видеорегистратор Full HD 1080p, Wi-Fi + WDR, ночное видение, 140 угол обзора",
+          "price": 2667,
+          "rating": 4.6,
+          "reviews": 28,
+          "purchased": 117,
+          "shop": "Radiance Sky"
+        }
+      ]
+    }
+  ]
+}
