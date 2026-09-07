@@ -1,1031 +1,1404 @@
 {
- "generatedAt": "2026-09-07",
- "niches": [
-  {
-   "id": "aromatizator_avto",
-   "label": "Автоароматизатор",
-   "category": "Авто-аксессуары",
-   "categoryPath": "Автотовары / Уход за автомобилем",
-   "totalProducts": 4529,
-   "snapshotCount": 1,
-   "latest": {
-    "date": "2026-09-07",
-    "items": [
-     {
-      "productId": "277124",
-      "url": "https://uzum.uz/ru/product/osvezhitel-vozdukha-dlya-avtomobilya-vertolyot-277124",
-      "title": "Освежитель воздуха для автомобиля Вертолёт",
-      "price": 43000,
-      "fullPrice": 130000,
-      "rating": 4.8,
-      "reviews": 5780
-     },
-     {
-      "productId": "543875",
-      "url": "https://uzum.uz/ru/product/osvezhitel-vozdukha-v-mashinu-543875",
-      "title": "Освежитель воздуха в машину",
-      "price": 52380,
-      "fullPrice": 150000,
-      "rating": 4.6,
-      "reviews": 253
-     },
-     {
-      "productId": "322457",
-      "url": "https://uzum.uz/ru/product/uvlazhnitel-vozdukha-i-322457",
-      "title": "Увлажнитель воздуха и ароматизатор для автомобиля и дома, ночник, сухой туман, 300 мл",
-      "price": 70800,
-      "fullPrice": 147000,
-      "rating": 4.6,
-      "reviews": 144
-     }
-    ]
-   },
-   "prevReviewsByProductId": {}
-  },
-  {
-   "id": "blender",
-   "label": "Блендеры",
-   "category": "Дом и кухня",
-   "categoryPath": "Бытовая техника / Измельчение и смешивание",
-   "totalProducts": 1005,
-   "snapshotCount": 1,
-   "latest": {
-    "date": "2026-09-07",
-    "items": [
-     {
-      "productId": "323525",
-      "url": "https://uzum.uz/ru/product/blender-ruchnoj-arshia-323525",
-      "title": "Блендер ручной Arshia AS1911-8009, многофункциональный, 3 в 1",
-      "price": 375410,
-      "fullPrice": 790000,
-      "rating": 4.9,
-      "reviews": 76
-     },
-     {
-      "productId": "354543",
-      "url": "https://uzum.uz/ru/product/pogruzhnoj-blender-chopper-354543",
-      "title": "Погружной блендер чоппер, миксер Sonifer SF-8013 ручной 4 в 1",
-      "price": 399000,
-      "fullPrice": 700000,
-      "rating": 4.4,
-      "reviews": 34
-     },
-     {
-      "productId": "557195",
-      "url": "https://uzum.uz/ru/product/ruchnoj-blender-arshiadubay-557195",
-      "title": "Ручной блендер ArshiaDubay 2in1 , погружной блендер с чашей объемом 600 мл",
-      "price": 229000,
-      "fullPrice": 399000,
-      "rating": 4.9,
-      "reviews": 19
-     },
-     {
-      "productId": "321204",
-      "url": "https://uzum.uz/ru/product/portativnaya-cokovyzhimalka-svezhikh-321204",
-      "title": "Портативная cоковыжималка свежих фруктов, блендер, кофемолка, 4 в 1",
-      "price": 699000,
-      "fullPrice": 1450000,
-      "rating": 4.8,
-      "reviews": 26
-     }
-    ]
-   },
-   "prevReviewsByProductId": {}
-  },
-  {
-   "id": "chehly_sidenya",
-   "label": "Чехлы на сиденья",
-   "category": "Авто-аксессуары",
-   "categoryPath": "Автотовары / Аксессуары и принадлежности",
-   "totalProducts": 1986,
-   "snapshotCount": 1,
-   "latest": {
-    "date": "2026-09-07",
-    "items": [
-     {
-      "productId": "278804",
-      "url": "https://uzum.uz/ru/product/avtomobilnye-chekhly-dlya-278804",
-      "title": "Автомобильные чехлы для сидений CARDINAR ALFA, cobalt, nexia, gentra, onix, tracker, byd",
-      "price": 1559990,
-      "fullPrice": 2000000,
-      "rating": 4.9,
-      "reviews": 535
-     },
-     {
-      "productId": "370392",
-      "url": "https://uzum.uz/ru/product/ortopedicheskaya-setka-dlya-370392",
-      "title": "Ортопедическая сетка для сиденья автомобиля и офисного кресла, 1 шт",
-      "price": 38560,
-      "fullPrice": 79000,
-      "rating": 4.8,
-      "reviews": 66
-     },
-     {
-      "productId": "356638",
-      "url": "https://uzum.uz/ru/product/organajzer-nakidka-na-356638",
-      "title": "Органайзер накидка на спинку сиденья автомобиля, защитный чехол",
-      "price": 59000,
-      "fullPrice": 200000,
-      "rating": 4.8,
-      "reviews": 81
-     },
-     {
-      "productId": "278282",
-      "url": "https://uzum.uz/ru/product/avtomobilnye-chekhly-dlya-278282",
-      "title": "Автомобильные чехлы для сидений CARDINAR PALMA, cobalt, nexia, gentra, onix, tracker, byd",
-      "price": 1219990,
-      "fullPrice": 1500000,
-      "rating": 4.9,
-      "reviews": 106
-     }
-    ]
-   },
-   "prevReviewsByProductId": {}
-  },
-  {
-   "id": "chehol",
-   "label": "Чехлы для телефонов",
-   "category": "Электроника",
-   "categoryPath": "Электроника / Аксессуары для смартфонов / Чехлы",
-   "totalProducts": 32457,
-   "snapshotCount": 1,
-   "latest": {
-    "date": "2026-09-07",
-    "items": [
-     {
-      "productId": "253351",
-      "url": "https://uzum.uz/ru/product/chekhol-dlya-iphone-253351",
-      "title": "Чехол для iPhone 6s,7,8,SE,XR,XS,11,12,13,14,15Pro,Max,Plus,Mini, прозрачный, силиконовый",
-      "price": 19000,
-      "fullPrice": 39000,
-      "rating": 4.8,
-      "reviews": 1221
-     },
-     {
-      "productId": "271493",
-      "url": "https://uzum.uz/ru/product/chekhol-samsung-a03a13a23a32a33a53s21s21s21ultras22s22s22ultraa14a24a34a54-271493",
-      "title": "Чехол Samsung A03/A13/A23/A32/A33/A53/S21/S21+/S21Ultra/S22/S22+/S22Ultra/A14/A24/A34/A54",
-      "price": 24500,
-      "fullPrice": 40000,
-      "rating": 4.9,
-      "reviews": 298
-     },
-     {
-      "productId": "191376",
-      "url": "https://uzum.uz/ru/product/silikonovyj-prozrachnyj-chekhol-191376",
-      "title": "Силиконовый прозрачный чехол для iPhone, 1.5 мм, с защитой камеры",
-      "price": 11000,
-      "fullPrice": 35000,
-      "rating": 4.9,
-      "reviews": 101
-     },
-     {
-      "productId": "628653",
-      "url": "https://uzum.uz/ru/product/chekhol-na-iphone-628653",
-      "title": "Чехол на iPhone 7,8,SE,XS,11,12,13,14,15,16,17,Pro,Max,Plus,айфон Mini,прозрачный, силикон",
-      "price": 9800,
-      "fullPrice": 100000,
-      "rating": 4.8,
-      "reviews": 1575
-     }
-    ]
-   },
-   "prevReviewsByProductId": {}
-  },
-  {
-   "id": "derzhatel_avto",
-   "label": "Держатель телефона в авто",
-   "category": "Авто-аксессуары",
-   "categoryPath": "Автотовары / Аксессуары и принадлежности",
-   "totalProducts": 1077,
-   "snapshotCount": 1,
-   "latest": {
-    "date": "2026-09-07",
-    "items": [
-     {
-      "productId": "555993",
-      "url": "https://uzum.uz/ru/product/derzhatel-dlya-telefona-555993",
-      "title": "Держатель для телефона в машину, на зеркало заднего вида",
-      "price": 49900,
-      "fullPrice": 141000,
-      "rating": 4.5,
-      "reviews": 471
-     },
-     {
-      "productId": "351680",
-      "url": "https://uzum.uz/ru/product/derzhatel-telefona-na-zerkalo-zadnego-vida-351680",
-      "title": "Держатель телефона, на зеркало заднего вида",
-      "price": 34650,
-      "fullPrice": 170000,
-      "rating": 4.4,
-      "reviews": 26
-     },
-     {
-      "productId": "544686",
-      "url": "https://uzum.uz/ru/product/magnitnyj-derzhatel-telefona-544686",
-      "title": "Магнитный держатель телефона для автомобиля Magnet Holder",
-      "price": 19990,
-      "fullPrice": 30000,
-      "rating": 4.4,
-      "reviews": 18
-     },
-     {
-      "productId": "388944",
-      "url": "https://uzum.uz/ru/product/derzhatel-dlya-telefona-v-mashinu-model-388944",
-      "title": "Держатель для телефона в машину Model cz-3115",
-      "price": 49000,
-      "fullPrice": 75000,
-      "rating": 3.7,
-      "reviews": 3
-     }
-    ]
-   },
-   "prevReviewsByProductId": {}
-  },
-  {
-   "id": "duhi",
-   "label": "Духи и парфюмерия",
-   "category": "Косметика",
-   "categoryPath": "Красота и уход / Парфюмерия",
-   "totalProducts": 6598,
-   "snapshotCount": 1,
-   "latest": {
-    "date": "2026-09-07",
-    "items": [
-     {
-      "productId": "509459",
-      "url": "https://uzum.uz/ru/product/mnogorazovyj-flakon-dlya-509459",
-      "title": "Многоразовый флакон для духов, с распылителем, атомайзер, 5, 10, 15, 32 мл",
-      "price": 11500,
-      "fullPrice": 18000,
-      "rating": 4.9,
-      "reviews": 1338
-     },
-     {
-      "productId": "600280",
-      "url": "https://uzum.uz/ru/product/podarochnyj-nabor-dukhov-600280",
-      "title": "Подарочный набор духов Les Parfumes, для женщин и девочек, 5 в 1",
-      "price": 86330,
-      "fullPrice": 550000,
-      "rating": 3.9,
-      "reviews": 74
-     },
-     {
-      "productId": "435630",
-      "url": "https://uzum.uz/ru/product/maslyanye-dukhi-dlya-muzhchin-i-zhenschin-435630",
-      "title": "Масляные духи для мужчин и женщин, 10 мл",
-      "price": 31910,
-      "fullPrice": 100000,
-      "rating": 4.7,
-      "reviews": 754
-     },
-     {
-      "productId": "435727",
-      "url": "https://uzum.uz/ru/product/maslyanye-dukhi-dlya-muzhchin-i-zhenschin-435727",
-      "title": "Масляные духи для мужчин и женщин, 10 мл",
-      "price": 29000,
-      "fullPrice": 70000,
-      "rating": 4.6,
-      "reviews": 131
-     }
-    ]
-   },
-   "prevReviewsByProductId": {}
-  },
-  {
-   "id": "naushniki",
-   "label": "Наушники",
-   "category": "Электроника",
-   "categoryPath": "Электроника / Наушники и аудиотехника",
-   "totalProducts": 17843,
-   "snapshotCount": 1,
-   "latest": {
-    "date": "2026-09-07",
-    "items": [
-     {
-      "productId": "355766",
-      "url": "https://uzum.uz/ru/product/besprovodnye-naushniki-pods-355766",
-      "title": "Беспроводные наушники Pods 3 Premium для iPhone и Android, чехол в подарок",
-      "price": 185000,
-      "fullPrice": 1000000,
-      "rating": 4.5,
-      "reviews": 9656
-     },
-     {
-      "productId": "355687",
-      "url": "https://uzum.uz/ru/product/besprovodnye-naushniki-pro-355687",
-      "title": "Беспроводные наушники Pro 2 Premium для iPhone и Android, чехол в подарок. ShopLand",
-      "price": 195000,
-      "fullPrice": 1650000,
-      "rating": 4.5,
-      "reviews": 7487
-     },
-     {
-      "productId": "481256",
-      "url": "https://uzum.uz/ru/product/besprovodnye-naushniki-pods-481256",
-      "title": "Беспроводные наушники Pods Pro 2, Bluetooth, с шумоподавлением, с микрофоном",
-      "price": 115000,
-      "fullPrice": 350000,
-      "rating": 4.5,
-      "reviews": 1144
-     },
-     {
-      "productId": "291396",
-      "url": "https://uzum.uz/ru/product/naushniki-besprovodnye-pro-5-dlya-iphone-291396",
-      "title": "Наушники беспроводные Pro 5 для iPhone, Android",
-      "price": 110000,
-      "fullPrice": 180000,
-      "rating": 4.3,
-      "reviews": 277
-     }
-    ]
-   },
-   "prevReviewsByProductId": {}
-  },
-  {
-   "id": "organizer_avto",
-   "label": "Автоорганайзер",
-   "category": "Авто-аксессуары",
-   "categoryPath": "Автотовары / Аксессуары и принадлежности",
-   "totalProducts": 219,
-   "snapshotCount": 1,
-   "latest": {
-    "date": "2026-09-07",
-    "items": [
-     {
-      "productId": "34817",
-      "url": "https://uzum.uz/ru/product/organajzer-s-karmanami-34817",
-      "title": "Органайзер с карманами подвесной для хранения мелочей",
-      "price": 33950,
-      "fullPrice": 55000,
-      "rating": 4.7,
-      "reviews": 289
-     },
-     {
-      "productId": "371614",
-      "url": "https://uzum.uz/ru/product/organajzer-v-bagazhnik-371614",
-      "title": "Органайзер в багажник, сумка для автомобиля, складная",
-      "price": 169000,
-      "fullPrice": 320000,
-      "rating": 4.9,
-      "reviews": 432
-     },
-     {
-      "productId": "299745",
-      "url": "https://uzum.uz/ru/product/sumkaorganajzer-dlya-bagazhnika-299745",
-      "title": "Сумка-органайзер для багажника автомобиля Chevrolet, Kia, Hundai, Toyota, BYD, Li",
-      "price": 199000,
-      "fullPrice": 550000,
-      "rating": 4.8,
-      "reviews": 50
-     },
-     {
-      "productId": "274750",
-      "url": "https://uzum.uz/ru/product/organajzer-dlya-sumok-274750",
-      "title": "Органайзер для сумок подвесной органайзер для хранения сумок в шкафу",
-      "price": 92150,
-      "fullPrice": 95000,
-      "rating": 4.8,
-      "reviews": 4
-     }
-    ]
-   },
-   "prevReviewsByProductId": {}
-  },
-  {
-   "id": "patchi",
-   "label": "Патчи для лица/глаз",
-   "category": "Косметика",
-   "categoryPath": "Красота и уход / Уход за лицом / Патчи",
-   "totalProducts": 601,
-   "snapshotCount": 1,
-   "latest": {
-    "date": "2026-09-07",
-    "items": [
-     {
-      "productId": "390189",
-      "url": "https://uzum.uz/ru/product/patchi-kollagenovye-dlya-390189",
-      "title": "Патчи коллагеновые для глаз Collagen Crystal Eye Mask, гидрогелиевые",
-      "price": 100000,
-      "fullPrice": 100000,
-      "rating": 4.7,
-      "reviews": 1309
-     },
-     {
-      "productId": "541492",
-      "url": "https://uzum.uz/ru/product/patchi-ot-pryschej-541492",
-      "title": "Патчи от прыщей, акне и черных точек, гидроколлоидные, 3 размера, 120 шт",
-      "price": 120000,
-      "fullPrice": 120000,
-      "rating": 4.5,
-      "reviews": 151
-     },
-     {
-      "productId": "15539",
-      "url": "https://uzum.uz/ru/product/sprejukhod-dlya-volos-15539",
-      "title": "Спрей-уход для волос Keratin Complex F-581, термозащита и блеск, 135 мл",
-      "price": 40990,
-      "fullPrice": 93850,
-      "rating": 4.9,
-      "reviews": 62
-     },
-     {
-      "productId": "539445",
-      "url": "https://uzum.uz/ru/product/linii-liftinga-vek-600-sht-539445",
-      "title": "Линии лифтинга век, 600 шт",
-      "price": 86000,
-      "fullPrice": 99000,
-      "rating": 4.6,
-      "reviews": 196
-     }
-    ]
-   },
-   "prevReviewsByProductId": {}
-  },
-  {
-   "id": "pomada",
-   "label": "Губная помада",
-   "category": "Косметика",
-   "categoryPath": "Красота и уход / Макияж",
-   "totalProducts": 3166,
-   "snapshotCount": 1,
-   "latest": {
-    "date": "2026-09-07",
-    "items": [
-     {
-      "productId": "631051",
-      "url": "https://uzum.uz/ru/product/karandashpomada-dlya-gub-631051",
-      "title": "Карандаш-помада для губ, водостойкий, VIOLET, с точилкой, матовый, 12 оттенков",
-      "price": 9990,
-      "fullPrice": 9990,
-      "rating": 4.8,
-      "reviews": 8008
-     },
-     {
-      "productId": "475569",
-      "url": "https://uzum.uz/ru/product/karandashpomada-dlya-gub-475569",
-      "title": "Карандаш-помада для губ, FLORMAR, водостойкая, с точилкой, матовый, 12 оттенков",
-      "price": 9990,
-      "fullPrice": 9990,
-      "rating": 4.8,
-      "reviews": 4436
-     },
-     {
-      "productId": "566160",
-      "url": "https://uzum.uz/ru/product/karandashpomada-dlya-gub-566160",
-      "title": "Карандаш-помада для губ, водостойкий, матовый, мисс таис",
-      "price": 7990,
-      "fullPrice": 7990,
-      "rating": 4.8,
-      "reviews": 8889
-     },
-     {
-      "productId": "445739",
-      "url": "https://uzum.uz/ru/product/blesk-dlya-gub-445739",
-      "title": "Блеск для губ, бальзам увлажняющий, помада глянцевая Qibest",
-      "price": 22000,
-      "fullPrice": 70000,
-      "rating": 4.8,
-      "reviews": 3199
-     }
-    ]
-   },
-   "prevReviewsByProductId": {}
-  },
-  {
-   "id": "poverbank",
-   "label": "Повербанки",
-   "category": "Электроника",
-   "categoryPath": "Электроника / Аксессуары для смартфонов / Внешние аккумуляторы",
-   "totalProducts": 1263,
-   "snapshotCount": 1,
-   "latest": {
-    "date": "2026-09-07",
-    "items": [
-     {
-      "productId": "528037",
-      "url": "https://uzum.uz/ru/product/vneshnij-akkumulyator-xo-528037",
-      "title": "Внешний аккумулятор XO PR205 QC3.0, PD20W, USB 22,5 В, 10000 мА/ч",
-      "price": 279000,
-      "fullPrice": 300000,
-      "rating": 4.4,
-      "reviews": 16
-     },
-     {
-      "productId": "252049",
-      "url": "https://uzum.uz/ru/product/vneshnij-akkumulyator-remax-252049",
-      "title": "Внешний аккумулятор Remax RPP-295 10000 mA/h Fast Charging",
-      "price": 110000,
-      "fullPrice": 150000,
-      "rating": null,
-      "reviews": 0
-     },
-     {
-      "productId": "369334",
-      "url": "https://uzum.uz/ru/product/poverbank-samsung-super-369334",
-      "title": "Повербанк Samsung Super Fast Charging, Type-С, PD 3.0 PPS",
-      "price": 489000,
-      "fullPrice": 586000,
-      "rating": 3.9,
-      "reviews": 10
-     },
-     {
-      "productId": "235526",
-      "url": "https://uzum.uz/ru/product/vneshnij-akkumulyator-power-235526",
-      "title": "Внешний аккумулятор Power Bank XO PB301, 10000 мA/ч",
-      "price": 212000,
-      "fullPrice": 318000,
-      "rating": 3.7,
-      "reviews": 3
-     }
-    ]
-   },
-   "prevReviewsByProductId": {}
-  },
-  {
-   "id": "proektor",
-   "label": "Проекторы и ночники",
-   "category": "Электроника",
-   "categoryPath": "Электроника / Телевизоры и видеотехника (смешанная выдача)",
-   "totalProducts": 1097,
-   "snapshotCount": 1,
-   "latest": {
-    "date": "2026-09-07",
-    "items": [
-     {
-      "productId": "364570",
-      "url": "https://uzum.uz/ru/product/ledproektor-na-dver-364570",
-      "title": "LED-проектор на дверь автомобиля — логотип Chevrolet, беспроводной, на батарейках",
-      "price": 28500,
-      "fullPrice": 50000,
-      "rating": 4.7,
-      "reviews": 1058
-     },
-     {
-      "productId": "38807",
-      "url": "https://uzum.uz/ru/product/nochnik-3d-proektor-38807",
-      "title": "Ночник 3D проектор звездного неба, светильник светодиодный вращающийся, подарок ребенку",
-      "price": 48000,
-      "fullPrice": 160000,
-      "rating": 4.7,
-      "reviews": 2196
-     },
-     {
-      "productId": "778731",
-      "url": "https://uzum.uz/ru/product/ledproektor-logotipa-na-778731",
-      "title": "LED-проектор логотипа на дверь авто, беспроводной — 1 шт, GERB или Chevrolet",
-      "price": 27510,
-      "fullPrice": 70000,
-      "rating": 4.7,
-      "reviews": 1584
-     },
-     {
-      "productId": "239583",
-      "url": "https://uzum.uz/ru/product/cvetodiodnyj-usb-proektor-zvezdnoe-nebo-239583",
-      "title": "Cветодиодный USB проектор звездное небо",
-      "price": 69990,
-      "fullPrice": 80000,
-      "rating": 3.8,
-      "reviews": 28
-     }
-    ]
-   },
-   "prevReviewsByProductId": {}
-  },
-  {
-   "id": "ryukzak",
-   "label": "Рюкзаки и сумки",
-   "category": "Аксессуары",
-   "categoryPath": "Аксессуары (смешанная выдача)",
-   "totalProducts": 29204,
-   "snapshotCount": 1,
-   "latest": {
-    "date": "2026-09-07",
-    "items": [
-     {
-      "productId": "369886",
-      "url": "https://uzum.uz/ru/product/eko-sumka-dlya-zhenschin-369886",
-      "title": "Эко сумка для женщин",
-      "price": 55000,
-      "fullPrice": 130000,
-      "rating": 4.8,
-      "reviews": 228
-     },
-     {
-      "productId": "603071",
-      "url": "https://uzum.uz/ru/product/ryukzak-iz-ekokozhi-603071",
-      "title": "Рюкзак из экокожи черный: мужской и женский городской портфель, унисекс для ноутбука",
-      "price": 119000,
-      "fullPrice": 299000,
-      "rating": 4.9,
-      "reviews": 1130
-     },
-     {
-      "productId": "30370",
-      "url": "https://uzum.uz/ru/product/sumka-cherez-plecho-zhenskaya-kholschovaya-30370",
-      "title": "Сумка через плечо женская, холщовая",
-      "price": 39000,
-      "fullPrice": 125000,
-      "rating": 4.5,
-      "reviews": 67
-     },
-     {
-      "productId": "618920",
-      "url": "https://uzum.uz/ru/product/sumka-shopper-zhenskaya-cherez-plecho-velvetovaya-618920",
-      "title": "Сумка шоппер женская, через плечо, вельветовая",
-      "price": 300000,
-      "fullPrice": 300000,
-      "rating": 4.8,
-      "reviews": 500
-     }
-    ]
-   },
-   "prevReviewsByProductId": {}
-  },
-  {
-   "id": "smartchasy",
-   "label": "Умные часы",
-   "category": "Электроника",
-   "categoryPath": "Электроника / Умные часы и фитнес браслеты",
-   "totalProducts": 2184,
-   "snapshotCount": 1,
-   "latest": {
-    "date": "2026-09-07",
-    "items": [
-     {
-      "productId": "198148",
-      "url": "https://uzum.uz/ru/product/smartchasy-zeblaze-beyond-198148",
-      "title": "Смарт-часы Zeblaze Beyond 2 AMOLED, GPS, влагозащита 5ATM, пульсометр и SpO2",
-      "price": 649000,
-      "fullPrice": 699000,
-      "rating": 4.7,
-      "reviews": 89
-     },
-     {
-      "productId": "355470",
-      "url": "https://uzum.uz/ru/product/umnye-chasy-smart-355470",
-      "title": "Умные часы Smart Watch X7 Pro, T800 Pro Max, X8 Pro, LK8 Pro",
-      "price": 699000,
-      "fullPrice": 699000,
-      "rating": 4.6,
-      "reviews": 243
-     },
-     {
-      "productId": "411753",
-      "url": "https://uzum.uz/ru/product/smartchasy-d20-ultra-y68-ultra-411753",
-      "title": "Смарт-часы D20 Ultra, Y68 Ultra",
-      "price": 189000,
-      "fullPrice": 199000,
-      "rating": 2.8,
-      "reviews": 131
-     },
-     {
-      "productId": "433906",
-      "url": "https://uzum.uz/ru/product/umnye-chasy-smart-433906",
-      "title": "Умные часы Smart Watch Lk8 Pro, с экраном Retina, ремешок в подарок, 45 мм",
-      "price": 729000,
-      "fullPrice": 729000,
-      "rating": 4.5,
-      "reviews": 223
-     }
-    ]
-   },
-   "prevReviewsByProductId": {}
-  },
-  {
-   "id": "termokruzhka",
-   "label": "Термокружки",
-   "category": "Дом и кухня",
-   "categoryPath": "Товары для дома / Термосы и термокружки",
-   "totalProducts": 1120,
-   "snapshotCount": 1,
-   "latest": {
-    "date": "2026-09-07",
-    "items": [
-     {
-      "productId": "397003",
-      "url": "https://uzum.uz/ru/product/termokruzhka-coffee-dlya-397003",
-      "title": "Термокружка \"Coffee\" для холодных и горячих напитков, в машину или на работу",
-      "price": 59990,
-      "fullPrice": 299000,
-      "rating": 4.8,
-      "reviews": 143
-     },
-     {
-      "productId": "946",
-      "url": "https://uzum.uz/ru/product/sportivnaya-butylka-lamart-lt4059-zelyonaya-700-946",
-      "title": "Спортивная бутылка Lamart LT4059, зелёная, 700 мл",
-      "price": 150000,
-      "fullPrice": 150000,
-      "rating": 4.3,
-      "reviews": 3
-     },
-     {
-      "productId": "945",
-      "url": "https://uzum.uz/ru/product/sportivnaya-butylka-lamart-lt4058-sinyaya-700-945",
-      "title": "Спортивная бутылка Lamart LT4058, синяя, 700 мл",
-      "price": 150000,
-      "fullPrice": 150000,
-      "rating": 5,
-      "reviews": 2
-     },
-     {
-      "productId": "947",
-      "url": "https://uzum.uz/ru/product/sportivnaya-butylka-lamart-lt4060-krasnaya-700-947",
-      "title": "Спортивная бутылка Lamart LT4060, красная, 700 мл",
-      "price": 150000,
-      "fullPrice": 150000,
-      "rating": 5,
-      "reviews": 3
-     }
-    ]
-   },
-   "prevReviewsByProductId": {}
-  },
-  {
-   "id": "tonalny_krem",
-   "label": "Тональный крем",
-   "category": "Косметика",
-   "categoryPath": "Красота и уход / Макияж",
-   "totalProducts": 3765,
-   "snapshotCount": 1,
-   "latest": {
-    "date": "2026-09-07",
-    "items": [
-     {
-      "productId": "328258",
-      "url": "https://uzum.uz/ru/product/kushon-tonalnyj-krempudra-328258",
-      "title": "Кушон тональный крем-пудра Magic Cushion SPF 50, BB крем, с запасным рефилом, 15 г",
-      "price": 27900,
-      "fullPrice": 148000,
-      "rating": 4.7,
-      "reviews": 259
-     },
-     {
-      "productId": "723493",
-      "url": "https://uzum.uz/ru/product/tonalnyj-krem-zhidkaya-723493",
-      "title": "Тональный крем, жидкая основа, выравнивает тон кожи, высокая стойкость, 30 мл",
-      "price": 29900,
-      "fullPrice": 145000,
-      "rating": 4.5,
-      "reviews": 534
-     },
-     {
-      "productId": "757146",
-      "url": "https://uzum.uz/ru/product/tonalnyj-krem-emelie-757146",
-      "title": "Тональный крем Emelie, SPF 25, увлажняющий, матовый тон, 45 мл",
-      "price": 35900,
-      "fullPrice": 200000,
-      "rating": 4.6,
-      "reviews": 1177
-     },
-     {
-      "productId": "26293",
-      "url": "https://uzum.uz/ru/product/tonalnyj-krem-dlya-26293",
-      "title": "Тональный крем для лица, Sheep Placenta, светлый тон 01",
-      "price": 68000,
-      "fullPrice": 99000,
-      "rating": 4.5,
-      "reviews": 102
-     }
-    ]
-   },
-   "prevReviewsByProductId": {}
-  },
-  {
-   "id": "tush_resnic",
-   "label": "Тушь для ресниц",
-   "category": "Косметика",
-   "categoryPath": "Красота и уход / Макияж",
-   "totalProducts": 2198,
-   "snapshotCount": 1,
-   "latest": {
-    "date": "2026-09-07",
-    "items": [
-     {
-      "productId": "12755",
-      "url": "https://uzum.uz/ru/product/tush-dlya-resnic-12755",
-      "title": "Тушь для ресниц QiBest, черная, влагостойкая, удлиняющая",
-      "price": 33000,
-      "fullPrice": 70000,
-      "rating": 4.7,
-      "reviews": 1094
-     },
-     {
-      "productId": "366540",
-      "url": "https://uzum.uz/ru/product/chyornaya-tush-dlya-366540",
-      "title": "Чёрная тушь для ресниц, Yanqina, удлиняющая, водостойкая, профессиональная 4D волокна 2 в 1",
-      "price": 18340,
-      "fullPrice": 250000,
-      "rating": 4.7,
-      "reviews": 3960
-     },
-     {
-      "productId": "481763",
-      "url": "https://uzum.uz/ru/product/tush-dlya-resnic-481763",
-      "title": "Тушь для ресниц две щеточки Kiss Beauty 3D эффект, удлинение и объем, черная, 9 мл",
-      "price": 21900,
-      "fullPrice": 150000,
-      "rating": 4.7,
-      "reviews": 1235
-     },
-     {
-      "productId": "363954",
-      "url": "https://uzum.uz/ru/product/tush-dlya-resnic-363954",
-      "title": "Тушь для ресниц 4D профессиональная, водостойкая, черная, 2 кисточки, 10 г",
-      "price": 21900,
-      "fullPrice": 99000,
-      "rating": 4.8,
-      "reviews": 442
-     }
-    ]
-   },
-   "prevReviewsByProductId": {}
-  },
-  {
-   "id": "uvlazhnitel",
-   "label": "Увлажнители воздуха",
-   "category": "Дом и кухня",
-   "categoryPath": "Бытовая техника / Очищение и увлажнение воздуха",
-   "totalProducts": 837,
-   "snapshotCount": 1,
-   "latest": {
-    "date": "2026-09-07",
-    "items": [
-     {
-      "productId": "624809",
-      "url": "https://uzum.uz/ru/product/humidifier-2-lite-624809",
-      "title": "Humidifier 2 Lite, увлажнитель воздуха, ультразвуковой, 4 л, бесшумный, для дома, офиса",
-      "price": 429000,
-      "fullPrice": 1000000,
-      "rating": 4.7,
-      "reviews": 601
-     },
-     {
-      "productId": "321199",
-      "url": "https://uzum.uz/ru/product/uvlazhnitel-vozdukha-s-321199",
-      "title": "Увлажнитель воздуха, с эффектом пламени, c разноцветной подсветкой, aромадиффузор для дома",
-      "price": 99000,
-      "fullPrice": 350000,
-      "rating": 4.5,
-      "reviews": 570
-     },
-     {
-      "productId": "322457",
-      "url": "https://uzum.uz/ru/product/uvlazhnitel-vozdukha-i-322457",
-      "title": "Увлажнитель воздуха и ароматизатор для автомобиля и дома, ночник, сухой туман, 300 мл",
-      "price": 70800,
-      "fullPrice": 147000,
-      "rating": 4.6,
-      "reviews": 144
-     },
-     {
-      "productId": "654781",
-      "url": "https://uzum.uz/ru/product/umnyj-uvlazhnitel-vozdukha-654781",
-      "title": "Умный увлажнитель воздуха Xiaomi Mi Humidifier 2 Lite Global, с системой стерилизации",
-      "price": 529000,
-      "fullPrice": 759000,
-      "rating": 4.9,
-      "reviews": 152
-     }
-    ]
-   },
-   "prevReviewsByProductId": {}
-  },
-  {
-   "id": "videoregistrator",
-   "label": "Видеорегистратор",
-   "category": "Авто-аксессуары",
-   "categoryPath": "Автотовары / Электроника для авто / Видеорегистраторы",
-   "totalProducts": 550,
-   "snapshotCount": 1,
-   "latest": {
-    "date": "2026-09-07",
-    "items": [
-     {
-      "productId": "300933",
-      "url": "https://uzum.uz/ru/product/videoregistrator-dlya-avtomobilya-300933",
-      "title": "Видеорегистратор для автомобиля Lenovo V7, с малибу камерой, рыбий глаз",
-      "price": 494000,
-      "fullPrice": 950000,
-      "rating": 4.7,
-      "reviews": 230
-     },
-     {
-      "productId": "243575",
-      "url": "https://uzum.uz/ru/product/videoregistrator-lenovo-v7-plus-full-hd-243575",
-      "title": "Видеорегистратор Lenovo V7 plus Full HD",
-      "price": 549000,
-      "fullPrice": 870000,
-      "rating": 4.5,
-      "reviews": 42
-     },
-     {
-      "productId": "314113",
-      "url": "https://uzum.uz/ru/product/videoregistrator-lenovo-v7-plus-fullhd-314113",
-      "title": "Видеорегистратор Lenovo V7 Plus FullHD",
-      "price": 535000,
-      "fullPrice": 850000,
-      "rating": 4.8,
-      "reviews": 17
-     },
-     {
-      "productId": "751759",
-      "url": "https://uzum.uz/ru/product/videoregistrator-xiaomi-mi-751759",
-      "title": "Видеорегистратор Xiaomi Mi Ecosystem Y6 / HR17 Dual",
-      "price": 490000,
-      "fullPrice": 980000,
-      "rating": 4,
-      "reviews": 23
-     }
-    ]
-   },
-   "prevReviewsByProductId": {}
-  }
- ],
- "cargo": [
-  {
-   "name": "Cargo.uz",
-   "rate": "Цены не публикуются — расчёт по заявке (ориентировочно $4-6/кг для сборных грузов по рынку)",
-   "delivery": "уточнять у менеджера",
-   "minShipment": null,
-   "blocks": [],
-   "goodFor": [],
-   "restrictions": [
-    "Публичных данных о запрещённых категориях нет — уточнять напрямую"
-   ],
-   "notes": "Крупный игрок на рынке Китай→Узбекистан, но сайт не публикует тарифы и ограничения — присылают расчёт по заявке.",
-   "contact": "+998 55 515 07 00, info@cargo.uz",
-   "url": "https://www.cargo.uz"
-  },
-  {
-   "name": "Pegasus Logistics",
-   "rate": "Авиа от $2.5-3/кг (до 500 кг); авто до 20 тонн; ж/д контейнер от $1500",
-   "delivery": "Авиа 3-7 дней, авто 10-15 дней, ж/д 15-25 дней",
-   "minShipment": null,
-   "blocks": [],
-   "goodFor": [
-    "bulk"
-   ],
-   "restrictions": [
-    "Работают с опасными/химическими грузами по отдельным условиям — по косметике и батарейкам уточнять индивидуально"
-   ],
-   "notes": "Больше заточены под крупные и контейнерные партии, чем под мелкий опт под один-два товара.",
-   "contact": "+998 91 795 55 56, info@pegaslogistics.uz",
-   "url": "https://pegaslogistics.uz"
-  },
-  {
-   "name": "Транзит Про (TransitPro)",
-   "rate": "Сборный груз от 10 кг: $3-6/кг (14-18 дней); посылки 1-10 кг: $8/кг (20-25 дней); от 1 куб.м: $90-140/куб.м (15-20 дней)",
-   "delivery": "14-25 дней в зависимости от формата",
-   "minShipment": "от 1 кг (посылка)",
-   "blocks": [],
-   "goodFor": [
-    "clothing",
-    "bulk"
-   ],
-   "restrictions": [
-    "Ограничения по косметике и батарейкам на сайте не указаны — единственный из проверенных сервисов, который прямо ориентируется на продавцов Uzum и мелкий опт, стоит уточнить именно у них в первую очередь"
-   ],
-   "notes": "Помогают и с самим закупом на 1688/Taobao/Alibaba, не только доставкой — по описанию ближе всего к тому, что нужно для старта.",
-   "contact": "transitpro.uz",
-   "url": "https://transitpro.uz"
-  },
-  {
-   "name": "Meest China",
-   "rate": "Одежда $5.5/кг; плотный груз (>170 кг/м³) $7/кг; лёгкий груз $1150/м³ + $0.5/кг местные расходы в Китае + 2% страховка",
-   "delivery": "~16 дней (отправка по средам)",
-   "minShipment": "20 кг",
-   "blocks": [
-    "cosmetics",
-    "batteries"
-   ],
-   "goodFor": [
-    "clothing"
-   ],
-   "restrictions": [
-    "ЗАПРЕЩЕНО: косметика, эфирные масла, парфюмерия, любые жидкости",
-    "ЗАПРЕЩЕНО: батарейки и аккумуляторы всех типов",
-    "ЗАПРЕЩЕНО: электроника с SIM-картами, украшения, лекарства, оружие, контрафакт",
-    "Можно: одежда, обувь, сумки, игрушки без батареек, автозапчасти, спорттовары, пластик"
-   ],
-   "notes": "НЕ подходит ни для косметики, ни для большинства электроники с радара (повербанки, наушники, видеорегистраторы) — только одежда/аксессуары/автозапчасти без электроники.",
-   "contact": "uz.meest.cn",
-   "url": "https://uz.meest.cn"
-  },
-  {
-   "name": "CargoTransit",
-   "rate": "не удалось проверить (сайт вернул ошибку доступа при автоматической проверке)",
-   "delivery": "неизвестно",
-   "minShipment": null,
-   "blocks": [],
-   "goodFor": [],
-   "restrictions": [
-    "Нужна ручная проверка напрямую"
-   ],
-   "notes": "Сайт не открылся при автоматической проверке.",
-   "contact": "cargotransit.ru",
-   "url": "https://cargotransit.ru/dostavka-iz-kitaya-v-uzbekistan/"
-  }
- ]
+  "generatedAt": "2026-09-07",
+  "niches": [
+    {
+      "label": "Автоароматизатор",
+      "category": "Авто-аксессуары",
+      "categoryPath": "Автотовары / Уход за автомобилем",
+      "totalProducts": 4529,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 130000,
+            "price": 43000,
+            "productId": "277124",
+            "rating": 4.8,
+            "reviews": 5780,
+            "title": "Освежитель воздуха для автомобиля Вертолёт",
+            "url": "https://uzum.uz/ru/product/osvezhitel-vozdukha-dlya-avtomobilya-vertolyot-277124"
+          },
+          {
+            "fullPrice": 150000,
+            "price": 52380,
+            "productId": "543875",
+            "rating": 4.6,
+            "reviews": 253,
+            "title": "Освежитель воздуха в машину",
+            "url": "https://uzum.uz/ru/product/osvezhitel-vozdukha-v-mashinu-543875"
+          },
+          {
+            "fullPrice": 147000,
+            "price": 70800,
+            "productId": "322457",
+            "rating": 4.6,
+            "reviews": 144,
+            "title": "Увлажнитель воздуха и ароматизатор для автомобиля и дома, ночник, сухой туман, 300 мл",
+            "url": "https://uzum.uz/ru/product/uvlazhnitel-vozdukha-i-322457"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Блендеры",
+      "category": "Дом и кухня",
+      "categoryPath": "Бытовая техника / Измельчение и смешивание",
+      "totalProducts": 1005,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 790000,
+            "price": 375410,
+            "productId": "323525",
+            "rating": 4.9,
+            "reviews": 76,
+            "title": "Блендер ручной Arshia AS1911-8009, многофункциональный, 3 в 1",
+            "url": "https://uzum.uz/ru/product/blender-ruchnoj-arshia-323525"
+          },
+          {
+            "fullPrice": 700000,
+            "price": 399000,
+            "productId": "354543",
+            "rating": 4.4,
+            "reviews": 34,
+            "title": "Погружной блендер чоппер, миксер Sonifer SF-8013 ручной 4 в 1",
+            "url": "https://uzum.uz/ru/product/pogruzhnoj-blender-chopper-354543"
+          },
+          {
+            "fullPrice": 399000,
+            "price": 229000,
+            "productId": "557195",
+            "rating": 4.9,
+            "reviews": 19,
+            "title": "Ручной блендер ArshiaDubay 2in1 , погружной блендер с чашей объемом 600 мл",
+            "url": "https://uzum.uz/ru/product/ruchnoj-blender-arshiadubay-557195"
+          },
+          {
+            "fullPrice": 1450000,
+            "price": 699000,
+            "productId": "321204",
+            "rating": 4.8,
+            "reviews": 26,
+            "title": "Портативная cоковыжималка свежих фруктов, блендер, кофемолка, 4 в 1",
+            "url": "https://uzum.uz/ru/product/portativnaya-cokovyzhimalka-svezhikh-321204"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Чехлы на сиденья",
+      "category": "Авто-аксессуары",
+      "categoryPath": "Автотовары / Аксессуары и принадлежности",
+      "totalProducts": 1986,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 2000000,
+            "price": 1559990,
+            "productId": "278804",
+            "rating": 4.9,
+            "reviews": 535,
+            "title": "Автомобильные чехлы для сидений CARDINAR ALFA, cobalt, nexia, gentra, onix, tracker, byd",
+            "url": "https://uzum.uz/ru/product/avtomobilnye-chekhly-dlya-278804"
+          },
+          {
+            "fullPrice": 79000,
+            "price": 38560,
+            "productId": "370392",
+            "rating": 4.8,
+            "reviews": 66,
+            "title": "Ортопедическая сетка для сиденья автомобиля и офисного кресла, 1 шт",
+            "url": "https://uzum.uz/ru/product/ortopedicheskaya-setka-dlya-370392"
+          },
+          {
+            "fullPrice": 200000,
+            "price": 59000,
+            "productId": "356638",
+            "rating": 4.8,
+            "reviews": 81,
+            "title": "Органайзер накидка на спинку сиденья автомобиля, защитный чехол",
+            "url": "https://uzum.uz/ru/product/organajzer-nakidka-na-356638"
+          },
+          {
+            "fullPrice": 1500000,
+            "price": 1219990,
+            "productId": "278282",
+            "rating": 4.9,
+            "reviews": 106,
+            "title": "Автомобильные чехлы для сидений CARDINAR PALMA, cobalt, nexia, gentra, onix, tracker, byd",
+            "url": "https://uzum.uz/ru/product/avtomobilnye-chekhly-dlya-278282"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Чехлы для телефонов",
+      "category": "Электроника",
+      "categoryPath": "Электроника / Аксессуары для смартфонов / Чехлы",
+      "totalProducts": 32457,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 39000,
+            "price": 19000,
+            "productId": "253351",
+            "rating": 4.8,
+            "reviews": 1221,
+            "title": "Чехол для iPhone 6s,7,8,SE,XR,XS,11,12,13,14,15Pro,Max,Plus,Mini, прозрачный, силиконовый",
+            "url": "https://uzum.uz/ru/product/chekhol-dlya-iphone-253351"
+          },
+          {
+            "fullPrice": 40000,
+            "price": 24500,
+            "productId": "271493",
+            "rating": 4.9,
+            "reviews": 298,
+            "title": "Чехол Samsung A03/A13/A23/A32/A33/A53/S21/S21+/S21Ultra/S22/S22+/S22Ultra/A14/A24/A34/A54",
+            "url": "https://uzum.uz/ru/product/chekhol-samsung-a03a13a23a32a33a53s21s21s21ultras22s22s22ultraa14a24a34a54-271493"
+          },
+          {
+            "fullPrice": 35000,
+            "price": 11000,
+            "productId": "191376",
+            "rating": 4.9,
+            "reviews": 101,
+            "title": "Силиконовый прозрачный чехол для iPhone, 1.5 мм, с защитой камеры",
+            "url": "https://uzum.uz/ru/product/silikonovyj-prozrachnyj-chekhol-191376"
+          },
+          {
+            "fullPrice": 100000,
+            "price": 9800,
+            "productId": "628653",
+            "rating": 4.8,
+            "reviews": 1575,
+            "title": "Чехол на iPhone 7,8,SE,XS,11,12,13,14,15,16,17,Pro,Max,Plus,айфон Mini,прозрачный, силикон",
+            "url": "https://uzum.uz/ru/product/chekhol-na-iphone-628653"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Держатель телефона в авто",
+      "category": "Авто-аксессуары",
+      "categoryPath": "Автотовары / Аксессуары и принадлежности",
+      "totalProducts": 1077,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 141000,
+            "price": 49900,
+            "productId": "555993",
+            "rating": 4.5,
+            "reviews": 471,
+            "title": "Держатель для телефона в машину, на зеркало заднего вида",
+            "url": "https://uzum.uz/ru/product/derzhatel-dlya-telefona-555993"
+          },
+          {
+            "fullPrice": 170000,
+            "price": 34650,
+            "productId": "351680",
+            "rating": 4.4,
+            "reviews": 26,
+            "title": "Держатель телефона, на зеркало заднего вида",
+            "url": "https://uzum.uz/ru/product/derzhatel-telefona-na-zerkalo-zadnego-vida-351680"
+          },
+          {
+            "fullPrice": 30000,
+            "price": 19990,
+            "productId": "544686",
+            "rating": 4.4,
+            "reviews": 18,
+            "title": "Магнитный держатель телефона для автомобиля Magnet Holder",
+            "url": "https://uzum.uz/ru/product/magnitnyj-derzhatel-telefona-544686"
+          },
+          {
+            "fullPrice": 75000,
+            "price": 49000,
+            "productId": "388944",
+            "rating": 3.7,
+            "reviews": 3,
+            "title": "Держатель для телефона в машину Model cz-3115",
+            "url": "https://uzum.uz/ru/product/derzhatel-dlya-telefona-v-mashinu-model-388944"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Духи и парфюмерия",
+      "category": "Косметика",
+      "categoryPath": "Красота и уход / Парфюмерия",
+      "totalProducts": 6598,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 18000,
+            "price": 11500,
+            "productId": "509459",
+            "rating": 4.9,
+            "reviews": 1338,
+            "title": "Многоразовый флакон для духов, с распылителем, атомайзер, 5, 10, 15, 32 мл",
+            "url": "https://uzum.uz/ru/product/mnogorazovyj-flakon-dlya-509459"
+          },
+          {
+            "fullPrice": 550000,
+            "price": 86330,
+            "productId": "600280",
+            "rating": 3.9,
+            "reviews": 74,
+            "title": "Подарочный набор духов Les Parfumes, для женщин и девочек, 5 в 1",
+            "url": "https://uzum.uz/ru/product/podarochnyj-nabor-dukhov-600280"
+          },
+          {
+            "fullPrice": 100000,
+            "price": 31910,
+            "productId": "435630",
+            "rating": 4.7,
+            "reviews": 754,
+            "title": "Масляные духи для мужчин и женщин, 10 мл",
+            "url": "https://uzum.uz/ru/product/maslyanye-dukhi-dlya-muzhchin-i-zhenschin-435630"
+          },
+          {
+            "fullPrice": 70000,
+            "price": 29000,
+            "productId": "435727",
+            "rating": 4.6,
+            "reviews": 131,
+            "title": "Масляные духи для мужчин и женщин, 10 мл",
+            "url": "https://uzum.uz/ru/product/maslyanye-dukhi-dlya-muzhchin-i-zhenschin-435727"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Фитнес резинка",
+      "category": "Спорт и отдых",
+      "categoryPath": "Спорт и отдых / Фитнес и йога",
+      "totalProducts": 729,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 250000,
+            "price": 66930,
+            "productId": "134671",
+            "rating": 4.6,
+            "reviews": 343,
+            "title": "Фитнес резинки, эспандер ленточный для подтягивания, резиновые петли, разная нагрузка",
+            "url": "https://uzum.uz/ru/product/fitnes-rezinki-espander-134671"
+          },
+          {
+            "fullPrice": 90000,
+            "price": 49100,
+            "productId": "668810",
+            "rating": 4.9,
+            "reviews": 492,
+            "title": "Наколенник эластичный с ремнями для суставов У008-CN-001 бандаж на колено, для спорта, 1 шт",
+            "url": "https://uzum.uz/ru/product/nakolennik-elastichnyj-s-668810"
+          },
+          {
+            "fullPrice": 50000,
+            "price": 29000,
+            "productId": "32091",
+            "rating": 4.9,
+            "reviews": 331,
+            "title": "Эластичная фитнес лента для йоги и пилатеса",
+            "url": "https://uzum.uz/ru/product/elastichnaya-fitnes-lenta-dlya-jogi-i-32091"
+          },
+          {
+            "fullPrice": 50000,
+            "price": 13000,
+            "productId": "659168",
+            "rating": 4.4,
+            "reviews": 46,
+            "title": "Эспандер ленточный для силовых тренировок",
+            "url": "https://uzum.uz/ru/product/espander-lentochnyj-dlya-silovykh-trenirovok-659168"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Футболка мужская",
+      "category": "Одежда",
+      "categoryPath": "Одежда / Мужская одежда",
+      "totalProducts": 26450,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 29000,
+            "price": 29000,
+            "productId": "142241",
+            "rating": 4.6,
+            "reviews": 1241,
+            "title": "Мужская спортивная футболка",
+            "url": "https://uzum.uz/ru/product/muzhskaya-sportivnaya-futbolka-142241"
+          },
+          {
+            "fullPrice": 99000,
+            "price": 59000,
+            "productId": "299303",
+            "rating": 4.8,
+            "reviews": 1727,
+            "title": "Футболка мужская Playowo",
+            "url": "https://uzum.uz/ru/product/futbolka-muzhskaya-playowo-299303"
+          },
+          {
+            "fullPrice": 99000,
+            "price": 49000,
+            "productId": "356386",
+            "rating": 4.9,
+            "reviews": 493,
+            "title": "Детские футболки Playowo, для физкультуры и для дома, 100% хлопок",
+            "url": "https://uzum.uz/ru/product/detskie-futbolki-playowo-356386"
+          },
+          {
+            "fullPrice": 130000,
+            "price": 29990,
+            "productId": "374981",
+            "rating": 4.3,
+            "reviews": 2426,
+            "title": "Мужская футболка поло, финка на молнии с коротким рукавом",
+            "url": "https://uzum.uz/ru/product/muzhskaya-futbolka-polo-374981"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Коврик для йоги",
+      "category": "Спорт и отдых",
+      "categoryPath": "Спорт и отдых / Йога и пилатес",
+      "totalProducts": 408,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 230000,
+            "price": 138600,
+            "productId": "308796",
+            "rating": 4.9,
+            "reviews": 18,
+            "title": "Коврик для йоги и фитнеса с чехлом",
+            "url": "https://uzum.uz/ru/product/kovrik-dlya-jogi-i-fitnesa-s-308796"
+          },
+          {
+            "fullPrice": 600000,
+            "price": 224990,
+            "productId": "674794",
+            "rating": 4.7,
+            "reviews": 132,
+            "title": "Коврик для йоги и фитнеса, 6 мм, нескользящий и износостойкий, спортивный, для пилатеса",
+            "url": "https://uzum.uz/ru/product/kovrik-dlya-jogi-674794"
+          },
+          {
+            "fullPrice": 299000,
+            "price": 145000,
+            "productId": "541706",
+            "rating": 4.8,
+            "reviews": 20,
+            "title": "Коврик для йоги и гимнастики, двухслойный, с сумкой",
+            "url": "https://uzum.uz/ru/product/kovrik-dlya-jogi-541706"
+          },
+          {
+            "fullPrice": 199000,
+            "price": 160000,
+            "productId": "312740",
+            "rating": 5,
+            "reviews": 1,
+            "title": "Коврик для йоги 522825-1",
+            "url": "https://uzum.uz/ru/product/kovrik-dlya-jogi-5228251-312740"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Кроссовки мужские",
+      "category": "Обувь",
+      "categoryPath": "Обувь / Мужская обувь",
+      "totalProducts": 12178,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 1125000,
+            "price": 125000,
+            "productId": "439219",
+            "rating": 4.8,
+            "reviews": 85,
+            "title": "Кроссовки мужские Демисезонные Erke",
+            "url": "https://uzum.uz/ru/product/krossovki-muzhskie-demisezonnye-erke-439219"
+          },
+          {
+            "fullPrice": 249000,
+            "price": 164000,
+            "productId": "291778",
+            "rating": 4.8,
+            "reviews": 128,
+            "title": "Кроссовки летние мужские сетчатые",
+            "url": "https://uzum.uz/ru/product/krossovki-letnie-muzhskie-setchatye-291778"
+          },
+          {
+            "fullPrice": 400000,
+            "price": 99000,
+            "productId": "509879",
+            "rating": 4.7,
+            "reviews": 409,
+            "title": "Мужские спортивные кроссовки, летние",
+            "url": "https://uzum.uz/ru/product/muzhskie-sportivnye-krossovki-letnie-509879"
+          },
+          {
+            "fullPrice": 300000,
+            "price": 285000,
+            "productId": "672088",
+            "rating": 4.6,
+            "reviews": 101,
+            "title": "Кроссовки мужские Qadam unisex DD328ACV 320B",
+            "url": "https://uzum.uz/ru/product/krossovki-muzhskie-qadam-unisex-dd328acv-320b-672088"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Кроссовки женские",
+      "category": "Обувь",
+      "categoryPath": "Обувь / Женская обувь",
+      "totalProducts": 9486,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 1250000,
+            "price": 95000,
+            "productId": "350538",
+            "rating": 4.9,
+            "reviews": 221,
+            "title": "Женские кроссовки GRN",
+            "url": "https://uzum.uz/ru/product/zhenskie-krossovki-grn-350538"
+          },
+          {
+            "fullPrice": 150000,
+            "price": 150000,
+            "productId": "308631",
+            "rating": 4.6,
+            "reviews": 219,
+            "title": "Кроссовки женские совместного производства",
+            "url": "https://uzum.uz/ru/product/krossovki-zhenskie-sovmestnogo-proizvodstva-308631"
+          },
+          {
+            "fullPrice": 150000,
+            "price": 49000,
+            "productId": "162303",
+            "rating": 4.8,
+            "reviews": 32,
+            "title": "Кроссовки Unisex",
+            "url": "https://uzum.uz/ru/product/krossovki-unisex-162303"
+          },
+          {
+            "fullPrice": 350000,
+            "price": 99000,
+            "productId": "642994",
+            "rating": 4.8,
+            "reviews": 46,
+            "title": "Женские кроссовки",
+            "url": "https://uzum.uz/ru/product/zhenskie-krossovki-642994"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Радиоуправляемая машинка",
+      "category": "Детские товары",
+      "categoryPath": "Детские товары / Игрушки",
+      "totalProducts": 1527,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 360000,
+            "price": 185000,
+            "productId": "666217",
+            "rating": 4.7,
+            "reviews": 155,
+            "title": "Игрушечная машинка экскаватор на пульте управления, коллекция Спецтехника",
+            "url": "https://uzum.uz/ru/product/igrushechnaya-mashinka-ekskavator-666217"
+          },
+          {
+            "fullPrice": 550000,
+            "price": 460000,
+            "productId": "636521",
+            "rating": 4.5,
+            "reviews": 12,
+            "title": "Машинка на пульте управления \"Амфибия\"",
+            "url": "https://uzum.uz/ru/product/mashinka-na-pulte-upravleniya-amfibiya-636521"
+          },
+          {
+            "fullPrice": 250000,
+            "price": 250000,
+            "productId": "416715",
+            "rating": 4.5,
+            "reviews": 12,
+            "title": "Радиоуправляемая машина с подсветкой и открывающимися дверями, Speed Car",
+            "url": "https://uzum.uz/ru/product/radioupravlyaemaya-mashina-s-416715"
+          },
+          {
+            "fullPrice": 260000,
+            "price": 260000,
+            "productId": "198548",
+            "rating": 4.5,
+            "reviews": 2,
+            "title": "Радиоуправляемая машинка Big Foot",
+            "url": "https://uzum.uz/ru/product/radioupravlyaemaya-mashinka-big-foot-198548"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Мягкие игрушки",
+      "category": "Детские товары",
+      "categoryPath": "Детские товары / Игрушки",
+      "totalProducts": 5538,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 56000,
+            "price": 50000,
+            "productId": "133222",
+            "rating": 4.8,
+            "reviews": 113,
+            "title": "Игрушкa мяч попрыгунчик для кошек и собак, бесшумный мягкий мячик",
+            "url": "https://uzum.uz/ru/product/igrushka-myach-poprygunchik-133222"
+          },
+          {
+            "fullPrice": 150000,
+            "price": 29900,
+            "productId": "670372",
+            "rating": 4.8,
+            "reviews": 1375,
+            "title": "Мягкая антистресс игрушка осьминог-перевертыш, двухсторонний",
+            "url": "https://uzum.uz/ru/product/myagkaya-antistress-igrushka-670372"
+          },
+          {
+            "fullPrice": 99000,
+            "price": 38610,
+            "productId": "409599",
+            "rating": 4.5,
+            "reviews": 656,
+            "title": "Антистресс игрушечная обезьяна, тянучка, перец, огурец, морковь, банан, сквиш",
+            "url": "https://uzum.uz/ru/product/antistress-igrushechnaya-obezyana-409599"
+          },
+          {
+            "fullPrice": 140000,
+            "price": 99000,
+            "productId": "520581",
+            "rating": 4.8,
+            "reviews": 117,
+            "title": "Мягкая игрушка зайка, спящий зайчик, 35 см",
+            "url": "https://uzum.uz/ru/product/myagkaya-igrushka-zajka-spyaschij-zajchik-35-520581"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Наушники",
+      "category": "Электроника",
+      "categoryPath": "Электроника / Наушники и аудиотехника",
+      "totalProducts": 17843,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 1000000,
+            "price": 185000,
+            "productId": "355766",
+            "rating": 4.5,
+            "reviews": 9656,
+            "title": "Беспроводные наушники Pods 3 Premium для iPhone и Android, чехол в подарок",
+            "url": "https://uzum.uz/ru/product/besprovodnye-naushniki-pods-355766"
+          },
+          {
+            "fullPrice": 1650000,
+            "price": 195000,
+            "productId": "355687",
+            "rating": 4.5,
+            "reviews": 7487,
+            "title": "Беспроводные наушники Pro 2 Premium для iPhone и Android, чехол в подарок. ShopLand",
+            "url": "https://uzum.uz/ru/product/besprovodnye-naushniki-pro-355687"
+          },
+          {
+            "fullPrice": 350000,
+            "price": 115000,
+            "productId": "481256",
+            "rating": 4.5,
+            "reviews": 1144,
+            "title": "Беспроводные наушники Pods Pro 2, Bluetooth, с шумоподавлением, с микрофоном",
+            "url": "https://uzum.uz/ru/product/besprovodnye-naushniki-pods-481256"
+          },
+          {
+            "fullPrice": 180000,
+            "price": 110000,
+            "productId": "291396",
+            "rating": 4.3,
+            "reviews": 277,
+            "title": "Наушники беспроводные Pro 5 для iPhone, Android",
+            "url": "https://uzum.uz/ru/product/naushniki-besprovodnye-pro-5-dlya-iphone-291396"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Автоорганайзер",
+      "category": "Авто-аксессуары",
+      "categoryPath": "Автотовары / Аксессуары и принадлежности",
+      "totalProducts": 219,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 55000,
+            "price": 33950,
+            "productId": "34817",
+            "rating": 4.7,
+            "reviews": 289,
+            "title": "Органайзер с карманами подвесной для хранения мелочей",
+            "url": "https://uzum.uz/ru/product/organajzer-s-karmanami-34817"
+          },
+          {
+            "fullPrice": 320000,
+            "price": 169000,
+            "productId": "371614",
+            "rating": 4.9,
+            "reviews": 432,
+            "title": "Органайзер в багажник, сумка для автомобиля, складная",
+            "url": "https://uzum.uz/ru/product/organajzer-v-bagazhnik-371614"
+          },
+          {
+            "fullPrice": 550000,
+            "price": 199000,
+            "productId": "299745",
+            "rating": 4.8,
+            "reviews": 50,
+            "title": "Сумка-органайзер для багажника автомобиля Chevrolet, Kia, Hundai, Toyota, BYD, Li",
+            "url": "https://uzum.uz/ru/product/sumkaorganajzer-dlya-bagazhnika-299745"
+          },
+          {
+            "fullPrice": 95000,
+            "price": 92150,
+            "productId": "274750",
+            "rating": 4.8,
+            "reviews": 4,
+            "title": "Органайзер для сумок подвесной органайзер для хранения сумок в шкафу",
+            "url": "https://uzum.uz/ru/product/organajzer-dlya-sumok-274750"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Патчи для лица/глаз",
+      "category": "Косметика",
+      "categoryPath": "Красота и уход / Уход за лицом / Патчи",
+      "totalProducts": 601,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 100000,
+            "price": 100000,
+            "productId": "390189",
+            "rating": 4.7,
+            "reviews": 1309,
+            "title": "Патчи коллагеновые для глаз Collagen Crystal Eye Mask, гидрогелиевые",
+            "url": "https://uzum.uz/ru/product/patchi-kollagenovye-dlya-390189"
+          },
+          {
+            "fullPrice": 120000,
+            "price": 120000,
+            "productId": "541492",
+            "rating": 4.5,
+            "reviews": 151,
+            "title": "Патчи от прыщей, акне и черных точек, гидроколлоидные, 3 размера, 120 шт",
+            "url": "https://uzum.uz/ru/product/patchi-ot-pryschej-541492"
+          },
+          {
+            "fullPrice": 93850,
+            "price": 40990,
+            "productId": "15539",
+            "rating": 4.9,
+            "reviews": 62,
+            "title": "Спрей-уход для волос Keratin Complex F-581, термозащита и блеск, 135 мл",
+            "url": "https://uzum.uz/ru/product/sprejukhod-dlya-volos-15539"
+          },
+          {
+            "fullPrice": 99000,
+            "price": 86000,
+            "productId": "539445",
+            "rating": 4.6,
+            "reviews": 196,
+            "title": "Линии лифтинга век, 600 шт",
+            "url": "https://uzum.uz/ru/product/linii-liftinga-vek-600-sht-539445"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Платье женское",
+      "category": "Одежда",
+      "categoryPath": "Одежда / Платья и сарафаны",
+      "totalProducts": 7450,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 600000,
+            "price": 119000,
+            "productId": "416548",
+            "rating": 4.5,
+            "reviews": 149,
+            "title": "Платье летнее на запах с воланами",
+            "url": "https://uzum.uz/ru/product/plate-letnee-na-zapakh-s-volanami-416548"
+          },
+          {
+            "fullPrice": 299000,
+            "price": 99000,
+            "productId": "401116",
+            "rating": 4.4,
+            "reviews": 21,
+            "title": "Длинное женское черное платье миди с боковым разрезом на осень",
+            "url": "https://uzum.uz/ru/product/dlinnoe-zhenskoe-chernoe-401116"
+          },
+          {
+            "fullPrice": 400000,
+            "price": 189000,
+            "productId": "405808",
+            "rating": 4.8,
+            "reviews": 118,
+            "title": "Кружевное женское платье с V образным вырезом",
+            "url": "https://uzum.uz/ru/product/kruzhevnoe-zhenskoe-plate-s-v-obraznym-405808"
+          },
+          {
+            "fullPrice": 300000,
+            "price": 179000,
+            "productId": "437043",
+            "rating": 4.7,
+            "reviews": 68,
+            "title": "Платье женское летнее с V образным вырезом и поясом, повседневное и вечернее платье",
+            "url": "https://uzum.uz/ru/product/plate-zhenskoe-letnee-437043"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Губная помада",
+      "category": "Косметика",
+      "categoryPath": "Красота и уход / Макияж",
+      "totalProducts": 3166,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 9990,
+            "price": 9990,
+            "productId": "631051",
+            "rating": 4.8,
+            "reviews": 8008,
+            "title": "Карандаш-помада для губ, водостойкий, VIOLET, с точилкой, матовый, 12 оттенков",
+            "url": "https://uzum.uz/ru/product/karandashpomada-dlya-gub-631051"
+          },
+          {
+            "fullPrice": 9990,
+            "price": 9990,
+            "productId": "475569",
+            "rating": 4.8,
+            "reviews": 4436,
+            "title": "Карандаш-помада для губ, FLORMAR, водостойкая, с точилкой, матовый, 12 оттенков",
+            "url": "https://uzum.uz/ru/product/karandashpomada-dlya-gub-475569"
+          },
+          {
+            "fullPrice": 7990,
+            "price": 7990,
+            "productId": "566160",
+            "rating": 4.8,
+            "reviews": 8889,
+            "title": "Карандаш-помада для губ, водостойкий, матовый, мисс таис",
+            "url": "https://uzum.uz/ru/product/karandashpomada-dlya-gub-566160"
+          },
+          {
+            "fullPrice": 70000,
+            "price": 22000,
+            "productId": "445739",
+            "rating": 4.8,
+            "reviews": 3199,
+            "title": "Блеск для губ, бальзам увлажняющий, помада глянцевая Qibest",
+            "url": "https://uzum.uz/ru/product/blesk-dlya-gub-445739"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Повербанки",
+      "category": "Электроника",
+      "categoryPath": "Электроника / Аксессуары для смартфонов / Внешние аккумуляторы",
+      "totalProducts": 1263,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 300000,
+            "price": 279000,
+            "productId": "528037",
+            "rating": 4.4,
+            "reviews": 16,
+            "title": "Внешний аккумулятор XO PR205 QC3.0, PD20W, USB 22,5 В, 10000 мА/ч",
+            "url": "https://uzum.uz/ru/product/vneshnij-akkumulyator-xo-528037"
+          },
+          {
+            "fullPrice": 150000,
+            "price": 110000,
+            "productId": "252049",
+            "rating": null,
+            "reviews": 0,
+            "title": "Внешний аккумулятор Remax RPP-295 10000 mA/h Fast Charging",
+            "url": "https://uzum.uz/ru/product/vneshnij-akkumulyator-remax-252049"
+          },
+          {
+            "fullPrice": 586000,
+            "price": 489000,
+            "productId": "369334",
+            "rating": 3.9,
+            "reviews": 10,
+            "title": "Повербанк Samsung Super Fast Charging, Type-С, PD 3.0 PPS",
+            "url": "https://uzum.uz/ru/product/poverbank-samsung-super-369334"
+          },
+          {
+            "fullPrice": 318000,
+            "price": 212000,
+            "productId": "235526",
+            "rating": 3.7,
+            "reviews": 3,
+            "title": "Внешний аккумулятор Power Bank XO PB301, 10000 мA/ч",
+            "url": "https://uzum.uz/ru/product/vneshnij-akkumulyator-power-235526"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Проекторы и ночники",
+      "category": "Электроника",
+      "categoryPath": "Электроника / Телевизоры и видеотехника (смешанная выдача)",
+      "totalProducts": 1097,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 50000,
+            "price": 28500,
+            "productId": "364570",
+            "rating": 4.7,
+            "reviews": 1058,
+            "title": "LED-проектор на дверь автомобиля — логотип Chevrolet, беспроводной, на батарейках",
+            "url": "https://uzum.uz/ru/product/ledproektor-na-dver-364570"
+          },
+          {
+            "fullPrice": 160000,
+            "price": 48000,
+            "productId": "38807",
+            "rating": 4.7,
+            "reviews": 2196,
+            "title": "Ночник 3D проектор звездного неба, светильник светодиодный вращающийся, подарок ребенку",
+            "url": "https://uzum.uz/ru/product/nochnik-3d-proektor-38807"
+          },
+          {
+            "fullPrice": 70000,
+            "price": 27510,
+            "productId": "778731",
+            "rating": 4.7,
+            "reviews": 1584,
+            "title": "LED-проектор логотипа на дверь авто, беспроводной — 1 шт, GERB или Chevrolet",
+            "url": "https://uzum.uz/ru/product/ledproektor-logotipa-na-778731"
+          },
+          {
+            "fullPrice": 80000,
+            "price": 69990,
+            "productId": "239583",
+            "rating": 3.8,
+            "reviews": 28,
+            "title": "Cветодиодный USB проектор звездное небо",
+            "url": "https://uzum.uz/ru/product/cvetodiodnyj-usb-proektor-zvezdnoe-nebo-239583"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Рюкзаки и сумки",
+      "category": "Аксессуары",
+      "categoryPath": "Аксессуары (смешанная выдача)",
+      "totalProducts": 29204,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 130000,
+            "price": 55000,
+            "productId": "369886",
+            "rating": 4.8,
+            "reviews": 228,
+            "title": "Эко сумка для женщин",
+            "url": "https://uzum.uz/ru/product/eko-sumka-dlya-zhenschin-369886"
+          },
+          {
+            "fullPrice": 299000,
+            "price": 119000,
+            "productId": "603071",
+            "rating": 4.9,
+            "reviews": 1130,
+            "title": "Рюкзак из экокожи черный: мужской и женский городской портфель, унисекс для ноутбука",
+            "url": "https://uzum.uz/ru/product/ryukzak-iz-ekokozhi-603071"
+          },
+          {
+            "fullPrice": 125000,
+            "price": 39000,
+            "productId": "30370",
+            "rating": 4.5,
+            "reviews": 67,
+            "title": "Сумка через плечо женская, холщовая",
+            "url": "https://uzum.uz/ru/product/sumka-cherez-plecho-zhenskaya-kholschovaya-30370"
+          },
+          {
+            "fullPrice": 300000,
+            "price": 300000,
+            "productId": "618920",
+            "rating": 4.8,
+            "reviews": 500,
+            "title": "Сумка шоппер женская, через плечо, вельветовая",
+            "url": "https://uzum.uz/ru/product/sumka-shopper-zhenskaya-cherez-plecho-velvetovaya-618920"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Умные часы",
+      "category": "Электроника",
+      "categoryPath": "Электроника / Умные часы и фитнес браслеты",
+      "totalProducts": 2184,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 699000,
+            "price": 649000,
+            "productId": "198148",
+            "rating": 4.7,
+            "reviews": 89,
+            "title": "Смарт-часы Zeblaze Beyond 2 AMOLED, GPS, влагозащита 5ATM, пульсометр и SpO2",
+            "url": "https://uzum.uz/ru/product/smartchasy-zeblaze-beyond-198148"
+          },
+          {
+            "fullPrice": 699000,
+            "price": 699000,
+            "productId": "355470",
+            "rating": 4.6,
+            "reviews": 243,
+            "title": "Умные часы Smart Watch X7 Pro, T800 Pro Max, X8 Pro, LK8 Pro",
+            "url": "https://uzum.uz/ru/product/umnye-chasy-smart-355470"
+          },
+          {
+            "fullPrice": 199000,
+            "price": 189000,
+            "productId": "411753",
+            "rating": 2.8,
+            "reviews": 131,
+            "title": "Смарт-часы D20 Ultra, Y68 Ultra",
+            "url": "https://uzum.uz/ru/product/smartchasy-d20-ultra-y68-ultra-411753"
+          },
+          {
+            "fullPrice": 729000,
+            "price": 729000,
+            "productId": "433906",
+            "rating": 4.5,
+            "reviews": 223,
+            "title": "Умные часы Smart Watch Lk8 Pro, с экраном Retina, ремешок в подарок, 45 мм",
+            "url": "https://uzum.uz/ru/product/umnye-chasy-smart-433906"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Термокружки",
+      "category": "Дом и кухня",
+      "categoryPath": "Товары для дома / Термосы и термокружки",
+      "totalProducts": 1120,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 299000,
+            "price": 59990,
+            "productId": "397003",
+            "rating": 4.8,
+            "reviews": 143,
+            "title": "Термокружка \"Coffee\" для холодных и горячих напитков, в машину или на работу",
+            "url": "https://uzum.uz/ru/product/termokruzhka-coffee-dlya-397003"
+          },
+          {
+            "fullPrice": 150000,
+            "price": 150000,
+            "productId": "946",
+            "rating": 4.3,
+            "reviews": 3,
+            "title": "Спортивная бутылка Lamart LT4059, зелёная, 700 мл",
+            "url": "https://uzum.uz/ru/product/sportivnaya-butylka-lamart-lt4059-zelyonaya-700-946"
+          },
+          {
+            "fullPrice": 150000,
+            "price": 150000,
+            "productId": "945",
+            "rating": 5,
+            "reviews": 2,
+            "title": "Спортивная бутылка Lamart LT4058, синяя, 700 мл",
+            "url": "https://uzum.uz/ru/product/sportivnaya-butylka-lamart-lt4058-sinyaya-700-945"
+          },
+          {
+            "fullPrice": 150000,
+            "price": 150000,
+            "productId": "947",
+            "rating": 5,
+            "reviews": 3,
+            "title": "Спортивная бутылка Lamart LT4060, красная, 700 мл",
+            "url": "https://uzum.uz/ru/product/sportivnaya-butylka-lamart-lt4060-krasnaya-700-947"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Тональный крем",
+      "category": "Косметика",
+      "categoryPath": "Красота и уход / Макияж",
+      "totalProducts": 3765,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 148000,
+            "price": 27900,
+            "productId": "328258",
+            "rating": 4.7,
+            "reviews": 259,
+            "title": "Кушон тональный крем-пудра Magic Cushion SPF 50, BB крем, с запасным рефилом, 15 г",
+            "url": "https://uzum.uz/ru/product/kushon-tonalnyj-krempudra-328258"
+          },
+          {
+            "fullPrice": 145000,
+            "price": 29900,
+            "productId": "723493",
+            "rating": 4.5,
+            "reviews": 534,
+            "title": "Тональный крем, жидкая основа, выравнивает тон кожи, высокая стойкость, 30 мл",
+            "url": "https://uzum.uz/ru/product/tonalnyj-krem-zhidkaya-723493"
+          },
+          {
+            "fullPrice": 200000,
+            "price": 35900,
+            "productId": "757146",
+            "rating": 4.6,
+            "reviews": 1177,
+            "title": "Тональный крем Emelie, SPF 25, увлажняющий, матовый тон, 45 мл",
+            "url": "https://uzum.uz/ru/product/tonalnyj-krem-emelie-757146"
+          },
+          {
+            "fullPrice": 99000,
+            "price": 68000,
+            "productId": "26293",
+            "rating": 4.5,
+            "reviews": 102,
+            "title": "Тональный крем для лица, Sheep Placenta, светлый тон 01",
+            "url": "https://uzum.uz/ru/product/tonalnyj-krem-dlya-26293"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Тушь для ресниц",
+      "category": "Косметика",
+      "categoryPath": "Красота и уход / Макияж",
+      "totalProducts": 2198,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 70000,
+            "price": 33000,
+            "productId": "12755",
+            "rating": 4.7,
+            "reviews": 1094,
+            "title": "Тушь для ресниц QiBest, черная, влагостойкая, удлиняющая",
+            "url": "https://uzum.uz/ru/product/tush-dlya-resnic-12755"
+          },
+          {
+            "fullPrice": 250000,
+            "price": 18340,
+            "productId": "366540",
+            "rating": 4.7,
+            "reviews": 3960,
+            "title": "Чёрная тушь для ресниц, Yanqina, удлиняющая, водостойкая, профессиональная 4D волокна 2 в 1",
+            "url": "https://uzum.uz/ru/product/chyornaya-tush-dlya-366540"
+          },
+          {
+            "fullPrice": 150000,
+            "price": 21900,
+            "productId": "481763",
+            "rating": 4.7,
+            "reviews": 1235,
+            "title": "Тушь для ресниц две щеточки Kiss Beauty 3D эффект, удлинение и объем, черная, 9 мл",
+            "url": "https://uzum.uz/ru/product/tush-dlya-resnic-481763"
+          },
+          {
+            "fullPrice": 99000,
+            "price": 21900,
+            "productId": "363954",
+            "rating": 4.8,
+            "reviews": 442,
+            "title": "Тушь для ресниц 4D профессиональная, водостойкая, черная, 2 кисточки, 10 г",
+            "url": "https://uzum.uz/ru/product/tush-dlya-resnic-363954"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Увлажнители воздуха",
+      "category": "Дом и кухня",
+      "categoryPath": "Бытовая техника / Очищение и увлажнение воздуха",
+      "totalProducts": 837,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 1000000,
+            "price": 429000,
+            "productId": "624809",
+            "rating": 4.7,
+            "reviews": 601,
+            "title": "Humidifier 2 Lite, увлажнитель воздуха, ультразвуковой, 4 л, бесшумный, для дома, офиса",
+            "url": "https://uzum.uz/ru/product/humidifier-2-lite-624809"
+          },
+          {
+            "fullPrice": 350000,
+            "price": 99000,
+            "productId": "321199",
+            "rating": 4.5,
+            "reviews": 570,
+            "title": "Увлажнитель воздуха, с эффектом пламени, c разноцветной подсветкой, aромадиффузор для дома",
+            "url": "https://uzum.uz/ru/product/uvlazhnitel-vozdukha-s-321199"
+          },
+          {
+            "fullPrice": 147000,
+            "price": 70800,
+            "productId": "322457",
+            "rating": 4.6,
+            "reviews": 144,
+            "title": "Увлажнитель воздуха и ароматизатор для автомобиля и дома, ночник, сухой туман, 300 мл",
+            "url": "https://uzum.uz/ru/product/uvlazhnitel-vozdukha-i-322457"
+          },
+          {
+            "fullPrice": 759000,
+            "price": 529000,
+            "productId": "654781",
+            "rating": 4.9,
+            "reviews": 152,
+            "title": "Умный увлажнитель воздуха Xiaomi Mi Humidifier 2 Lite Global, с системой стерилизации",
+            "url": "https://uzum.uz/ru/product/umnyj-uvlazhnitel-vozdukha-654781"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    },
+    {
+      "label": "Видеорегистратор",
+      "category": "Авто-аксессуары",
+      "categoryPath": "Автотовары / Электроника для авто / Видеорегистраторы",
+      "totalProducts": 550,
+      "snapshotCount": 1,
+      "latest": {
+        "date": "2026-09-07",
+        "items": [
+          {
+            "fullPrice": 950000,
+            "price": 494000,
+            "productId": "300933",
+            "rating": 4.7,
+            "reviews": 230,
+            "title": "Видеорегистратор для автомобиля Lenovo V7, с малибу камерой, рыбий глаз",
+            "url": "https://uzum.uz/ru/product/videoregistrator-dlya-avtomobilya-300933"
+          },
+          {
+            "fullPrice": 870000,
+            "price": 549000,
+            "productId": "243575",
+            "rating": 4.5,
+            "reviews": 42,
+            "title": "Видеорегистратор Lenovo V7 plus Full HD",
+            "url": "https://uzum.uz/ru/product/videoregistrator-lenovo-v7-plus-full-hd-243575"
+          },
+          {
+            "fullPrice": 850000,
+            "price": 535000,
+            "productId": "314113",
+            "rating": 4.8,
+            "reviews": 17,
+            "title": "Видеорегистратор Lenovo V7 Plus FullHD",
+            "url": "https://uzum.uz/ru/product/videoregistrator-lenovo-v7-plus-fullhd-314113"
+          },
+          {
+            "fullPrice": 980000,
+            "price": 490000,
+            "productId": "751759",
+            "rating": 4,
+            "reviews": 23,
+            "title": "Видеорегистратор Xiaomi Mi Ecosystem Y6 / HR17 Dual",
+            "url": "https://uzum.uz/ru/product/videoregistrator-xiaomi-mi-751759"
+          }
+        ]
+      },
+      "prevReviewsByProductId": {}
+    }
+  ],
+  "cargo": [
+    {
+      "blocks": [],
+      "contact": "+998 55 515 07 00, info@cargo.uz",
+      "delivery": "уточнять у менеджера",
+      "goodFor": [],
+      "minShipment": null,
+      "name": "Cargo.uz",
+      "notes": "Крупный игрок на рынке Китай→Узбекистан, но сайт не публикует тарифы и ограничения — присылают расчёт по заявке.",
+      "rate": "Цены не публикуются — расчёт по заявке (ориентировочно $4-6/кг для сборных грузов по рынку)",
+      "restrictions": [
+        "Публичных данных о запрещённых категориях нет — уточнять напрямую"
+      ],
+      "url": "https://www.cargo.uz"
+    },
+    {
+      "blocks": [],
+      "contact": "cargotransit.ru",
+      "delivery": "неизвестно",
+      "goodFor": [],
+      "minShipment": null,
+      "name": "CargoTransit",
+      "notes": "Сайт не открылся при автоматической проверке.",
+      "rate": "не удалось проверить (сайт вернул ошибку доступа при автоматической проверке)",
+      "restrictions": [
+        "Нужна ручная проверка напрямую"
+      ],
+      "url": "https://cargotransit.ru/dostavka-iz-kitaya-v-uzbekistan/"
+    },
+    {
+      "blocks": [
+        "cosmetics",
+        "batteries"
+      ],
+      "contact": "uz.meest.cn",
+      "delivery": "~16 дней (отправка по средам)",
+      "goodFor": [
+        "clothing"
+      ],
+      "minShipment": "20 кг",
+      "name": "Meest China",
+      "notes": "НЕ подходит ни для косметики, ни для большинства электроники с радара (повербанки, наушники, видеорегистраторы) — только одежда/аксессуары/автозапчасти без электроники.",
+      "rate": "Одежда $5.5/кг; плотный груз (>170 кг/м³) $7/кг; лёгкий груз $1150/м³ + $0.5/кг местные расходы в Китае + 2% страховка",
+      "restrictions": [
+        "ЗАПРЕЩЕНО: косметика, эфирные масла, парфюмерия, любые жидкости",
+        "ЗАПРЕЩЕНО: батарейки и аккумуляторы всех типов",
+        "ЗАПРЕЩЕНО: электроника с SIM-картами, украшения, лекарства, оружие, контрафакт",
+        "Можно: одежда, обувь, сумки, игрушки без батареек, автозапчасти, спорттовары, пластик"
+      ],
+      "url": "https://uz.meest.cn"
+    },
+    {
+      "blocks": [],
+      "contact": "+998 91 795 55 56, info@pegaslogistics.uz",
+      "delivery": "Авиа 3-7 дней, авто 10-15 дней, ж/д 15-25 дней",
+      "goodFor": [
+        "bulk"
+      ],
+      "minShipment": null,
+      "name": "Pegasus Logistics",
+      "notes": "Больше заточены под крупные и контейнерные партии, чем под мелкий опт под один-два товара.",
+      "rate": "Авиа от $2.5-3/кг (до 500 кг); авто до 20 тонн; ж/д контейнер от $1500",
+      "restrictions": [
+        "Работают с опасными/химическими грузами по отдельным условиям — по косметике и батарейкам уточнять индивидуально"
+      ],
+      "url": "https://pegaslogistics.uz"
+    },
+    {
+      "blocks": [],
+      "contact": "transitpro.uz",
+      "delivery": "14-25 дней в зависимости от формата",
+      "goodFor": [
+        "clothing",
+        "bulk"
+      ],
+      "minShipment": "от 1 кг (посылка)",
+      "name": "Транзит Про (TransitPro)",
+      "notes": "Помогают и с самим закупом на 1688/Taobao/Alibaba, не только доставкой — по описанию ближе всего к тому, что нужно для старта.",
+      "rate": "Сборный груз от 10 кг: $3-6/кг (14-18 дней); посылки 1-10 кг: $8/кг (20-25 дней); от 1 куб.м: $90-140/куб.м (15-20 дней)",
+      "restrictions": [
+        "Ограничения по косметике и батарейкам на сайте не указаны — единственный из проверенных сервисов, который прямо ориентируется на продавцов Uzum и мелкий опт, стоит уточнить именно у них в первую очередь"
+      ],
+      "url": "https://transitpro.uz"
+    }
+  ]
 }
